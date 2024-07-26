@@ -46,7 +46,7 @@ jobs:
           tar zxf zola.tar.gz && mv zola /usr/local/bin
           cd output && zola build --base-url $BASE_URL
       - name: Setup Pages
-         uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v4
       - name: Upload artifact
         uses: actions/upload-pages-@v2
         with:
