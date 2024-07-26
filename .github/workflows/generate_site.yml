@@ -46,11 +46,11 @@ jobs:
           tar zxf zola.tar.gz && mv zola /usr/local/bin
           cd output && zola build --base-url $BASE_URL
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-@v4
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-@v2
         with:
           path: 'output/public'
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-@v3
