@@ -10,7 +10,7 @@ from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
 MD_HEAD = """## [Jaaleng"blog](https://jianghaiyina.com/)
-comMy personal blog([About Me](https://jianghaiyina.com/issues/1)) using issues and GitHub Actions (随意转载，无需署名)
+comMy personal blog([About Me](https://jianghaiyina.com/issues-1/)) using issues and GitHub Actions (随意转载，无需署名)
 """
 
 BACKUP_DIR = "BACKUP"
@@ -21,8 +21,8 @@ FRIENDS_LABELS = ["Friends"]
 ABOUT_LABELS = ["About"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS + ABOUT_LABELS
 
-FRIENDS_TABLE_HEAD = "| Name | Link | Desc | n | ---- | ---- | ---- |n"
-FRIENDS_TABLE_TEMPLATE = "| {name} | {link} | {desc} |n"
+FRIENDS_TABLE_HEAD = "| Name | Link | Desc | n | ---- | ---- | ---- |/n"
+FRIENDS_TABLE_TEMPLATE = "| {name} | {link} | {desc} |/n"
 FRIENDS_INFO_DICT = {
     "名字": "",
     "链接": "",
