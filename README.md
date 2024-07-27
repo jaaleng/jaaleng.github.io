@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [电视直播软件推荐三个，是安装在智能电视或电视盒子的](https://github.com/jaaleng/jaaleng.github.io/issues/9)--2024-07-27
 - [ 开源许可的种类与区别](https://github.com/jaaleng/jaaleng.github.io/issues/8)--2024-07-27
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 - [就是这个道理。](https://github.com/jaaleng/jaaleng.github.io/issues/6)--2024-07-27
 - [继Bootcdn之后，Goedge被官方通过jQueryJS投毒](https://github.com/jaaleng/jaaleng.github.io/issues/5)--2024-07-27
-- [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
 ## 一些记录
 - [ 开源许可的种类与区别](https://github.com/jaaleng/jaaleng.github.io/issues/8)--2024-07-27
 - [继Bootcdn之后，Goedge被官方通过jQueryJS投毒](https://github.com/jaaleng/jaaleng.github.io/issues/5)--2024-07-27
@@ -15,6 +15,7 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 ## 碎碎念
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 ## 生活
+- [电视直播软件推荐三个，是安装在智能电视或电视盒子的](https://github.com/jaaleng/jaaleng.github.io/issues/9)--2024-07-27
 - [就是这个道理。](https://github.com/jaaleng/jaaleng.github.io/issues/6)--2024-07-27
 - [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
 ## 随笔
