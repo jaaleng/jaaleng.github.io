@@ -9,8 +9,8 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [Jaaleng"blog](https://jianghaiyina.com/)
-comMy personal blog([About Me](https://jianghaiyina.com/issues-1/)) using issues and GitHub Actions (随意转载，无需署名)
+MD_HEAD = """## [Jaaleng"blog](https://jaaleng.github.io/)
+comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 """
 
 BACKUP_DIR = "BACKUP"
