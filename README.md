@@ -2,12 +2,13 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [一个大佬开发的仿朋友圈的极简微博，这个是多人版的](https://github.com/jaaleng/jaaleng.github.io/issues/12)--2024-07-27
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 - [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
 - [电视直播软件推荐三个，是安装在智能电视或电视盒子的](https://github.com/jaaleng/jaaleng.github.io/issues/9)--2024-07-27
 - [ 开源许可的种类与区别](https://github.com/jaaleng/jaaleng.github.io/issues/8)--2024-07-27
-- [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 ## 一些记录
+- [一个大佬开发的仿朋友圈的极简微博，这个是多人版的](https://github.com/jaaleng/jaaleng.github.io/issues/12)--2024-07-27
 - [ 开源许可的种类与区别](https://github.com/jaaleng/jaaleng.github.io/issues/8)--2024-07-27
 - [继Bootcdn之后，Goedge被官方通过jQueryJS投毒](https://github.com/jaaleng/jaaleng.github.io/issues/5)--2024-07-27
 - [Linux Mint 22 Wilma ](https://github.com/jaaleng/jaaleng.github.io/issues/3)--2024-07-27
@@ -15,6 +16,7 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 ## 天文
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 ## 正文
+- [一个大佬开发的仿朋友圈的极简微博，这个是多人版的](https://github.com/jaaleng/jaaleng.github.io/issues/12)--2024-07-27
 - [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
 ## 碎碎念
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
