@@ -2,16 +2,18 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
 - [电视直播软件推荐三个，是安装在智能电视或电视盒子的](https://github.com/jaaleng/jaaleng.github.io/issues/9)--2024-07-27
 - [ 开源许可的种类与区别](https://github.com/jaaleng/jaaleng.github.io/issues/8)--2024-07-27
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 - [就是这个道理。](https://github.com/jaaleng/jaaleng.github.io/issues/6)--2024-07-27
-- [继Bootcdn之后，Goedge被官方通过jQueryJS投毒](https://github.com/jaaleng/jaaleng.github.io/issues/5)--2024-07-27
 ## 一些记录
 - [ 开源许可的种类与区别](https://github.com/jaaleng/jaaleng.github.io/issues/8)--2024-07-27
 - [继Bootcdn之后，Goedge被官方通过jQueryJS投毒](https://github.com/jaaleng/jaaleng.github.io/issues/5)--2024-07-27
 - [Linux Mint 22 Wilma ](https://github.com/jaaleng/jaaleng.github.io/issues/3)--2024-07-27
 - [巴黎奥运会开幕式，来几个常用m3u直播源](https://github.com/jaaleng/jaaleng.github.io/issues/2)--2024-07-26
+## 正文
+- [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
 ## 碎碎念
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 ## 生活
