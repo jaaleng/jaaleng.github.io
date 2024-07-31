@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [Notion 终于要支持中文了！](https://github.com/jaaleng/jaaleng.github.io/issues/19)--2024-07-31
 - [转存用的网络服务](https://github.com/jaaleng/jaaleng.github.io/issues/18)--2024-07-31
 - [大一统+开源免费！Stability Matrix整合WebUI+ComfyUI等10多种流行包，傻瓜式操作](https://github.com/jaaleng/jaaleng.github.io/issues/17)--2024-07-31
 - [在Github上写博客？最简单的方法！](https://github.com/jaaleng/jaaleng.github.io/issues/16)--2024-07-30
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
-- [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
 ## 一些记录
+- [Notion 终于要支持中文了！](https://github.com/jaaleng/jaaleng.github.io/issues/19)--2024-07-31
 - [转存用的网络服务](https://github.com/jaaleng/jaaleng.github.io/issues/18)--2024-07-31
 - [大一统+开源免费！Stability Matrix整合WebUI+ComfyUI等10多种流行包，傻瓜式操作](https://github.com/jaaleng/jaaleng.github.io/issues/17)--2024-07-31
 - [在Github上写博客？最简单的方法！](https://github.com/jaaleng/jaaleng.github.io/issues/16)--2024-07-30
 - [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
-- [一个大佬开发的仿朋友圈的极简微博，这个是多人版的](https://github.com/jaaleng/jaaleng.github.io/issues/12)--2024-07-27
 <details><summary>显示更多</summary>
 
+- [一个大佬开发的仿朋友圈的极简微博，这个是多人版的](https://github.com/jaaleng/jaaleng.github.io/issues/12)--2024-07-27
 - [ 开源许可的种类与区别](https://github.com/jaaleng/jaaleng.github.io/issues/8)--2024-07-27
 - [继Bootcdn之后，Goedge被官方通过jQueryJS投毒](https://github.com/jaaleng/jaaleng.github.io/issues/5)--2024-07-27
 - [Linux Mint 22 Wilma ](https://github.com/jaaleng/jaaleng.github.io/issues/3)--2024-07-27
