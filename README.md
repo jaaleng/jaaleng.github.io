@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
 - [Notion 终于要支持中文了！](https://github.com/jaaleng/jaaleng.github.io/issues/19)--2024-07-31
 - [转存用的网络服务](https://github.com/jaaleng/jaaleng.github.io/issues/18)--2024-07-31
 - [大一统+开源免费！Stability Matrix整合WebUI+ComfyUI等10多种流行包，傻瓜式操作](https://github.com/jaaleng/jaaleng.github.io/issues/17)--2024-07-31
 - [在Github上写博客？最简单的方法！](https://github.com/jaaleng/jaaleng.github.io/issues/16)--2024-07-30
-- [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 ## 一些记录
+- [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
 - [Notion 终于要支持中文了！](https://github.com/jaaleng/jaaleng.github.io/issues/19)--2024-07-31
 - [转存用的网络服务](https://github.com/jaaleng/jaaleng.github.io/issues/18)--2024-07-31
 - [大一统+开源免费！Stability Matrix整合WebUI+ComfyUI等10多种流行包，傻瓜式操作](https://github.com/jaaleng/jaaleng.github.io/issues/17)--2024-07-31
 - [在Github上写博客？最简单的方法！](https://github.com/jaaleng/jaaleng.github.io/issues/16)--2024-07-30
-- [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
 <details><summary>显示更多</summary>
 
+- [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
 - [一个大佬开发的仿朋友圈的极简微博，这个是多人版的](https://github.com/jaaleng/jaaleng.github.io/issues/12)--2024-07-27
 - [ 开源许可的种类与区别](https://github.com/jaaleng/jaaleng.github.io/issues/8)--2024-07-27
 - [继Bootcdn之后，Goedge被官方通过jQueryJS投毒](https://github.com/jaaleng/jaaleng.github.io/issues/5)--2024-07-27
@@ -35,6 +36,7 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 ## 生活
+- [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
 - [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
 - [电视直播软件推荐三个，是安装在智能电视或电视盒子的](https://github.com/jaaleng/jaaleng.github.io/issues/9)--2024-07-27
 - [就是这个道理。](https://github.com/jaaleng/jaaleng.github.io/issues/6)--2024-07-27
