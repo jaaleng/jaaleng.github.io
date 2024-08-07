@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [电子绷带](https://github.com/jaaleng/jaaleng.github.io/issues/25)--2024-08-07
 - [香蕉遥控器](https://github.com/jaaleng/jaaleng.github.io/issues/24)--2024-08-07
 - [介绍个这样的网站](https://github.com/jaaleng/jaaleng.github.io/issues/23)--2024-08-03
 - [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 - [推荐单栏样式 卡片式设计 的现代 Hexo 主题](https://github.com/jaaleng/jaaleng.github.io/issues/21)--2024-08-02
-- [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
 ## 一些记录
+- [电子绷带](https://github.com/jaaleng/jaaleng.github.io/issues/25)--2024-08-07
 - [香蕉遥控器](https://github.com/jaaleng/jaaleng.github.io/issues/24)--2024-08-07
 - [推荐单栏样式 卡片式设计 的现代 Hexo 主题](https://github.com/jaaleng/jaaleng.github.io/issues/21)--2024-08-02
 - [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
 - [Notion 终于要支持中文了！](https://github.com/jaaleng/jaaleng.github.io/issues/19)--2024-07-31
-- [转存用的网络服务](https://github.com/jaaleng/jaaleng.github.io/issues/18)--2024-07-31
 <details><summary>显示更多</summary>
 
+- [转存用的网络服务](https://github.com/jaaleng/jaaleng.github.io/issues/18)--2024-07-31
 - [大一统+开源免费！Stability Matrix整合WebUI+ComfyUI等10多种流行包，傻瓜式操作](https://github.com/jaaleng/jaaleng.github.io/issues/17)--2024-07-31
 - [在Github上写博客？最简单的方法！](https://github.com/jaaleng/jaaleng.github.io/issues/16)--2024-07-30
 - [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
