@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
 - [可种植棺材](https://github.com/jaaleng/jaaleng.github.io/issues/27)--2024-08-07
 - [风力发电世界纪录](https://github.com/jaaleng/jaaleng.github.io/issues/26)--2024-08-07
 - [电子绷带](https://github.com/jaaleng/jaaleng.github.io/issues/25)--2024-08-07
 - [香蕉遥控器](https://github.com/jaaleng/jaaleng.github.io/issues/24)--2024-08-07
-- [介绍个这样的网站](https://github.com/jaaleng/jaaleng.github.io/issues/23)--2024-08-03
 ## 一些记录
+- [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
 - [可种植棺材](https://github.com/jaaleng/jaaleng.github.io/issues/27)--2024-08-07
 - [风力发电世界纪录](https://github.com/jaaleng/jaaleng.github.io/issues/26)--2024-08-07
 - [电子绷带](https://github.com/jaaleng/jaaleng.github.io/issues/25)--2024-08-07
 - [香蕉遥控器](https://github.com/jaaleng/jaaleng.github.io/issues/24)--2024-08-07
-- [推荐单栏样式 卡片式设计 的现代 Hexo 主题](https://github.com/jaaleng/jaaleng.github.io/issues/21)--2024-08-02
 <details><summary>显示更多</summary>
 
+- [推荐单栏样式 卡片式设计 的现代 Hexo 主题](https://github.com/jaaleng/jaaleng.github.io/issues/21)--2024-08-02
 - [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
 - [Notion 终于要支持中文了！](https://github.com/jaaleng/jaaleng.github.io/issues/19)--2024-07-31
 - [转存用的网络服务](https://github.com/jaaleng/jaaleng.github.io/issues/18)--2024-07-31
@@ -43,11 +44,16 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 ## 生活
+- [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
 - [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
 - [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
 - [电视直播软件推荐三个，是安装在智能电视或电视盒子的](https://github.com/jaaleng/jaaleng.github.io/issues/9)--2024-07-27
 - [就是这个道理。](https://github.com/jaaleng/jaaleng.github.io/issues/6)--2024-07-27
+<details><summary>显示更多</summary>
+
 - [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
+</details>
+
 ## 随笔
 - [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
