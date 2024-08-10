@@ -6,7 +6,7 @@ on:
       - backup
 
 env:
-  DEPLOY_REPO: HorizonChaser/jaaleng.github.io
+  DEPLOY_REPO: HorizonChaser/horizonchaser.github.io
   DEPLOY_BRANCH: gh-pages
 
 jobs:
@@ -47,18 +47,34 @@ jobs:
         npm install
         npm install hexo-bilibili-bangumi --save
 
-
+    - name: Hexo update bangumi and deploy
+      run: |
+        hexo clean
+        hexo bangumi -u
+        hexo d 
     
     - name: Sync to Gitee
       uses: wearerequired/git-mirror-action@master
       env:
           # 注意在 Settings->Secrets 配置 GITEE_RSA_PRIVATE_KEY
-          SSH_PRIVATE_KEY: ${{ secrets.TG_BOT_TOKEN }}
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
       with:
           # 注意替换为你的 GitHub 源仓库地址
-          source-repo: "git@github.com:HorizonChaser/jaaleng.github.io.g
+          source-repo: "git@github.com:HorizonChaser/horizonchaser.github.io.git"
+          # 注意替换为你的 Gitee 目标仓库地址
+          destination-repo: "git@gitee.com:horizonchaser/horizonchaser.git"
 
-
+    # No longer available since Gitee requires real-name registration and verification
+    # - name: Build Gitee Pages
+    #   uses: yanglbme/gitee-pages-action@master
+    #   with:
+    #       # 注意替换为你的 Gitee 用户名
+    #       gitee-username: HorizonChaser
+    #       # 注意在 Settings->Secrets 配置 GITEE_PASSWORD
+    #       gitee-password: ${{ secrets.GITEE_PASSWORD }}
+    #       # 注意替换为你的 Gitee 仓库
+    #       gitee-repo: horizonchaser
+    #       branch: gh-pages
 
     # - name: Get commit message
     #   id: commit
