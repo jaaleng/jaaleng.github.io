@@ -1,0 +1,17 @@
+name: Push TG Channel
+on:
+  push:
+    branches:
+      - main
+jobs:
+  Push:
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    env: 
+      botToken: ${{ secrets.TG_BOT_TOKEN }}
+    steps:
+      - name: Get Information & Push to Telegram Channel
+        run: |
+          commitMsg=`cat /home/runner/work/_temp/_github_workflow/event.json | jq -r '.commits[0].message'`
+          echo Commit message: $commitMsg
+          curl https://api.telegram.org/bot$botToken/sendMessage -XPOST -d 'chat_id=-1001638488826&text='$commitMsg''
