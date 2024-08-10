@@ -1,17 +1,125 @@
-name: Push TG Channel
-on:
+name: Bulid-Sync
+
+on: 
   push:
     branches:
-      - main
+      - backup
+
+env:
+  DEPLOY_REPO: HorizonChaser/jaaleng.github.io
+  DEPLOY_BRANCH: gh-pages
+
 jobs:
-  Push:
+  build-and-sync-and-send-nofiticiation:
+
     runs-on: ubuntu-latest
-    if: github.event.repository.owner.id == github.event.sender.id
-    env: 
-      botToken: ${{ secrets.TG_BOT_TOKEN }}
     steps:
-      - name: Get Information & Push to Telegram Channel
-        run: |
-          commitMsg=`cat /home/runner/work/_temp/_github_workflow/event.json | jq -r '.commits[0].message'`
-          echo Commit message: $commitMsg
-          curl https://api.telegram.org/bot$botToken/sendMessage -XPOST -d 'chat_id=-1001638488826&text='$commitMsg''
+
+    - name: Checkout source
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Checkout deploy repo
+      uses: actions/checkout@v2
+      with:
+        repository: ${{ env.DEPLOY_REPO }}
+        ref: ${{ env.DEPLOY_BRANCH }}
+        path: .deploy_git
+        fetch-depth: 0
+
+    - name: Use Node.js 14
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14'
+
+    - name: Setup hexo env
+      env:
+        ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_PRI }}
+      run: |
+        mkdir -p ~/.ssh/
+        echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+        git config --global user.email "ahorizonchaser@gmail.com"
+        git config --global user.name "HorizonChaser"
+        npm install hexo-cli -g
+        npm install
+        npm install hexo-bilibili-bangumi --save
+
+
+    
+    - name: Sync to Gitee
+      uses: wearerequired/git-mirror-action@master
+      env:
+          # 注意在 Settings->Secrets 配置 GITEE_RSA_PRIVATE_KEY
+          SSH_PRIVATE_KEY: ${{ secrets.TG_BOT_TOKEN }}
+      with:
+          # 注意替换为你的 GitHub 源仓库地址
+          source-repo: "git@github.com:HorizonChaser/jaaleng.github.io.g
+
+
+
+    # - name: Get commit message
+    #   id: commit
+    #   run: echo "::set-output name=commit_message::$(git log --format=%B -n 1 ${{ github.sha }})"
+    
+    # - name: Check commit message
+    #   id: check_message
+    #   run: |
+    #     if [[ "${{ steps.commit.outputs.commit_message }}" == *"upd post"* || " ${{ steps.commit.outputs.commit_message }}" == *"new post"* ]]; then
+    #       echo "::set-output name=should_notify::true"
+    #     else
+    #       echo "::set-output name=should_notify::false"
+    #     fi
+
+    # - uses: actions/setup-python@v5
+    #   with:
+    #     python-version: '3.10' 
+
+    # - name: Install Python libs
+    #   run: pip install gitpython python-telegram-bot
+
+    # - name: Get new post title with Python and send message
+    #   # if: steps.check_message.outputs.should_notify == 'true'
+    #   run: |
+    #     python - <<EOF
+    #     import os
+    #     import git
+    #     import telegram
+    #     import asyncio
+    #     repo = git.Repo(os.getcwd())
+    #     commit = repo.head.commit
+
+    #     def cmd(x): from subprocess import check_output as c; return c(x, shell=True, text=True)
+
+    #     # Check if the latest commit includes an md file
+    #     async def m():
+    #         if any(f.endswith('.md') for f in commit.stats.files.keys()):
+    #             # Load Telegram bot token from secrets
+    #             bot_token = os.environ['TELEGRAM_BOT_TOKEN']
+    #             chat_id = os.environ['TELEGRAM_CHAN_ID']
+    #             # Get the title of the latest commit's MD file
+    #             commit_files = commit.stats.files.keys()
+    #             md_files = [f for f in commit_files if f.endswith('.md')]
+    #             latest_md_file = md_files[-1]  # Assuming the latest MD file is the last one in the list
+    #             title = latest_md_file.split('/')[-1].split('.md')[0]
+    #             # Send message to Telegram channel
+    #             bot = telegram.Bot(token=bot_token)
+    #             print(title)
+    #             await bot.send_message(chat_id=chat_id, text=f'Horizon Blog 更新辣\!\n新的文章: {title}\n\nFrom [Horizon Blog](https://horizonchaser.github.io/)', parse_mode=telegram.constants.ParseMode.MARKDOWN_V2)
+        
+    #     if __name__ == "__main__":
+    #         asyncio.run(m())
+                     
+    #     EOF
+    #   env:
+    #     TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+    #     TELEGRAM_CHAN_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+
+#  with open("./source/_posts/" + title + ".md", "r") as f:
+#                 t = f.read().splitlines()
+#                 if len(t) >= 6 and t[1].strip().startswith("title:"):
+#                     title = t[1].strip().replace("title:", "")
+#                     exerpt = t[3].strip().replace("exerpt:", "")
+  
