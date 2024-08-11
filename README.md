@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [无叶片飞机](https://github.com/jaaleng/jaaleng.github.io/issues/31)--2024-08-11
 - [德雷克海峡](https://github.com/jaaleng/jaaleng.github.io/issues/30)--2024-08-10
 - [Archaeologists Unearth Buddha Statue in Ancient Egyptian Port City](https://github.com/jaaleng/jaaleng.github.io/issues/29)--2024-08-10
 - [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
 - [可种植棺材](https://github.com/jaaleng/jaaleng.github.io/issues/27)--2024-08-07
-- [风力发电世界纪录](https://github.com/jaaleng/jaaleng.github.io/issues/26)--2024-08-07
 ## 一些记录
+- [无叶片飞机](https://github.com/jaaleng/jaaleng.github.io/issues/31)--2024-08-11
 - [德雷克海峡](https://github.com/jaaleng/jaaleng.github.io/issues/30)--2024-08-10
 - [Archaeologists Unearth Buddha Statue in Ancient Egyptian Port City](https://github.com/jaaleng/jaaleng.github.io/issues/29)--2024-08-10
 - [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
 - [可种植棺材](https://github.com/jaaleng/jaaleng.github.io/issues/27)--2024-08-07
-- [风力发电世界纪录](https://github.com/jaaleng/jaaleng.github.io/issues/26)--2024-08-07
 <details><summary>显示更多</summary>
 
+- [风力发电世界纪录](https://github.com/jaaleng/jaaleng.github.io/issues/26)--2024-08-07
 - [电子绷带](https://github.com/jaaleng/jaaleng.github.io/issues/25)--2024-08-07
 - [香蕉遥控器](https://github.com/jaaleng/jaaleng.github.io/issues/24)--2024-08-07
 - [推荐单栏样式 卡片式设计 的现代 Hexo 主题](https://github.com/jaaleng/jaaleng.github.io/issues/21)--2024-08-02
