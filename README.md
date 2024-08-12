@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
 - [无叶片飞机](https://github.com/jaaleng/jaaleng.github.io/issues/31)--2024-08-11
 - [德雷克海峡](https://github.com/jaaleng/jaaleng.github.io/issues/30)--2024-08-10
 - [Archaeologists Unearth Buddha Statue in Ancient Egyptian Port City](https://github.com/jaaleng/jaaleng.github.io/issues/29)--2024-08-10
 - [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
-- [可种植棺材](https://github.com/jaaleng/jaaleng.github.io/issues/27)--2024-08-07
 ## 一些记录
+- [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
 - [无叶片飞机](https://github.com/jaaleng/jaaleng.github.io/issues/31)--2024-08-11
 - [德雷克海峡](https://github.com/jaaleng/jaaleng.github.io/issues/30)--2024-08-10
 - [Archaeologists Unearth Buddha Statue in Ancient Egyptian Port City](https://github.com/jaaleng/jaaleng.github.io/issues/29)--2024-08-10
 - [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
-- [可种植棺材](https://github.com/jaaleng/jaaleng.github.io/issues/27)--2024-08-07
 <details><summary>显示更多</summary>
 
+- [可种植棺材](https://github.com/jaaleng/jaaleng.github.io/issues/27)--2024-08-07
 - [风力发电世界纪录](https://github.com/jaaleng/jaaleng.github.io/issues/26)--2024-08-07
 - [电子绷带](https://github.com/jaaleng/jaaleng.github.io/issues/25)--2024-08-07
 - [香蕉遥控器](https://github.com/jaaleng/jaaleng.github.io/issues/24)--2024-08-07
@@ -58,6 +59,7 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 随笔
+- [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
 - [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
