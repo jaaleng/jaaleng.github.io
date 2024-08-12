@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [一家荷兰公司发明了单叶片的风力发电](https://github.com/jaaleng/jaaleng.github.io/issues/33)--2024-08-12
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
 - [无叶片飞机](https://github.com/jaaleng/jaaleng.github.io/issues/31)--2024-08-11
 - [德雷克海峡](https://github.com/jaaleng/jaaleng.github.io/issues/30)--2024-08-10
 - [Archaeologists Unearth Buddha Statue in Ancient Egyptian Port City](https://github.com/jaaleng/jaaleng.github.io/issues/29)--2024-08-10
-- [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
 ## 一些记录
+- [一家荷兰公司发明了单叶片的风力发电](https://github.com/jaaleng/jaaleng.github.io/issues/33)--2024-08-12
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
 - [无叶片飞机](https://github.com/jaaleng/jaaleng.github.io/issues/31)--2024-08-11
 - [德雷克海峡](https://github.com/jaaleng/jaaleng.github.io/issues/30)--2024-08-10
 - [Archaeologists Unearth Buddha Statue in Ancient Egyptian Port City](https://github.com/jaaleng/jaaleng.github.io/issues/29)--2024-08-10
-- [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
 <details><summary>显示更多</summary>
 
+- [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
 - [可种植棺材](https://github.com/jaaleng/jaaleng.github.io/issues/27)--2024-08-07
 - [风力发电世界纪录](https://github.com/jaaleng/jaaleng.github.io/issues/26)--2024-08-07
 - [电子绷带](https://github.com/jaaleng/jaaleng.github.io/issues/25)--2024-08-07
