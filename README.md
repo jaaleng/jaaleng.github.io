@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [维苏威古卷](https://github.com/jaaleng/jaaleng.github.io/issues/36)--2024-08-13
 - [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 - [一家荷兰公司发明了单叶片的风力发电](https://github.com/jaaleng/jaaleng.github.io/issues/33)--2024-08-12
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
-- [无叶片飞机](https://github.com/jaaleng/jaaleng.github.io/issues/31)--2024-08-11
 ## 一些记录
+- [维苏威古卷](https://github.com/jaaleng/jaaleng.github.io/issues/36)--2024-08-13
 - [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 - [一家荷兰公司发明了单叶片的风力发电](https://github.com/jaaleng/jaaleng.github.io/issues/33)--2024-08-12
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
-- [无叶片飞机](https://github.com/jaaleng/jaaleng.github.io/issues/31)--2024-08-11
 <details><summary>显示更多</summary>
 
+- [无叶片飞机](https://github.com/jaaleng/jaaleng.github.io/issues/31)--2024-08-11
 - [德雷克海峡](https://github.com/jaaleng/jaaleng.github.io/issues/30)--2024-08-10
 - [Archaeologists Unearth Buddha Statue in Ancient Egyptian Port City](https://github.com/jaaleng/jaaleng.github.io/issues/29)--2024-08-10
 - [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
@@ -40,11 +41,16 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 ## 正文
+- [维苏威古卷](https://github.com/jaaleng/jaaleng.github.io/issues/36)--2024-08-13
 - [转存用的网络服务](https://github.com/jaaleng/jaaleng.github.io/issues/18)--2024-07-31
 - [大一统+开源免费！Stability Matrix整合WebUI+ComfyUI等10多种流行包，傻瓜式操作](https://github.com/jaaleng/jaaleng.github.io/issues/17)--2024-07-31
 - [在Github上写博客？最简单的方法！](https://github.com/jaaleng/jaaleng.github.io/issues/16)--2024-07-30
 - [一个大佬开发的仿朋友圈的极简微博，这个是多人版的](https://github.com/jaaleng/jaaleng.github.io/issues/12)--2024-07-27
+<details><summary>显示更多</summary>
+
 - [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
+</details>
+
 ## 碎碎念
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 - [介绍个这样的网站](https://github.com/jaaleng/jaaleng.github.io/issues/23)--2024-08-03
