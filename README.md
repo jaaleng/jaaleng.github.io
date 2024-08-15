@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
 - [Telegram CEO发文庆祝Telegram成立11周年](https://github.com/jaaleng/jaaleng.github.io/issues/37)--2024-08-14
 - [维苏威古卷](https://github.com/jaaleng/jaaleng.github.io/issues/36)--2024-08-13
 - [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
-- [一家荷兰公司发明了单叶片的风力发电](https://github.com/jaaleng/jaaleng.github.io/issues/33)--2024-08-12
 ## 一些记录
 - [Telegram CEO发文庆祝Telegram成立11周年](https://github.com/jaaleng/jaaleng.github.io/issues/37)--2024-08-14
 - [维苏威古卷](https://github.com/jaaleng/jaaleng.github.io/issues/36)--2024-08-13
@@ -42,13 +42,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 ## 正文
+- [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
 - [Telegram CEO发文庆祝Telegram成立11周年](https://github.com/jaaleng/jaaleng.github.io/issues/37)--2024-08-14
 - [维苏威古卷](https://github.com/jaaleng/jaaleng.github.io/issues/36)--2024-08-13
 - [转存用的网络服务](https://github.com/jaaleng/jaaleng.github.io/issues/18)--2024-07-31
 - [大一统+开源免费！Stability Matrix整合WebUI+ComfyUI等10多种流行包，傻瓜式操作](https://github.com/jaaleng/jaaleng.github.io/issues/17)--2024-07-31
-- [在Github上写博客？最简单的方法！](https://github.com/jaaleng/jaaleng.github.io/issues/16)--2024-07-30
 <details><summary>显示更多</summary>
 
+- [在Github上写博客？最简单的方法！](https://github.com/jaaleng/jaaleng.github.io/issues/16)--2024-07-30
 - [一个大佬开发的仿朋友圈的极简微博，这个是多人版的](https://github.com/jaaleng/jaaleng.github.io/issues/12)--2024-07-27
 - [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
 </details>
@@ -60,13 +61,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 ## 生活
+- [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
 - [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 - [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
 - [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
-- [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
 <details><summary>显示更多</summary>
 
+- [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
 - [电视直播软件推荐三个，是安装在智能电视或电视盒子的](https://github.com/jaaleng/jaaleng.github.io/issues/9)--2024-07-27
 - [就是这个道理。](https://github.com/jaaleng/jaaleng.github.io/issues/6)--2024-07-27
 - [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
