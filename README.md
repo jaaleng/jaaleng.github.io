@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [新疆喀什的阿图什天门景区](https://github.com/jaaleng/jaaleng.github.io/issues/41)--2024-08-18
 - [快递电动小车](https://github.com/jaaleng/jaaleng.github.io/issues/40)--2024-08-17
 - [广州番禺有个巨无霸地铁站，](https://github.com/jaaleng/jaaleng.github.io/issues/39)--2024-08-16
 - [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
 - [Telegram CEO发文庆祝Telegram成立11周年](https://github.com/jaaleng/jaaleng.github.io/issues/37)--2024-08-14
-- [维苏威古卷](https://github.com/jaaleng/jaaleng.github.io/issues/36)--2024-08-13
 ## 一些记录
+- [新疆喀什的阿图什天门景区](https://github.com/jaaleng/jaaleng.github.io/issues/41)--2024-08-18
 - [快递电动小车](https://github.com/jaaleng/jaaleng.github.io/issues/40)--2024-08-17
 - [广州番禺有个巨无霸地铁站，](https://github.com/jaaleng/jaaleng.github.io/issues/39)--2024-08-16
 - [Telegram CEO发文庆祝Telegram成立11周年](https://github.com/jaaleng/jaaleng.github.io/issues/37)--2024-08-14
 - [维苏威古卷](https://github.com/jaaleng/jaaleng.github.io/issues/36)--2024-08-13
-- [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
 <details><summary>显示更多</summary>
 
+- [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 - [一家荷兰公司发明了单叶片的风力发电](https://github.com/jaaleng/jaaleng.github.io/issues/33)--2024-08-12
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
