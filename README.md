@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
 - [秘鲁首都利马,悬崖之上](https://github.com/jaaleng/jaaleng.github.io/issues/43)--2024-08-20
 - [自制躺式电脑椅](https://github.com/jaaleng/jaaleng.github.io/issues/42)--2024-08-19
 - [新疆喀什的阿图什天门景区](https://github.com/jaaleng/jaaleng.github.io/issues/41)--2024-08-18
 - [快递电动小车](https://github.com/jaaleng/jaaleng.github.io/issues/40)--2024-08-17
-- [广州番禺有个巨无霸地铁站，](https://github.com/jaaleng/jaaleng.github.io/issues/39)--2024-08-16
 ## 一些记录
+- [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
 - [秘鲁首都利马,悬崖之上](https://github.com/jaaleng/jaaleng.github.io/issues/43)--2024-08-20
 - [自制躺式电脑椅](https://github.com/jaaleng/jaaleng.github.io/issues/42)--2024-08-19
 - [新疆喀什的阿图什天门景区](https://github.com/jaaleng/jaaleng.github.io/issues/41)--2024-08-18
 - [快递电动小车](https://github.com/jaaleng/jaaleng.github.io/issues/40)--2024-08-17
-- [广州番禺有个巨无霸地铁站，](https://github.com/jaaleng/jaaleng.github.io/issues/39)--2024-08-16
 <details><summary>显示更多</summary>
 
+- [广州番禺有个巨无霸地铁站，](https://github.com/jaaleng/jaaleng.github.io/issues/39)--2024-08-16
 - [Telegram CEO发文庆祝Telegram成立11周年](https://github.com/jaaleng/jaaleng.github.io/issues/37)--2024-08-14
 - [维苏威古卷](https://github.com/jaaleng/jaaleng.github.io/issues/36)--2024-08-13
 - [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
@@ -68,13 +69,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 ## 生活
+- [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
 - [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
 - [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 - [钛心脏](https://github.com/jaaleng/jaaleng.github.io/issues/28)--2024-08-08
-- [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
 <details><summary>显示更多</summary>
 
+- [天宝十载（751年）正月，安禄山生日](https://github.com/jaaleng/jaaleng.github.io/issues/20)--2024-08-01
 - [影视TV](https://github.com/jaaleng/jaaleng.github.io/issues/14)--2024-07-28
 - [电视直播软件推荐三个，是安装在智能电视或电视盒子的](https://github.com/jaaleng/jaaleng.github.io/issues/9)--2024-07-27
 - [就是这个道理。](https://github.com/jaaleng/jaaleng.github.io/issues/6)--2024-07-27
