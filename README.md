@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [AR 笔记本](https://github.com/jaaleng/jaaleng.github.io/issues/47)--2024-08-24
 - [Stephen Wilkes’ Stunning Day to Night Images Capture a Fully New Perspective](https://github.com/jaaleng/jaaleng.github.io/issues/46)--2024-08-23
 - [电源开关符号的演变](https://github.com/jaaleng/jaaleng.github.io/issues/45)--2024-08-23
 - [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
 - [秘鲁首都利马,悬崖之上](https://github.com/jaaleng/jaaleng.github.io/issues/43)--2024-08-20
-- [自制躺式电脑椅](https://github.com/jaaleng/jaaleng.github.io/issues/42)--2024-08-19
 ## 一些记录
+- [AR 笔记本](https://github.com/jaaleng/jaaleng.github.io/issues/47)--2024-08-24
 - [Stephen Wilkes’ Stunning Day to Night Images Capture a Fully New Perspective](https://github.com/jaaleng/jaaleng.github.io/issues/46)--2024-08-23
 - [电源开关符号的演变](https://github.com/jaaleng/jaaleng.github.io/issues/45)--2024-08-23
 - [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
 - [秘鲁首都利马,悬崖之上](https://github.com/jaaleng/jaaleng.github.io/issues/43)--2024-08-20
-- [自制躺式电脑椅](https://github.com/jaaleng/jaaleng.github.io/issues/42)--2024-08-19
 <details><summary>显示更多</summary>
 
+- [自制躺式电脑椅](https://github.com/jaaleng/jaaleng.github.io/issues/42)--2024-08-19
 - [新疆喀什的阿图什天门景区](https://github.com/jaaleng/jaaleng.github.io/issues/41)--2024-08-18
 - [快递电动小车](https://github.com/jaaleng/jaaleng.github.io/issues/40)--2024-08-17
 - [广州番禺有个巨无霸地铁站，](https://github.com/jaaleng/jaaleng.github.io/issues/39)--2024-08-16
