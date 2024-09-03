@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [Typr 是一个类似 Medium 的 React 写作编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/55)--2024-09-03
 - [证书防伪](https://github.com/jaaleng/jaaleng.github.io/issues/54)--2024-09-02
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
 - [我的期待是什么？](https://github.com/jaaleng/jaaleng.github.io/issues/52)--2024-08-30
 - [冷管降温](https://github.com/jaaleng/jaaleng.github.io/issues/51)--2024-08-29
-- [鲸鲨的确切年龄](https://github.com/jaaleng/jaaleng.github.io/issues/50)--2024-08-28
 ## 一些记录
+- [Typr 是一个类似 Medium 的 React 写作编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/55)--2024-09-03
 - [证书防伪](https://github.com/jaaleng/jaaleng.github.io/issues/54)--2024-09-02
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
 - [冷管降温](https://github.com/jaaleng/jaaleng.github.io/issues/51)--2024-08-29
 - [巴黎工艺品博物馆](https://github.com/jaaleng/jaaleng.github.io/issues/49)--2024-08-27
-- [彼得·蒂尔的实验](https://github.com/jaaleng/jaaleng.github.io/issues/48)--2024-08-25
 <details><summary>显示更多</summary>
 
+- [彼得·蒂尔的实验](https://github.com/jaaleng/jaaleng.github.io/issues/48)--2024-08-25
 - [AR 笔记本](https://github.com/jaaleng/jaaleng.github.io/issues/47)--2024-08-24
 - [Stephen Wilkes’ Stunning Day to Night Images Capture a Fully New Perspective](https://github.com/jaaleng/jaaleng.github.io/issues/46)--2024-08-23
 - [电源开关符号的演变](https://github.com/jaaleng/jaaleng.github.io/issues/45)--2024-08-23
@@ -56,13 +57,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 ## 正文
+- [Typr 是一个类似 Medium 的 React 写作编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/55)--2024-09-03
 - [证书防伪](https://github.com/jaaleng/jaaleng.github.io/issues/54)--2024-09-02
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
 - [鲸鲨的确切年龄](https://github.com/jaaleng/jaaleng.github.io/issues/50)--2024-08-28
 - [巴黎工艺品博物馆](https://github.com/jaaleng/jaaleng.github.io/issues/49)--2024-08-27
-- [自制躺式电脑椅](https://github.com/jaaleng/jaaleng.github.io/issues/42)--2024-08-19
 <details><summary>显示更多</summary>
 
+- [自制躺式电脑椅](https://github.com/jaaleng/jaaleng.github.io/issues/42)--2024-08-19
 - [广州番禺有个巨无霸地铁站，](https://github.com/jaaleng/jaaleng.github.io/issues/39)--2024-08-16
 - [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
 - [Telegram CEO发文庆祝Telegram成立11周年](https://github.com/jaaleng/jaaleng.github.io/issues/37)--2024-08-14
