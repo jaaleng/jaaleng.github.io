@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [Typr 是一个类似 Medium 的 React 写作编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/55)--2024-09-03
 - [证书防伪](https://github.com/jaaleng/jaaleng.github.io/issues/54)--2024-09-02
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
 - [我的期待是什么？](https://github.com/jaaleng/jaaleng.github.io/issues/52)--2024-08-30
-- [冷管降温](https://github.com/jaaleng/jaaleng.github.io/issues/51)--2024-08-29
 ## 一些记录
 - [Typr 是一个类似 Medium 的 React 写作编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/55)--2024-09-03
 - [证书防伪](https://github.com/jaaleng/jaaleng.github.io/issues/54)--2024-09-02
@@ -57,13 +57,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 ## 正文
+- [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [Typr 是一个类似 Medium 的 React 写作编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/55)--2024-09-03
 - [证书防伪](https://github.com/jaaleng/jaaleng.github.io/issues/54)--2024-09-02
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
 - [鲸鲨的确切年龄](https://github.com/jaaleng/jaaleng.github.io/issues/50)--2024-08-28
-- [巴黎工艺品博物馆](https://github.com/jaaleng/jaaleng.github.io/issues/49)--2024-08-27
 <details><summary>显示更多</summary>
 
+- [巴黎工艺品博物馆](https://github.com/jaaleng/jaaleng.github.io/issues/49)--2024-08-27
 - [自制躺式电脑椅](https://github.com/jaaleng/jaaleng.github.io/issues/42)--2024-08-19
 - [广州番禺有个巨无霸地铁站，](https://github.com/jaaleng/jaaleng.github.io/issues/39)--2024-08-16
 - [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
@@ -77,13 +78,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 碎碎念
+- [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
 - [我的期待是什么？](https://github.com/jaaleng/jaaleng.github.io/issues/52)--2024-08-30
 - [冷管降温](https://github.com/jaaleng/jaaleng.github.io/issues/51)--2024-08-29
 - [彼得·蒂尔的实验](https://github.com/jaaleng/jaaleng.github.io/issues/48)--2024-08-25
-- [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 <details><summary>显示更多</summary>
 
+- [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 - [介绍个这样的网站](https://github.com/jaaleng/jaaleng.github.io/issues/23)--2024-08-03
 - [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
@@ -107,6 +109,7 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 随笔
+- [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
 - [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
