@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [扮成土星的月亮  ](https://github.com/jaaleng/jaaleng.github.io/issues/57)--2024-09-05
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [Typr 是一个类似 Medium 的 React 写作编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/55)--2024-09-03
 - [证书防伪](https://github.com/jaaleng/jaaleng.github.io/issues/54)--2024-09-02
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
-- [我的期待是什么？](https://github.com/jaaleng/jaaleng.github.io/issues/52)--2024-08-30
 ## 一些记录
 - [Typr 是一个类似 Medium 的 React 写作编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/55)--2024-09-03
 - [证书防伪](https://github.com/jaaleng/jaaleng.github.io/issues/54)--2024-09-02
@@ -54,6 +54,7 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 天文
+- [扮成土星的月亮  ](https://github.com/jaaleng/jaaleng.github.io/issues/57)--2024-09-05
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 ## 正文
