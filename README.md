@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [一款安卓应用安装包管理器](https://github.com/jaaleng/jaaleng.github.io/issues/70)--2024-09-20
 - [美人鱼 星云](https://github.com/jaaleng/jaaleng.github.io/issues/69)--2024-09-19
 - [提升Cursor AI代码编辑体验而精选](https://github.com/jaaleng/jaaleng.github.io/issues/68)--2024-09-18
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
 - [很多项目可以通过docker进行部署](https://github.com/jaaleng/jaaleng.github.io/issues/66)--2024-09-14
-- [开源 Web 思维导图工具](https://github.com/jaaleng/jaaleng.github.io/issues/65)--2024-09-13
 ## 一些记录
+- [一款安卓应用安装包管理器](https://github.com/jaaleng/jaaleng.github.io/issues/70)--2024-09-20
 - [提升Cursor AI代码编辑体验而精选](https://github.com/jaaleng/jaaleng.github.io/issues/68)--2024-09-18
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
 - [很多项目可以通过docker进行部署](https://github.com/jaaleng/jaaleng.github.io/issues/66)--2024-09-14
 - [开源 Web 思维导图工具](https://github.com/jaaleng/jaaleng.github.io/issues/65)--2024-09-13
-- [那些被发明的“外国菜”](https://github.com/jaaleng/jaaleng.github.io/issues/64)--2024-09-12
 <details><summary>显示更多</summary>
 
+- [那些被发明的“外国菜”](https://github.com/jaaleng/jaaleng.github.io/issues/64)--2024-09-12
 - [利用大型语言模型增量构建知识图谱的工具](https://github.com/jaaleng/jaaleng.github.io/issues/63)--2024-09-11
 - [巧妙的灯泡钟](https://github.com/jaaleng/jaaleng.github.io/issues/61)--2024-09-09
 - [一个鱼缸](https://github.com/jaaleng/jaaleng.github.io/issues/60)--2024-09-08
@@ -69,13 +70,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 ## 正文
+- [一款安卓应用安装包管理器](https://github.com/jaaleng/jaaleng.github.io/issues/70)--2024-09-20
 - [美人鱼 星云](https://github.com/jaaleng/jaaleng.github.io/issues/69)--2024-09-19
 - [提升Cursor AI代码编辑体验而精选](https://github.com/jaaleng/jaaleng.github.io/issues/68)--2024-09-18
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
 - [很多项目可以通过docker进行部署](https://github.com/jaaleng/jaaleng.github.io/issues/66)--2024-09-14
-- [开源 Web 思维导图工具](https://github.com/jaaleng/jaaleng.github.io/issues/65)--2024-09-13
 <details><summary>显示更多</summary>
 
+- [开源 Web 思维导图工具](https://github.com/jaaleng/jaaleng.github.io/issues/65)--2024-09-13
 - [利用大型语言模型增量构建知识图谱的工具](https://github.com/jaaleng/jaaleng.github.io/issues/63)--2024-09-11
 - [AI赋能，语言无界](https://github.com/jaaleng/jaaleng.github.io/issues/62)--2024-09-10
 - [一个在线计算器工具大全](https://github.com/jaaleng/jaaleng.github.io/issues/58)--2024-09-06
