@@ -15,8 +15,4 @@
 
 基准测试只是基准测试，并不总能准确反映实际性能，具体还要等待新iPhone 16机型发售之后实测才能更深入了解。
 
-via [ZiRCON](https://t.me/Zircon10086)
 
-🗒 标签: #Apple
-📢 频道: @GodlyNews1
-🤖 投稿: @GodlyNewsBot
