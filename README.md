@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [一款安卓应用安装包管理器](https://github.com/jaaleng/jaaleng.github.io/issues/70)--2024-09-20
 - [美人鱼 星云](https://github.com/jaaleng/jaaleng.github.io/issues/69)--2024-09-19
 - [提升Cursor AI代码编辑体验而精选](https://github.com/jaaleng/jaaleng.github.io/issues/68)--2024-09-18
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
-- [很多项目可以通过docker进行部署](https://github.com/jaaleng/jaaleng.github.io/issues/66)--2024-09-14
 ## 一些记录
+- [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [一款安卓应用安装包管理器](https://github.com/jaaleng/jaaleng.github.io/issues/70)--2024-09-20
 - [提升Cursor AI代码编辑体验而精选](https://github.com/jaaleng/jaaleng.github.io/issues/68)--2024-09-18
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
 - [很多项目可以通过docker进行部署](https://github.com/jaaleng/jaaleng.github.io/issues/66)--2024-09-14
-- [开源 Web 思维导图工具](https://github.com/jaaleng/jaaleng.github.io/issues/65)--2024-09-13
 <details><summary>显示更多</summary>
 
+- [开源 Web 思维导图工具](https://github.com/jaaleng/jaaleng.github.io/issues/65)--2024-09-13
 - [那些被发明的“外国菜”](https://github.com/jaaleng/jaaleng.github.io/issues/64)--2024-09-12
 - [利用大型语言模型增量构建知识图谱的工具](https://github.com/jaaleng/jaaleng.github.io/issues/63)--2024-09-11
 - [巧妙的灯泡钟](https://github.com/jaaleng/jaaleng.github.io/issues/61)--2024-09-09
@@ -115,13 +116,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 生活
+- [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
 - [那些被发明的“外国菜”](https://github.com/jaaleng/jaaleng.github.io/issues/64)--2024-09-12
 - [一个鱼缸](https://github.com/jaaleng/jaaleng.github.io/issues/60)--2024-09-08
 - [电源开关符号的演变](https://github.com/jaaleng/jaaleng.github.io/issues/45)--2024-08-23
-- [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
 <details><summary>显示更多</summary>
 
+- [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
 - [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
 - [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
