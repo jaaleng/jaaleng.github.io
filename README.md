@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
 - [OpenAI 推出 ChatGPT 进阶语音功能](https://github.com/jaaleng/jaaleng.github.io/issues/77)--2024-09-27
 - [Telegram的安全性分析](https://github.com/jaaleng/jaaleng.github.io/issues/76)--2024-09-26
 - [火星的二氧化碳](https://github.com/jaaleng/jaaleng.github.io/issues/75)--2024-09-25
 - [开源SSL证书管理工具](https://github.com/jaaleng/jaaleng.github.io/issues/74)--2024-09-24
-- [Stack Auth – 开源的用户认证与管理平台](https://github.com/jaaleng/jaaleng.github.io/issues/73)--2024-09-23
 ## 一些记录
 - [Telegram的安全性分析](https://github.com/jaaleng/jaaleng.github.io/issues/76)--2024-09-26
 - [开源SSL证书管理工具](https://github.com/jaaleng/jaaleng.github.io/issues/74)--2024-09-24
@@ -111,13 +111,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 碎碎念
+- [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
 - [我的期待是什么？](https://github.com/jaaleng/jaaleng.github.io/issues/52)--2024-08-30
 - [冷管降温](https://github.com/jaaleng/jaaleng.github.io/issues/51)--2024-08-29
-- [彼得·蒂尔的实验](https://github.com/jaaleng/jaaleng.github.io/issues/48)--2024-08-25
 <details><summary>显示更多</summary>
 
+- [彼得·蒂尔的实验](https://github.com/jaaleng/jaaleng.github.io/issues/48)--2024-08-25
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 - [介绍个这样的网站](https://github.com/jaaleng/jaaleng.github.io/issues/23)--2024-08-03
 - [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
