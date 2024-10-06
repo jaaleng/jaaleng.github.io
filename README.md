@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
 - [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
 - [OpenAI 推出 ChatGPT 进阶语音功能](https://github.com/jaaleng/jaaleng.github.io/issues/77)--2024-09-27
 - [Telegram的安全性分析](https://github.com/jaaleng/jaaleng.github.io/issues/76)--2024-09-26
 - [火星的二氧化碳](https://github.com/jaaleng/jaaleng.github.io/issues/75)--2024-09-25
-- [开源SSL证书管理工具](https://github.com/jaaleng/jaaleng.github.io/issues/74)--2024-09-24
 ## 一些记录
 - [Telegram的安全性分析](https://github.com/jaaleng/jaaleng.github.io/issues/76)--2024-09-26
 - [开源SSL证书管理工具](https://github.com/jaaleng/jaaleng.github.io/issues/74)--2024-09-24
@@ -127,13 +127,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 生活
+- [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
 - [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
 - [那些被发明的“外国菜”](https://github.com/jaaleng/jaaleng.github.io/issues/64)--2024-09-12
 - [一个鱼缸](https://github.com/jaaleng/jaaleng.github.io/issues/60)--2024-09-08
-- [电源开关符号的演变](https://github.com/jaaleng/jaaleng.github.io/issues/45)--2024-08-23
 <details><summary>显示更多</summary>
 
+- [电源开关符号的演变](https://github.com/jaaleng/jaaleng.github.io/issues/45)--2024-08-23
 - [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
 - [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
 - [零度国境线](https://github.com/jaaleng/jaaleng.github.io/issues/35)--2024-08-12
