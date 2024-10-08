@@ -2,21 +2,22 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [OpenAI 宣布推出类似 Anthropic 的 Artifacts 的应用 canvas](https://github.com/jaaleng/jaaleng.github.io/issues/81)--2024-10-07
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 - [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
 - [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
-- [OpenAI 推出 ChatGPT 进阶语音功能](https://github.com/jaaleng/jaaleng.github.io/issues/77)--2024-09-27
 ## 2024
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 ## 一些记录
+- [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [OpenAI 宣布推出类似 Anthropic 的 Artifacts 的应用 canvas](https://github.com/jaaleng/jaaleng.github.io/issues/81)--2024-10-07
 - [Telegram的安全性分析](https://github.com/jaaleng/jaaleng.github.io/issues/76)--2024-09-26
 - [开源SSL证书管理工具](https://github.com/jaaleng/jaaleng.github.io/issues/74)--2024-09-24
 - [World in Dots – 一键生成点状地图](https://github.com/jaaleng/jaaleng.github.io/issues/72)--2024-09-22
-- [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 <details><summary>显示更多</summary>
 
+- [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [一款安卓应用安装包管理器](https://github.com/jaaleng/jaaleng.github.io/issues/70)--2024-09-20
 - [提升Cursor AI代码编辑体验而精选](https://github.com/jaaleng/jaaleng.github.io/issues/68)--2024-09-18
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
@@ -116,13 +117,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 碎碎念
+- [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
 - [我的期待是什么？](https://github.com/jaaleng/jaaleng.github.io/issues/52)--2024-08-30
-- [冷管降温](https://github.com/jaaleng/jaaleng.github.io/issues/51)--2024-08-29
 <details><summary>显示更多</summary>
 
+- [冷管降温](https://github.com/jaaleng/jaaleng.github.io/issues/51)--2024-08-29
 - [彼得·蒂尔的实验](https://github.com/jaaleng/jaaleng.github.io/issues/48)--2024-08-25
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
 - [介绍个这样的网站](https://github.com/jaaleng/jaaleng.github.io/issues/23)--2024-08-03
