@@ -2,21 +2,22 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [Meta 宣布将其 AI 功能扩展到 21 个新国家](https://github.com/jaaleng/jaaleng.github.io/issues/84)--2024-10-13
 - [杜罗夫发布长文，讲述其创业历程](https://github.com/jaaleng/jaaleng.github.io/issues/83)--2024-10-12
 - [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [OpenAI 宣布推出类似 Anthropic 的 Artifacts 的应用 canvas](https://github.com/jaaleng/jaaleng.github.io/issues/81)--2024-10-07
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
-- [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
 ## 2024
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 ## 一些记录
+- [Meta 宣布将其 AI 功能扩展到 21 个新国家](https://github.com/jaaleng/jaaleng.github.io/issues/84)--2024-10-13
 - [杜罗夫发布长文，讲述其创业历程](https://github.com/jaaleng/jaaleng.github.io/issues/83)--2024-10-12
 - [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [OpenAI 宣布推出类似 Anthropic 的 Artifacts 的应用 canvas](https://github.com/jaaleng/jaaleng.github.io/issues/81)--2024-10-07
 - [Telegram的安全性分析](https://github.com/jaaleng/jaaleng.github.io/issues/76)--2024-09-26
-- [开源SSL证书管理工具](https://github.com/jaaleng/jaaleng.github.io/issues/74)--2024-09-24
 <details><summary>显示更多</summary>
 
+- [开源SSL证书管理工具](https://github.com/jaaleng/jaaleng.github.io/issues/74)--2024-09-24
 - [World in Dots – 一键生成点状地图](https://github.com/jaaleng/jaaleng.github.io/issues/72)--2024-09-22
 - [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [一款安卓应用安装包管理器](https://github.com/jaaleng/jaaleng.github.io/issues/70)--2024-09-20
@@ -80,13 +81,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 ## 正文
+- [Meta 宣布将其 AI 功能扩展到 21 个新国家](https://github.com/jaaleng/jaaleng.github.io/issues/84)--2024-10-13
 - [杜罗夫发布长文，讲述其创业历程](https://github.com/jaaleng/jaaleng.github.io/issues/83)--2024-10-12
 - [OpenAI 宣布推出类似 Anthropic 的 Artifacts 的应用 canvas](https://github.com/jaaleng/jaaleng.github.io/issues/81)--2024-10-07
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 - [OpenAI 推出 ChatGPT 进阶语音功能](https://github.com/jaaleng/jaaleng.github.io/issues/77)--2024-09-27
-- [Telegram的安全性分析](https://github.com/jaaleng/jaaleng.github.io/issues/76)--2024-09-26
 <details><summary>显示更多</summary>
 
+- [Telegram的安全性分析](https://github.com/jaaleng/jaaleng.github.io/issues/76)--2024-09-26
 - [火星的二氧化碳](https://github.com/jaaleng/jaaleng.github.io/issues/75)--2024-09-25
 - [开源SSL证书管理工具](https://github.com/jaaleng/jaaleng.github.io/issues/74)--2024-09-24
 - [Stack Auth – 开源的用户认证与管理平台](https://github.com/jaaleng/jaaleng.github.io/issues/73)--2024-09-23
