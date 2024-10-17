@@ -2,21 +2,22 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 - [个人书籍库搭建](https://github.com/jaaleng/jaaleng.github.io/issues/86)--2024-10-17
 - [免费域名可托管CF](https://github.com/jaaleng/jaaleng.github.io/issues/85)--2024-10-17
 - [Meta 宣布将其 AI 功能扩展到 21 个新国家](https://github.com/jaaleng/jaaleng.github.io/issues/84)--2024-10-13
 - [杜罗夫发布长文，讲述其创业历程](https://github.com/jaaleng/jaaleng.github.io/issues/83)--2024-10-12
-- [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 ## 2024
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 ## 一些记录
+- [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 - [个人书籍库搭建](https://github.com/jaaleng/jaaleng.github.io/issues/86)--2024-10-17
 - [免费域名可托管CF](https://github.com/jaaleng/jaaleng.github.io/issues/85)--2024-10-17
 - [Meta 宣布将其 AI 功能扩展到 21 个新国家](https://github.com/jaaleng/jaaleng.github.io/issues/84)--2024-10-13
 - [杜罗夫发布长文，讲述其创业历程](https://github.com/jaaleng/jaaleng.github.io/issues/83)--2024-10-12
-- [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 <details><summary>显示更多</summary>
 
+- [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [OpenAI 宣布推出类似 Anthropic 的 Artifacts 的应用 canvas](https://github.com/jaaleng/jaaleng.github.io/issues/81)--2024-10-07
 - [Telegram的安全性分析](https://github.com/jaaleng/jaaleng.github.io/issues/76)--2024-09-26
 - [开源SSL证书管理工具](https://github.com/jaaleng/jaaleng.github.io/issues/74)--2024-09-24
@@ -77,11 +78,16 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 天文
+- [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 - [火星的二氧化碳](https://github.com/jaaleng/jaaleng.github.io/issues/75)--2024-09-25
 - [美人鱼 星云](https://github.com/jaaleng/jaaleng.github.io/issues/69)--2024-09-19
 - [扮成土星的月亮  ](https://github.com/jaaleng/jaaleng.github.io/issues/57)--2024-09-05
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
+<details><summary>显示更多</summary>
+
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
+</details>
+
 ## 正文
 - [个人书籍库搭建](https://github.com/jaaleng/jaaleng.github.io/issues/86)--2024-10-17
 - [免费域名可托管CF](https://github.com/jaaleng/jaaleng.github.io/issues/85)--2024-10-17
