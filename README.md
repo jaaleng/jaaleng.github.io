@@ -2,21 +2,22 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
 - [ChatGPT 桌面版现已登陆 Windows 平台](https://github.com/jaaleng/jaaleng.github.io/issues/88)--2024-10-18
 - [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 - [个人书籍库搭建](https://github.com/jaaleng/jaaleng.github.io/issues/86)--2024-10-17
 - [免费域名可托管CF](https://github.com/jaaleng/jaaleng.github.io/issues/85)--2024-10-17
-- [Meta 宣布将其 AI 功能扩展到 21 个新国家](https://github.com/jaaleng/jaaleng.github.io/issues/84)--2024-10-13
 ## 2024
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 ## 一些记录
+- [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
 - [ChatGPT 桌面版现已登陆 Windows 平台](https://github.com/jaaleng/jaaleng.github.io/issues/88)--2024-10-18
 - [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 - [个人书籍库搭建](https://github.com/jaaleng/jaaleng.github.io/issues/86)--2024-10-17
 - [免费域名可托管CF](https://github.com/jaaleng/jaaleng.github.io/issues/85)--2024-10-17
-- [Meta 宣布将其 AI 功能扩展到 21 个新国家](https://github.com/jaaleng/jaaleng.github.io/issues/84)--2024-10-13
 <details><summary>显示更多</summary>
 
+- [Meta 宣布将其 AI 功能扩展到 21 个新国家](https://github.com/jaaleng/jaaleng.github.io/issues/84)--2024-10-13
 - [杜罗夫发布长文，讲述其创业历程](https://github.com/jaaleng/jaaleng.github.io/issues/83)--2024-10-12
 - [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [OpenAI 宣布推出类似 Anthropic 的 Artifacts 的应用 canvas](https://github.com/jaaleng/jaaleng.github.io/issues/81)--2024-10-07
@@ -133,13 +134,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 碎碎念
+- [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
 - [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
-- [我的期待是什么？](https://github.com/jaaleng/jaaleng.github.io/issues/52)--2024-08-30
 <details><summary>显示更多</summary>
 
+- [我的期待是什么？](https://github.com/jaaleng/jaaleng.github.io/issues/52)--2024-08-30
 - [冷管降温](https://github.com/jaaleng/jaaleng.github.io/issues/51)--2024-08-29
 - [彼得·蒂尔的实验](https://github.com/jaaleng/jaaleng.github.io/issues/48)--2024-08-25
 - [胡杨林](https://github.com/jaaleng/jaaleng.github.io/issues/34)--2024-08-12
