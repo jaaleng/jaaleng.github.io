@@ -2,21 +2,22 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 - [三个开源的 Android 邮件客户端](https://github.com/jaaleng/jaaleng.github.io/issues/92)--2024-10-23
 - [AirPods Pro 2 新出的听力健康功能不会在全球范围内推出](https://github.com/jaaleng/jaaleng.github.io/issues/91)--2024-10-22
 - [Jekyll Github Pages push 报错](https://github.com/jaaleng/jaaleng.github.io/issues/90)--2024-10-21
 - [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
-- [ChatGPT 桌面版现已登陆 Windows 平台](https://github.com/jaaleng/jaaleng.github.io/issues/88)--2024-10-18
 ## 2024
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 ## 一些记录
+- [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 - [三个开源的 Android 邮件客户端](https://github.com/jaaleng/jaaleng.github.io/issues/92)--2024-10-23
 - [AirPods Pro 2 新出的听力健康功能不会在全球范围内推出](https://github.com/jaaleng/jaaleng.github.io/issues/91)--2024-10-22
 - [Jekyll Github Pages push 报错](https://github.com/jaaleng/jaaleng.github.io/issues/90)--2024-10-21
 - [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
-- [ChatGPT 桌面版现已登陆 Windows 平台](https://github.com/jaaleng/jaaleng.github.io/issues/88)--2024-10-18
 <details><summary>显示更多</summary>
 
+- [ChatGPT 桌面版现已登陆 Windows 平台](https://github.com/jaaleng/jaaleng.github.io/issues/88)--2024-10-18
 - [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 - [个人书籍库搭建](https://github.com/jaaleng/jaaleng.github.io/issues/86)--2024-10-17
 - [免费域名可托管CF](https://github.com/jaaleng/jaaleng.github.io/issues/85)--2024-10-17
@@ -158,13 +159,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 生活
+- [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 - [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
 - [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
 - [那些被发明的“外国菜”](https://github.com/jaaleng/jaaleng.github.io/issues/64)--2024-09-12
-- [一个鱼缸](https://github.com/jaaleng/jaaleng.github.io/issues/60)--2024-09-08
 <details><summary>显示更多</summary>
 
+- [一个鱼缸](https://github.com/jaaleng/jaaleng.github.io/issues/60)--2024-09-08
 - [电源开关符号的演变](https://github.com/jaaleng/jaaleng.github.io/issues/45)--2024-08-23
 - [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
 - [声音授权](https://github.com/jaaleng/jaaleng.github.io/issues/38)--2024-08-15
