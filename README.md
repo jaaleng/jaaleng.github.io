@@ -2,21 +2,23 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
 - [图片加水印的网页工具](https://github.com/jaaleng/jaaleng.github.io/issues/95)--2024-10-30
 - [状态钟](https://github.com/jaaleng/jaaleng.github.io/issues/94)--2024-10-28
 - [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 - [三个开源的 Android 邮件客户端](https://github.com/jaaleng/jaaleng.github.io/issues/92)--2024-10-23
-- [AirPods Pro 2 新出的听力健康功能不会在全球范围内推出](https://github.com/jaaleng/jaaleng.github.io/issues/91)--2024-10-22
 ## 2024
+- [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 ## 一些记录
+- [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
 - [图片加水印的网页工具](https://github.com/jaaleng/jaaleng.github.io/issues/95)--2024-10-30
 - [状态钟](https://github.com/jaaleng/jaaleng.github.io/issues/94)--2024-10-28
 - [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 - [三个开源的 Android 邮件客户端](https://github.com/jaaleng/jaaleng.github.io/issues/92)--2024-10-23
-- [AirPods Pro 2 新出的听力健康功能不会在全球范围内推出](https://github.com/jaaleng/jaaleng.github.io/issues/91)--2024-10-22
 <details><summary>显示更多</summary>
 
+- [AirPods Pro 2 新出的听力健康功能不会在全球范围内推出](https://github.com/jaaleng/jaaleng.github.io/issues/91)--2024-10-22
 - [Jekyll Github Pages push 报错](https://github.com/jaaleng/jaaleng.github.io/issues/90)--2024-10-21
 - [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
 - [ChatGPT 桌面版现已登陆 Windows 平台](https://github.com/jaaleng/jaaleng.github.io/issues/88)--2024-10-18
@@ -97,13 +99,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 正文
+- [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
 - [状态钟](https://github.com/jaaleng/jaaleng.github.io/issues/94)--2024-10-28
 - [三个开源的 Android 邮件客户端](https://github.com/jaaleng/jaaleng.github.io/issues/92)--2024-10-23
 - [AirPods Pro 2 新出的听力健康功能不会在全球范围内推出](https://github.com/jaaleng/jaaleng.github.io/issues/91)--2024-10-22
 - [Jekyll Github Pages push 报错](https://github.com/jaaleng/jaaleng.github.io/issues/90)--2024-10-21
-- [ChatGPT 桌面版现已登陆 Windows 平台](https://github.com/jaaleng/jaaleng.github.io/issues/88)--2024-10-18
 <details><summary>显示更多</summary>
 
+- [ChatGPT 桌面版现已登陆 Windows 平台](https://github.com/jaaleng/jaaleng.github.io/issues/88)--2024-10-18
 - [个人书籍库搭建](https://github.com/jaaleng/jaaleng.github.io/issues/86)--2024-10-17
 - [免费域名可托管CF](https://github.com/jaaleng/jaaleng.github.io/issues/85)--2024-10-17
 - [Meta 宣布将其 AI 功能扩展到 21 个新国家](https://github.com/jaaleng/jaaleng.github.io/issues/84)--2024-10-13
