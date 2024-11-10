@@ -2,17 +2,22 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
 - [螺旋星系NGC 6744 ](https://github.com/jaaleng/jaaleng.github.io/issues/97)--2024-11-02
 - [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
-- [图片加水印的网页工具](https://github.com/jaaleng/jaaleng.github.io/issues/95)--2024-10-30
 ## 2024
+- [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
 - [螺旋星系NGC 6744 ](https://github.com/jaaleng/jaaleng.github.io/issues/97)--2024-11-02
 - [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
+<details><summary>显示更多</summary>
+
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
+</details>
+
 ## 一些记录
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
@@ -93,13 +98,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 天文
+- [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [螺旋星系NGC 6744 ](https://github.com/jaaleng/jaaleng.github.io/issues/97)--2024-11-02
 - [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 - [火星的二氧化碳](https://github.com/jaaleng/jaaleng.github.io/issues/75)--2024-09-25
 - [美人鱼 星云](https://github.com/jaaleng/jaaleng.github.io/issues/69)--2024-09-19
-- [扮成土星的月亮  ](https://github.com/jaaleng/jaaleng.github.io/issues/57)--2024-09-05
 <details><summary>显示更多</summary>
 
+- [扮成土星的月亮  ](https://github.com/jaaleng/jaaleng.github.io/issues/57)--2024-09-05
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 </details>
