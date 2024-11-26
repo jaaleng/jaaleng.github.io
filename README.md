@@ -2,31 +2,33 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [马斯克新头衔“马园长”](https://github.com/jaaleng/jaaleng.github.io/issues/102)--2024-11-26
 - [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 - [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
-- [螺旋星系NGC 6744 ](https://github.com/jaaleng/jaaleng.github.io/issues/97)--2024-11-02
 ## 2024
+- [马斯克新头衔“马园长”](https://github.com/jaaleng/jaaleng.github.io/issues/102)--2024-11-26
 - [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 - [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
-- [螺旋星系NGC 6744 ](https://github.com/jaaleng/jaaleng.github.io/issues/97)--2024-11-02
 <details><summary>显示更多</summary>
 
+- [螺旋星系NGC 6744 ](https://github.com/jaaleng/jaaleng.github.io/issues/97)--2024-11-02
 - [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
 ## 一些记录
+- [马斯克新头衔“马园长”](https://github.com/jaaleng/jaaleng.github.io/issues/102)--2024-11-26
 - [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
 - [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
-- [图片加水印的网页工具](https://github.com/jaaleng/jaaleng.github.io/issues/95)--2024-10-30
 <details><summary>显示更多</summary>
 
+- [图片加水印的网页工具](https://github.com/jaaleng/jaaleng.github.io/issues/95)--2024-10-30
 - [状态钟](https://github.com/jaaleng/jaaleng.github.io/issues/94)--2024-10-28
 - [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 - [三个开源的 Android 邮件客户端](https://github.com/jaaleng/jaaleng.github.io/issues/92)--2024-10-23
