@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 - [以$2.99/月，订阅两个月Paramount+ with Showtime](https://github.com/jaaleng/jaaleng.github.io/issues/104)--2024-11-27
 - [Appcharge 获 2600 万美元融资，助游戏应用绕过苹果谷歌商店](https://github.com/jaaleng/jaaleng.github.io/issues/103)--2024-11-27
 - [马斯克新头衔“马园长”](https://github.com/jaaleng/jaaleng.github.io/issues/102)--2024-11-26
-- [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 ## 2024
+- [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 - [以$2.99/月，订阅两个月Paramount+ with Showtime](https://github.com/jaaleng/jaaleng.github.io/issues/104)--2024-11-27
 - [Appcharge 获 2600 万美元融资，助游戏应用绕过苹果谷歌商店](https://github.com/jaaleng/jaaleng.github.io/issues/103)--2024-11-27
 - [马斯克新头衔“马园长”](https://github.com/jaaleng/jaaleng.github.io/issues/102)--2024-11-26
-- [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 <details><summary>显示更多</summary>
 
+- [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 - [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
@@ -24,13 +25,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 一些记录
+- [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 - [Appcharge 获 2600 万美元融资，助游戏应用绕过苹果谷歌商店](https://github.com/jaaleng/jaaleng.github.io/issues/103)--2024-11-27
 - [马斯克新头衔“马园长”](https://github.com/jaaleng/jaaleng.github.io/issues/102)--2024-11-26
 - [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
-- [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 <details><summary>显示更多</summary>
 
+- [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
 - [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
 - [图片加水印的网页工具](https://github.com/jaaleng/jaaleng.github.io/issues/95)--2024-10-30
@@ -120,13 +122,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 正文
+- [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [以$2.99/月，订阅两个月Paramount+ with Showtime](https://github.com/jaaleng/jaaleng.github.io/issues/104)--2024-11-27
 - [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
-- [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
 <details><summary>显示更多</summary>
 
+- [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
 - [状态钟](https://github.com/jaaleng/jaaleng.github.io/issues/94)--2024-10-28
 - [三个开源的 Android 邮件客户端](https://github.com/jaaleng/jaaleng.github.io/issues/92)--2024-10-23
 - [AirPods Pro 2 新出的听力健康功能不会在全球范围内推出](https://github.com/jaaleng/jaaleng.github.io/issues/91)--2024-10-22
