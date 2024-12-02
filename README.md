@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [小小行星的夏夜与冬夜 ](https://github.com/jaaleng/jaaleng.github.io/issues/108)--2024-12-01
 - [仙王座的象鼻星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/107)--2024-11-30
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
-- [以$2.99/月，订阅两个月Paramount+ with Showtime](https://github.com/jaaleng/jaaleng.github.io/issues/104)--2024-11-27
 ## 2024
+- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 - [以$2.99/月，订阅两个月Paramount+ with Showtime](https://github.com/jaaleng/jaaleng.github.io/issues/104)--2024-11-27
 - [Appcharge 获 2600 万美元融资，助游戏应用绕过苹果谷歌商店](https://github.com/jaaleng/jaaleng.github.io/issues/103)--2024-11-27
-- [马斯克新头衔“马园长”](https://github.com/jaaleng/jaaleng.github.io/issues/102)--2024-11-26
 <details><summary>显示更多</summary>
 
+- [马斯克新头衔“马园长”](https://github.com/jaaleng/jaaleng.github.io/issues/102)--2024-11-26
 - [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 - [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
@@ -25,13 +26,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 一些记录
+- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 - [Appcharge 获 2600 万美元融资，助游戏应用绕过苹果谷歌商店](https://github.com/jaaleng/jaaleng.github.io/issues/103)--2024-11-27
 - [马斯克新头衔“马园长”](https://github.com/jaaleng/jaaleng.github.io/issues/102)--2024-11-26
-- [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 <details><summary>显示更多</summary>
 
+- [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
 - [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
@@ -195,13 +197,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 生活
+- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 - [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
 - [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
-- [那些被发明的“外国菜”](https://github.com/jaaleng/jaaleng.github.io/issues/64)--2024-09-12
 <details><summary>显示更多</summary>
 
+- [那些被发明的“外国菜”](https://github.com/jaaleng/jaaleng.github.io/issues/64)--2024-09-12
 - [一个鱼缸](https://github.com/jaaleng/jaaleng.github.io/issues/60)--2024-09-08
 - [电源开关符号的演变](https://github.com/jaaleng/jaaleng.github.io/issues/45)--2024-08-23
 - [拟人语音](https://github.com/jaaleng/jaaleng.github.io/issues/44)--2024-08-22
