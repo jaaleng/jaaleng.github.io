@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [NGC 300：恒星的聚落  ](https://github.com/jaaleng/jaaleng.github.io/issues/110)--2024-12-03
 - [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [小小行星的夏夜与冬夜 ](https://github.com/jaaleng/jaaleng.github.io/issues/108)--2024-12-01
 - [仙王座的象鼻星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/107)--2024-11-30
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
-- [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 ## 2024
 - [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
@@ -111,13 +111,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 天文
+- [NGC 300：恒星的聚落  ](https://github.com/jaaleng/jaaleng.github.io/issues/110)--2024-12-03
 - [小小行星的夏夜与冬夜 ](https://github.com/jaaleng/jaaleng.github.io/issues/108)--2024-12-01
 - [仙王座的象鼻星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/107)--2024-11-30
 - [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [螺旋星系NGC 6744 ](https://github.com/jaaleng/jaaleng.github.io/issues/97)--2024-11-02
-- [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 <details><summary>显示更多</summary>
 
+- [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 - [火星的二氧化碳](https://github.com/jaaleng/jaaleng.github.io/issues/75)--2024-09-25
 - [美人鱼 星云](https://github.com/jaaleng/jaaleng.github.io/issues/69)--2024-09-19
 - [扮成土星的月亮  ](https://github.com/jaaleng/jaaleng.github.io/issues/57)--2024-09-05
