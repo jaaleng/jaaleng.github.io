@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [钻石尘天眼](https://github.com/jaaleng/jaaleng.github.io/issues/114)--2024-12-25
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
 - [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
 - [Easypanel - 一款开源的「下一代」服务器控制面板](https://github.com/jaaleng/jaaleng.github.io/issues/111)--2024-12-06
-- [NGC 300：恒星的聚落  ](https://github.com/jaaleng/jaaleng.github.io/issues/110)--2024-12-03
 ## 2024
+- [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
 - [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
 - [Easypanel - 一款开源的「下一代」服务器控制面板](https://github.com/jaaleng/jaaleng.github.io/issues/111)--2024-12-06
 - [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
-- [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 <details><summary>显示更多</summary>
 
+- [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 - [以$2.99/月，订阅两个月Paramount+ with Showtime](https://github.com/jaaleng/jaaleng.github.io/issues/104)--2024-11-27
 - [Appcharge 获 2600 万美元融资，助游戏应用绕过苹果谷歌商店](https://github.com/jaaleng/jaaleng.github.io/issues/103)--2024-11-27
@@ -117,13 +118,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 天文
+- [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [钻石尘天眼](https://github.com/jaaleng/jaaleng.github.io/issues/114)--2024-12-25
 - [NGC 300：恒星的聚落  ](https://github.com/jaaleng/jaaleng.github.io/issues/110)--2024-12-03
 - [小小行星的夏夜与冬夜 ](https://github.com/jaaleng/jaaleng.github.io/issues/108)--2024-12-01
 - [仙王座的象鼻星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/107)--2024-11-30
-- [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 <details><summary>显示更多</summary>
 
+- [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [螺旋星系NGC 6744 ](https://github.com/jaaleng/jaaleng.github.io/issues/97)--2024-11-02
 - [纽西兰上空的绚烂极光  ](https://github.com/jaaleng/jaaleng.github.io/issues/87)--2024-10-17
 - [火星的二氧化碳](https://github.com/jaaleng/jaaleng.github.io/issues/75)--2024-09-25
