@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [The first Starlink satellite direct to cell phone constellation is now complete](https://github.com/jaaleng/jaaleng.github.io/issues/117)--2025-01-04
 - [随记](https://github.com/jaaleng/jaaleng.github.io/issues/116)--2025-01-01
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [钻石尘天眼](https://github.com/jaaleng/jaaleng.github.io/issues/114)--2024-12-25
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
-- [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
 ## 2024
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
@@ -30,13 +30,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 一些记录
+- [The first Starlink satellite direct to cell phone constellation is now complete](https://github.com/jaaleng/jaaleng.github.io/issues/117)--2025-01-04
 - [随记](https://github.com/jaaleng/jaaleng.github.io/issues/116)--2025-01-01
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
 - [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
 - [Easypanel - 一款开源的「下一代」服务器控制面板](https://github.com/jaaleng/jaaleng.github.io/issues/111)--2024-12-06
-- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 <details><summary>显示更多</summary>
 
+- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 - [Appcharge 获 2600 万美元融资，助游戏应用绕过苹果谷歌商店](https://github.com/jaaleng/jaaleng.github.io/issues/103)--2024-11-27
