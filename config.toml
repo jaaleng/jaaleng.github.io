@@ -1,4 +1,4 @@
-base_url = "https://jaalen.github.io/"
+base_url = "https://jaaleng.github.io/"
 generate_feeds = true
 feed_filenames = ["rss.xml"]
 theme = "even"
