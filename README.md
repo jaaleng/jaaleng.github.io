@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [DeepSeek官方App上线](https://github.com/jaaleng/jaaleng.github.io/issues/122)--2025-01-13
 - [有大撞击坑的小卫星  ](https://github.com/jaaleng/jaaleng.github.io/issues/121)--2025-01-12
 - [Telegram首次实现盈利](https://github.com/jaaleng/jaaleng.github.io/issues/120)--2025-01-12
 - [《艾尔登法环 暗夜君临》网络测试启动](https://github.com/jaaleng/jaaleng.github.io/issues/119)--2025-01-12
 - [网易旗下视频播放软件网易爆米花已支持Emby](https://github.com/jaaleng/jaaleng.github.io/issues/118)--2025-01-08
-- [The first Starlink satellite direct to cell phone constellation is now complete](https://github.com/jaaleng/jaaleng.github.io/issues/117)--2025-01-04
 ## 2024
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
@@ -30,13 +30,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 一些记录
+- [DeepSeek官方App上线](https://github.com/jaaleng/jaaleng.github.io/issues/122)--2025-01-13
 - [有大撞击坑的小卫星  ](https://github.com/jaaleng/jaaleng.github.io/issues/121)--2025-01-12
 - [Telegram首次实现盈利](https://github.com/jaaleng/jaaleng.github.io/issues/120)--2025-01-12
 - [《艾尔登法环 暗夜君临》网络测试启动](https://github.com/jaaleng/jaaleng.github.io/issues/119)--2025-01-12
 - [网易旗下视频播放软件网易爆米花已支持Emby](https://github.com/jaaleng/jaaleng.github.io/issues/118)--2025-01-08
-- [The first Starlink satellite direct to cell phone constellation is now complete](https://github.com/jaaleng/jaaleng.github.io/issues/117)--2025-01-04
 <details><summary>显示更多</summary>
 
+- [The first Starlink satellite direct to cell phone constellation is now complete](https://github.com/jaaleng/jaaleng.github.io/issues/117)--2025-01-04
 - [随记](https://github.com/jaaleng/jaaleng.github.io/issues/116)--2025-01-01
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
 - [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
@@ -143,13 +144,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 正文
+- [DeepSeek官方App上线](https://github.com/jaaleng/jaaleng.github.io/issues/122)--2025-01-13
 - [Telegram首次实现盈利](https://github.com/jaaleng/jaaleng.github.io/issues/120)--2025-01-12
 - [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [以$2.99/月，订阅两个月Paramount+ with Showtime](https://github.com/jaaleng/jaaleng.github.io/issues/104)--2024-11-27
-- [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 <details><summary>显示更多</summary>
 
+- [传 Google 将整合 Chrome OS 与 Android](https://github.com/jaaleng/jaaleng.github.io/issues/101)--2024-11-21
 - [AIGC 相关的资源集合](https://github.com/jaaleng/jaaleng.github.io/issues/99)--2024-11-09
 - [《自己动手写 Git》中文翻译](https://github.com/jaaleng/jaaleng.github.io/issues/98)--2024-11-02
 - [开源分布式对象存储工具Garage](https://github.com/jaaleng/jaaleng.github.io/issues/96)--2024-11-01
