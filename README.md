@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [开源的APIs项目FreeAPI](https://github.com/jaaleng/jaaleng.github.io/issues/132)--2025-01-15
 - [基于AI的智能书签管理插件](https://github.com/jaaleng/jaaleng.github.io/issues/131)--2025-01-14
 - [一个免费在线文字 Icon 制作工具](https://github.com/jaaleng/jaaleng.github.io/issues/130)--2025-01-14
 - [开源代码有更高的标准、更多的测试，这是让代码不过时的绝佳机制](https://github.com/jaaleng/jaaleng.github.io/issues/129)--2025-01-13
 - [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
-- [能量电子贺卡](https://github.com/jaaleng/jaaleng.github.io/issues/127)--2025-01-13
 ## 2024
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
@@ -30,13 +30,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 一些记录
+- [开源的APIs项目FreeAPI](https://github.com/jaaleng/jaaleng.github.io/issues/132)--2025-01-15
 - [基于AI的智能书签管理插件](https://github.com/jaaleng/jaaleng.github.io/issues/131)--2025-01-14
 - [一个免费在线文字 Icon 制作工具](https://github.com/jaaleng/jaaleng.github.io/issues/130)--2025-01-14
 - [Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux](https://github.com/jaaleng/jaaleng.github.io/issues/126)--2025-01-13
 - [DeepSeek官方App上线](https://github.com/jaaleng/jaaleng.github.io/issues/122)--2025-01-13
-- [有大撞击坑的小卫星  ](https://github.com/jaaleng/jaaleng.github.io/issues/121)--2025-01-12
 <details><summary>显示更多</summary>
 
+- [有大撞击坑的小卫星  ](https://github.com/jaaleng/jaaleng.github.io/issues/121)--2025-01-12
 - [Telegram首次实现盈利](https://github.com/jaaleng/jaaleng.github.io/issues/120)--2025-01-12
 - [《艾尔登法环 暗夜君临》网络测试启动](https://github.com/jaaleng/jaaleng.github.io/issues/119)--2025-01-12
 - [网易旗下视频播放软件网易爆米花已支持Emby](https://github.com/jaaleng/jaaleng.github.io/issues/118)--2025-01-08
@@ -147,13 +148,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 正文
+- [开源的APIs项目FreeAPI](https://github.com/jaaleng/jaaleng.github.io/issues/132)--2025-01-15
 - [基于AI的智能书签管理插件](https://github.com/jaaleng/jaaleng.github.io/issues/131)--2025-01-14
 - [一个免费在线文字 Icon 制作工具](https://github.com/jaaleng/jaaleng.github.io/issues/130)--2025-01-14
 - [开源代码有更高的标准、更多的测试，这是让代码不过时的绝佳机制](https://github.com/jaaleng/jaaleng.github.io/issues/129)--2025-01-13
 - [Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux](https://github.com/jaaleng/jaaleng.github.io/issues/126)--2025-01-13
-- [DeepSeek官方App上线](https://github.com/jaaleng/jaaleng.github.io/issues/122)--2025-01-13
 <details><summary>显示更多</summary>
 
+- [DeepSeek官方App上线](https://github.com/jaaleng/jaaleng.github.io/issues/122)--2025-01-13
 - [Telegram首次实现盈利](https://github.com/jaaleng/jaaleng.github.io/issues/120)--2025-01-12
 - [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
