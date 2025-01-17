@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [Typecho主题MWordStar 2.6](https://github.com/jaaleng/jaaleng.github.io/issues/134)--2025-01-17
 - [一个 Golang 微服务 HTTP 框架](https://github.com/jaaleng/jaaleng.github.io/issues/133)--2025-01-16
 - [开源的APIs项目FreeAPI](https://github.com/jaaleng/jaaleng.github.io/issues/132)--2025-01-15
 - [基于AI的智能书签管理插件](https://github.com/jaaleng/jaaleng.github.io/issues/131)--2025-01-14
-- [一个免费在线文字 Icon 制作工具](https://github.com/jaaleng/jaaleng.github.io/issues/130)--2025-01-14
 ## 2024
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
@@ -211,13 +211,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 碎碎念
+- [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
 - [《艾尔登法环 暗夜君临》网络测试启动](https://github.com/jaaleng/jaaleng.github.io/issues/119)--2025-01-12
 - [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
 - [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
-- [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
 <details><summary>显示更多</summary>
 
+- [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
 - [我的期待是什么？](https://github.com/jaaleng/jaaleng.github.io/issues/52)--2024-08-30
@@ -231,13 +232,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 生活
+- [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
 - [能量电子贺卡](https://github.com/jaaleng/jaaleng.github.io/issues/127)--2025-01-13
 - [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
-- [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
 <details><summary>显示更多</summary>
 
+- [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
 - [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
 - [那些被发明的“外国菜”](https://github.com/jaaleng/jaaleng.github.io/issues/64)--2024-09-12
