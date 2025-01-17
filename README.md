@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [Typecho主题MWordStar 2.6](https://github.com/jaaleng/jaaleng.github.io/issues/134)--2025-01-17
 - [一个 Golang 微服务 HTTP 框架](https://github.com/jaaleng/jaaleng.github.io/issues/133)--2025-01-16
 - [开源的APIs项目FreeAPI](https://github.com/jaaleng/jaaleng.github.io/issues/132)--2025-01-15
 - [基于AI的智能书签管理插件](https://github.com/jaaleng/jaaleng.github.io/issues/131)--2025-01-14
 - [一个免费在线文字 Icon 制作工具](https://github.com/jaaleng/jaaleng.github.io/issues/130)--2025-01-14
-- [开源代码有更高的标准、更多的测试，这是让代码不过时的绝佳机制](https://github.com/jaaleng/jaaleng.github.io/issues/129)--2025-01-13
 ## 2024
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
@@ -30,13 +30,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 一些记录
+- [Typecho主题MWordStar 2.6](https://github.com/jaaleng/jaaleng.github.io/issues/134)--2025-01-17
 - [一个 Golang 微服务 HTTP 框架](https://github.com/jaaleng/jaaleng.github.io/issues/133)--2025-01-16
 - [开源的APIs项目FreeAPI](https://github.com/jaaleng/jaaleng.github.io/issues/132)--2025-01-15
 - [基于AI的智能书签管理插件](https://github.com/jaaleng/jaaleng.github.io/issues/131)--2025-01-14
 - [一个免费在线文字 Icon 制作工具](https://github.com/jaaleng/jaaleng.github.io/issues/130)--2025-01-14
-- [Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux](https://github.com/jaaleng/jaaleng.github.io/issues/126)--2025-01-13
 <details><summary>显示更多</summary>
 
+- [Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux](https://github.com/jaaleng/jaaleng.github.io/issues/126)--2025-01-13
 - [DeepSeek官方App上线](https://github.com/jaaleng/jaaleng.github.io/issues/122)--2025-01-13
 - [有大撞击坑的小卫星  ](https://github.com/jaaleng/jaaleng.github.io/issues/121)--2025-01-12
 - [Telegram首次实现盈利](https://github.com/jaaleng/jaaleng.github.io/issues/120)--2025-01-12
