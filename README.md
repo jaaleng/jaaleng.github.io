@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [能文章插入html标签吗](https://github.com/jaaleng/jaaleng.github.io/issues/136)--2025-01-17
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [Typecho主题MWordStar 2.6](https://github.com/jaaleng/jaaleng.github.io/issues/134)--2025-01-17
 - [一个 Golang 微服务 HTTP 框架](https://github.com/jaaleng/jaaleng.github.io/issues/133)--2025-01-16
 - [开源的APIs项目FreeAPI](https://github.com/jaaleng/jaaleng.github.io/issues/132)--2025-01-15
-- [基于AI的智能书签管理插件](https://github.com/jaaleng/jaaleng.github.io/issues/131)--2025-01-14
 ## 2024
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
@@ -258,13 +258,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 随笔
+- [能文章插入html标签吗](https://github.com/jaaleng/jaaleng.github.io/issues/136)--2025-01-17
 - [开源代码有更高的标准、更多的测试，这是让代码不过时的绝佳机制](https://github.com/jaaleng/jaaleng.github.io/issues/129)--2025-01-13
 - [随记](https://github.com/jaaleng/jaaleng.github.io/issues/116)--2025-01-01
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
-- [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 <details><summary>显示更多</summary>
 
+- [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
 </details>
