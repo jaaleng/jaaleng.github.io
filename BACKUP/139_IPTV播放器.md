@@ -1,6 +1,6 @@
 # [IPTV播放器](https://github.com/jaaleng/jaaleng.github.io/issues/139)
 
-##  Introduce
+  Introduce
 
 * * *
 
@@ -20,11 +20,11 @@ IPTV，让你换个角度看世界，别再犹豫了
 
 > 支持IPTV流的应用程序
 
-###  ** Windows  **
+  ** Windows  **
 
-###  ** Windows |  ** VideoLAN
+** Windows |  ** VideoLAN
 
-###
+
 * * *
 
 https://www.videolan.org/vlc/download-windows.html
@@ -42,12 +42,7 @@ https://www.videolan.org/vlc/download-windows.html
     * 可以作为流媒体服务器，允许您在网络中共享媒体文件。 
 
   
-
-###  ** Windows | IPTVNator  **
-
-
-
-###
+  ** Windows | IPTVNator  **
 
 * * *
 
@@ -55,12 +50,7 @@ https://github.com/4gray/iptvnator/tree/electron
 
 * * *
 
-
-###  ** Windows | Kodi  **
-
-
-
-###
+ Windows | Kodi  
 
 * * *
 
@@ -76,14 +66,10 @@ https://kodi.tv/
     * ** 智能电视优化  ** ：Kodi 为智能电视提供了优化的界面和功能，使其成为智能电视的强力补充。 
     * ** 100%开源  ** ：Kodi 是由社区构建和运行的软件，完全免费且开放源代码 
 
- 
-###  MacOS
+   MacOS
+  ** MacOS |  ** VideoLAN
 
-###  ** MacOS |  ** VideoLAN
 
-![](
-
-###
 
 * * *
 
@@ -93,9 +79,7 @@ https://www.videolan.org/vlc/download-macosx.html
 
   * 免费和开放源代码的便携式跨平台媒体播放器。 
 
-###  ** MacOS |  ** IINA
-
-###
+  ** MacOS |  ** IINA
 
 * * *
 
@@ -111,11 +95,9 @@ https://iina.io/
 
   
 
-###  ** AppleTV  **
+  ** AppleTV  **
 
-###  ** AppleTV | iPlayTV  **
-
-###
+  ** AppleTV | iPlayTV  *
 
 * * *
 
@@ -145,11 +127,10 @@ https://apps.apple.com/us/app/iplaytv-iptv-m3u-player/id1072226801
 
   
 
-###  ** iOS  **
+  ** iOS  **
 
-###  ** iOS | iPlayTV  **
+  ** iOS | iPlayTV  **
 
-###
 
 * * *
 
@@ -168,7 +149,7 @@ https://apps.apple.com/cn/app/nplayer/id1116905928
 
   
 
-###  ** iOS |  ** GSE SMART IPTV
+  ** iOS |  ** GSE SMART IPTV
 
 * * *
 
@@ -180,7 +161,7 @@ https://apps.apple.com/us/app/gse-smart-iptv/id1028734023
 
   
 
-###  ** iOS |  ** Movie Stream: Watch Smart IPTV
+  ** iOS |  ** Movie Stream: Watch Smart IPTV
 
 * * *
 
@@ -192,21 +173,20 @@ https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244
 
   
 
-##  ** Android  **
+ ** Android  **
 
-###  ** Android |  ** NET IP TV
+ ** Android |  ** NET IP TV
 
   
 
-###  ** Android |  ** Kodi
+  ** Android |  ** Kodi
 
 * * *
 
   * 具有库支持的免费跨平台媒体播放器 
 
   
-
-###  其他
+  其他
 
 * * *
 
@@ -218,15 +198,14 @@ https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244
 
   
 
-##  工具
+工具
 
 * * *
 
-##  测试工具
+  测试工具
 
-###  Streamtest
+ Streamtest
 
-###
 
 * * *
 
@@ -241,11 +220,7 @@ https://streamtest.in/
     * ** 易于使用  ** ：这个工具设计为用户友好，易于操作。 
     * ** 显示详细信息  ** ：它可以展示流媒体的比特率（bitrate）、音视频编解码器（codec）、帧率（fps）以及其他常见的配置信息 
 
-###  Npmjs
-
-
-
-###
+  Npmj
 
 * * *
 
@@ -261,11 +236,9 @@ https://www.npmjs.com/package/iptv-checker
 
   
 
-##  EPG抓取工具
+EPG抓取工具
 
-###  Webgrabplu
-
-###
+ Webgrabplu
 
 * * *
 
@@ -282,13 +255,8 @@ http://www.webgrabplus.com/
 
   
 
-##  ** IPTV 播放列表  **
-
-###  ** IPTV M3U 编辑  **
-
-
-
-###
+ ** IPTV 播放列表  **
+ ** IPTV M3U 编辑  **
 
 * * *
 
