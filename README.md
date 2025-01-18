@@ -2,7 +2,7 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
-- [能文章插入html标签吗](https://github.com/jaaleng/jaaleng.github.io/issues/136)--2025-01-17
+- [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [Typecho主题MWordStar 2.6](https://github.com/jaaleng/jaaleng.github.io/issues/134)--2025-01-17
 - [一个 Golang 微服务 HTTP 框架](https://github.com/jaaleng/jaaleng.github.io/issues/133)--2025-01-16
@@ -211,13 +211,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 碎碎念
+- [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
 - [《艾尔登法环 暗夜君临》网络测试启动](https://github.com/jaaleng/jaaleng.github.io/issues/119)--2025-01-12
 - [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
-- [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 <details><summary>显示更多</summary>
 
+- [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [开源软件商业模式](https://github.com/jaaleng/jaaleng.github.io/issues/53)--2024-09-01
@@ -232,13 +233,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 生活
+- [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
 - [能量电子贺卡](https://github.com/jaaleng/jaaleng.github.io/issues/127)--2025-01-13
 - [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
-- [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 <details><summary>显示更多</summary>
 
+- [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 - [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
 - [iPhone16 Pro跑分再曝光](https://github.com/jaaleng/jaaleng.github.io/issues/71)--2024-09-21
 - [历史的真相足以颠覆你的三观](https://github.com/jaaleng/jaaleng.github.io/issues/67)--2024-09-17
@@ -258,14 +260,13 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 随笔
-- [能文章插入html标签吗](https://github.com/jaaleng/jaaleng.github.io/issues/136)--2025-01-17
 - [开源代码有更高的标准、更多的测试，这是让代码不过时的绝佳机制](https://github.com/jaaleng/jaaleng.github.io/issues/129)--2025-01-13
 - [随记](https://github.com/jaaleng/jaaleng.github.io/issues/116)--2025-01-01
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
+- [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 <details><summary>显示更多</summary>
 
-- [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
 </details>
