@@ -2,11 +2,11 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [那么](https://github.com/jaaleng/jaaleng.github.io/issues/144)--2025-02-02
 - [达·芬奇500年前绘制的秘密隧道，真是奇人啊!](https://github.com/jaaleng/jaaleng.github.io/issues/143)--2025-01-26
 - [驻站](https://github.com/jaaleng/jaaleng.github.io/issues/142)--2025-01-22
 - [Telegram 假 Safeguard 骗局最新伎俩汇总](https://github.com/jaaleng/jaaleng.github.io/issues/141)--2025-01-22
 - [猫咪的身体是水做的](https://github.com/jaaleng/jaaleng.github.io/issues/140)--2025-01-22
-- [IPTV播放器](https://github.com/jaaleng/jaaleng.github.io/issues/139)--2025-01-18
 ## 2024
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
@@ -218,13 +218,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 碎碎念
+- [那么](https://github.com/jaaleng/jaaleng.github.io/issues/144)--2025-02-02
 - [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
 - [《艾尔登法环 暗夜君临》网络测试启动](https://github.com/jaaleng/jaaleng.github.io/issues/119)--2025-01-12
-- [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
 <details><summary>显示更多</summary>
 
+- [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
 - [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
@@ -268,13 +269,14 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 随笔
+- [那么](https://github.com/jaaleng/jaaleng.github.io/issues/144)--2025-02-02
 - [开源代码有更高的标准、更多的测试，这是让代码不过时的绝佳机制](https://github.com/jaaleng/jaaleng.github.io/issues/129)--2025-01-13
 - [随记](https://github.com/jaaleng/jaaleng.github.io/issues/116)--2025-01-01
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
-- [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 <details><summary>显示更多</summary>
 
+- [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
 </details>
