@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
-- [修复](https://github.com/jaaleng/jaaleng.github.io/issues/151)--2025-02-03
+- [q](https://github.com/jaaleng/jaaleng.github.io/issues/152)--2025-02-03
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [达·芬奇500年前绘制的秘密隧道，真是奇人啊!](https://github.com/jaaleng/jaaleng.github.io/issues/143)--2025-01-26
 - [驻站](https://github.com/jaaleng/jaaleng.github.io/issues/142)--2025-01-22
 - [Telegram 假 Safeguard 骗局最新伎俩汇总](https://github.com/jaaleng/jaaleng.github.io/issues/141)--2025-01-22
 ## 2024
+- [q](https://github.com/jaaleng/jaaleng.github.io/issues/152)--2025-02-03
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
 - [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
 - [Easypanel - 一款开源的「下一代」服务器控制面板](https://github.com/jaaleng/jaaleng.github.io/issues/111)--2024-12-06
-- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 <details><summary>显示更多</summary>
 
+- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 - [以$2.99/月，订阅两个月Paramount+ with Showtime](https://github.com/jaaleng/jaaleng.github.io/issues/104)--2024-11-27
@@ -30,14 +31,13 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 一些记录
-- [修复](https://github.com/jaaleng/jaaleng.github.io/issues/151)--2025-02-03
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [达·芬奇500年前绘制的秘密隧道，真是奇人啊!](https://github.com/jaaleng/jaaleng.github.io/issues/143)--2025-01-26
 - [Telegram 假 Safeguard 骗局最新伎俩汇总](https://github.com/jaaleng/jaaleng.github.io/issues/141)--2025-01-22
 - [猫咪的身体是水做的](https://github.com/jaaleng/jaaleng.github.io/issues/140)--2025-01-22
+- [IPTV播放器](https://github.com/jaaleng/jaaleng.github.io/issues/139)--2025-01-18
 <details><summary>显示更多</summary>
 
-- [IPTV播放器](https://github.com/jaaleng/jaaleng.github.io/issues/139)--2025-01-18
 - [Vercel vs Cloudflare Workers](https://github.com/jaaleng/jaaleng.github.io/issues/138)--2025-01-18
 - [Typecho主题MWordStar 2.6](https://github.com/jaaleng/jaaleng.github.io/issues/134)--2025-01-17
 - [一个 Golang 微服务 HTTP 框架](https://github.com/jaaleng/jaaleng.github.io/issues/133)--2025-01-16
