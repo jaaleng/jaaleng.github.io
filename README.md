@@ -2,7 +2,7 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
-- [还是有问题](https://github.com/jaaleng/jaaleng.github.io/issues/154)--2025-02-04
+- [还是有问题](https://github.com/jaaleng/jaaleng.github.io/issues/155)--2025-02-04
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [达·芬奇500年前绘制的秘密隧道，真是奇人啊!](https://github.com/jaaleng/jaaleng.github.io/issues/143)--2025-01-26
 - [驻站](https://github.com/jaaleng/jaaleng.github.io/issues/142)--2025-01-22
@@ -219,7 +219,7 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 碎碎念
-- [还是有问题](https://github.com/jaaleng/jaaleng.github.io/issues/154)--2025-02-04
+- [还是有问题](https://github.com/jaaleng/jaaleng.github.io/issues/155)--2025-02-04
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
