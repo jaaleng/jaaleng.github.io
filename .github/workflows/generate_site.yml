@@ -33,7 +33,7 @@ jobs:
       ZOLA_VERSION: v0.19.2
       USER: ${{ github.repository_owner }}
       REPO: ${{ github.event.repository.name }}
-      BASE_URL: https://limoon.us.kg # change to your own domain
+      BASE_URL: https://jianghaiyina.com # change to your own domain
       # Change to below if you are using GitHub Pages
       # BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
     steps:
@@ -51,7 +51,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@main
         with:
           path: 'output/public'
       - name: Deploy to GitHub Pages
