@@ -2,19 +2,20 @@
 comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
-- [还是有问题](https://github.com/jaaleng/jaaleng.github.io/issues/156)--2025-02-04
+- [cg](https://github.com/jaaleng/jaaleng.github.io/issues/158)--2025-02-04
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [达·芬奇500年前绘制的秘密隧道，真是奇人啊!](https://github.com/jaaleng/jaaleng.github.io/issues/143)--2025-01-26
 - [驻站](https://github.com/jaaleng/jaaleng.github.io/issues/142)--2025-01-22
 - [Telegram 假 Safeguard 骗局最新伎俩汇总](https://github.com/jaaleng/jaaleng.github.io/issues/141)--2025-01-22
 ## 2024
+- [cg](https://github.com/jaaleng/jaaleng.github.io/issues/158)--2025-02-04
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
 - [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
 - [Easypanel - 一款开源的「下一代」服务器控制面板](https://github.com/jaaleng/jaaleng.github.io/issues/111)--2024-12-06
-- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 <details><summary>显示更多</summary>
 
+- [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [Telegram拍卖平台Fragment引进强制KYC](https://github.com/jaaleng/jaaleng.github.io/issues/106)--2024-11-29
 - [树莓派发布全新 Compute Module 5，性能大幅提升](https://github.com/jaaleng/jaaleng.github.io/issues/105)--2024-11-28
 - [以$2.99/月，订阅两个月Paramount+ with Showtime](https://github.com/jaaleng/jaaleng.github.io/issues/104)--2024-11-27
@@ -219,14 +220,13 @@ comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issu
 </details>
 
 ## 碎碎念
-- [还是有问题](https://github.com/jaaleng/jaaleng.github.io/issues/156)--2025-02-04
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
+- [《艾尔登法环 暗夜君临》网络测试启动](https://github.com/jaaleng/jaaleng.github.io/issues/119)--2025-01-12
 <details><summary>显示更多</summary>
 
-- [《艾尔登法环 暗夜君临》网络测试启动](https://github.com/jaaleng/jaaleng.github.io/issues/119)--2025-01-12
 - [利用耳机发送莫斯电码](https://github.com/jaaleng/jaaleng.github.io/issues/89)--2024-10-21
 - [A股大爆发](https://github.com/jaaleng/jaaleng.github.io/issues/82)--2024-10-08
 - [看了好多还是这样最方便](https://github.com/jaaleng/jaaleng.github.io/issues/78)--2024-09-30
