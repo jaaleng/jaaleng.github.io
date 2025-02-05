@@ -4,7 +4,7 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## [友情链接](https://github.com/jaaleng/gitblog/issues/161)
 <details><summary>显示</summary>
-<p>| Name | Link | Desc | n | ---- | ---- | ---- |/n</p></details>
+<p>| Name | Link | Desc | n | ---- | ---- | ---- |/n| mymsn | https://829259.xyz | 做个有意思的人 |/n</p></details>
 
 
 ## 最近更新
