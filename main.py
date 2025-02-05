@@ -10,7 +10,8 @@ from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
 MD_HEAD = """## [Jaaleng"blog](https://jaaleng.github.io/)
-comMy personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions (随意转载，无需署名)
+My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions 
+![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)(随意转载，无需署名)
 """
 
 BACKUP_DIR = "BACKUP"
