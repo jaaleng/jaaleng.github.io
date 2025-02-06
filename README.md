@@ -23,13 +23,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 
 ## 最近更新
-- [sad](https://github.com/jaaleng/jaaleng.github.io/issues/163)--2025-02-05
+- [确认一颗位于宜居带上的“超级地球”](https://github.com/jaaleng/jaaleng.github.io/issues/164)--2025-02-06
 - [哪吒2总票房破55亿!](https://github.com/jaaleng/jaaleng.github.io/issues/162)--2025-02-05
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [达·芬奇500年前绘制的秘密隧道，真是奇人啊!](https://github.com/jaaleng/jaaleng.github.io/issues/143)--2025-01-26
-## 2025
-- [sad](https://github.com/jaaleng/jaaleng.github.io/issues/163)--2025-02-05
 ## 2024
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
@@ -160,13 +158,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 天文
+- [确认一颗位于宜居带上的“超级地球”](https://github.com/jaaleng/jaaleng.github.io/issues/164)--2025-02-06
 - [有大撞击坑的小卫星  ](https://github.com/jaaleng/jaaleng.github.io/issues/121)--2025-01-12
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [钻石尘天眼](https://github.com/jaaleng/jaaleng.github.io/issues/114)--2024-12-25
 - [NGC 300：恒星的聚落  ](https://github.com/jaaleng/jaaleng.github.io/issues/110)--2024-12-03
-- [小小行星的夏夜与冬夜 ](https://github.com/jaaleng/jaaleng.github.io/issues/108)--2024-12-01
 <details><summary>显示更多</summary>
 
+- [小小行星的夏夜与冬夜 ](https://github.com/jaaleng/jaaleng.github.io/issues/108)--2024-12-01
 - [仙王座的象鼻星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/107)--2024-11-30
 - [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
 - [螺旋星系NGC 6744 ](https://github.com/jaaleng/jaaleng.github.io/issues/97)--2024-11-02
