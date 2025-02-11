@@ -23,11 +23,13 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 
 ## 最近更新
+- [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
 - [T-Mobile与Starlink合作推出卫星互联网服务](https://github.com/jaaleng/jaaleng.github.io/issues/166)--2025-02-10
 - [AI永远也代替不了人类。](https://github.com/jaaleng/jaaleng.github.io/issues/165)--2025-02-08
 - [确认一颗位于宜居带上的“超级地球”](https://github.com/jaaleng/jaaleng.github.io/issues/164)--2025-02-06
 - [哪吒2总票房破55亿!](https://github.com/jaaleng/jaaleng.github.io/issues/162)--2025-02-05
-- [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
+## 2025
+- [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
 ## 2024
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
@@ -51,13 +53,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
+- [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
 - [T-Mobile与Starlink合作推出卫星互联网服务](https://github.com/jaaleng/jaaleng.github.io/issues/166)--2025-02-10
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [达·芬奇500年前绘制的秘密隧道，真是奇人啊!](https://github.com/jaaleng/jaaleng.github.io/issues/143)--2025-01-26
 - [Telegram 假 Safeguard 骗局最新伎俩汇总](https://github.com/jaaleng/jaaleng.github.io/issues/141)--2025-01-22
-- [猫咪的身体是水做的](https://github.com/jaaleng/jaaleng.github.io/issues/140)--2025-01-22
 <details><summary>显示更多</summary>
 
+- [猫咪的身体是水做的](https://github.com/jaaleng/jaaleng.github.io/issues/140)--2025-01-22
 - [IPTV播放器](https://github.com/jaaleng/jaaleng.github.io/issues/139)--2025-01-18
 - [Vercel vs Cloudflare Workers](https://github.com/jaaleng/jaaleng.github.io/issues/138)--2025-01-18
 - [Typecho主题MWordStar 2.6](https://github.com/jaaleng/jaaleng.github.io/issues/134)--2025-01-17
