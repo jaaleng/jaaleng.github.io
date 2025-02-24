@@ -23,11 +23,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 
 ## 最近更新
+- [Gmail邮箱将停止使用短信验证码登录](https://github.com/jaaleng/jaaleng.github.io/issues/171)--2025-02-24
 - [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
 - [一款以Telegram作为储存的文件外链系统](https://github.com/jaaleng/jaaleng.github.io/issues/169)--2025-02-23
 - [typecho 博客主题推荐](https://github.com/jaaleng/jaaleng.github.io/issues/168)--2025-02-23
 - [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
-- [T-Mobile与Starlink合作推出卫星互联网服务](https://github.com/jaaleng/jaaleng.github.io/issues/166)--2025-02-10
 ## 2025
 - [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
 - [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
@@ -54,13 +54,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
+- [Gmail邮箱将停止使用短信验证码登录](https://github.com/jaaleng/jaaleng.github.io/issues/171)--2025-02-24
 - [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
 - [一款以Telegram作为储存的文件外链系统](https://github.com/jaaleng/jaaleng.github.io/issues/169)--2025-02-23
 - [typecho 博客主题推荐](https://github.com/jaaleng/jaaleng.github.io/issues/168)--2025-02-23
 - [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
-- [T-Mobile与Starlink合作推出卫星互联网服务](https://github.com/jaaleng/jaaleng.github.io/issues/166)--2025-02-10
 <details><summary>显示更多</summary>
 
+- [T-Mobile与Starlink合作推出卫星互联网服务](https://github.com/jaaleng/jaaleng.github.io/issues/166)--2025-02-10
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [达·芬奇500年前绘制的秘密隧道，真是奇人啊!](https://github.com/jaaleng/jaaleng.github.io/issues/143)--2025-01-26
 - [Telegram 假 Safeguard 骗局最新伎俩汇总](https://github.com/jaaleng/jaaleng.github.io/issues/141)--2025-01-22
