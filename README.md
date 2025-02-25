@@ -23,11 +23,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 
 ## 最近更新
+- [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
 - [Gmail邮箱将停止使用短信验证码登录](https://github.com/jaaleng/jaaleng.github.io/issues/171)--2025-02-24
 - [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
 - [一款以Telegram作为储存的文件外链系统](https://github.com/jaaleng/jaaleng.github.io/issues/169)--2025-02-23
 - [typecho 博客主题推荐](https://github.com/jaaleng/jaaleng.github.io/issues/168)--2025-02-23
-- [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
 ## 2025
 - [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
 - [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
@@ -54,13 +54,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
+- [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
 - [Gmail邮箱将停止使用短信验证码登录](https://github.com/jaaleng/jaaleng.github.io/issues/171)--2025-02-24
 - [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
 - [一款以Telegram作为储存的文件外链系统](https://github.com/jaaleng/jaaleng.github.io/issues/169)--2025-02-23
 - [typecho 博客主题推荐](https://github.com/jaaleng/jaaleng.github.io/issues/168)--2025-02-23
-- [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
 <details><summary>显示更多</summary>
 
+- [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
 - [T-Mobile与Starlink合作推出卫星互联网服务](https://github.com/jaaleng/jaaleng.github.io/issues/166)--2025-02-10
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [达·芬奇500年前绘制的秘密隧道，真是奇人啊!](https://github.com/jaaleng/jaaleng.github.io/issues/143)--2025-01-26
@@ -187,13 +188,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 正文
+- [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
 - [IPTV播放器](https://github.com/jaaleng/jaaleng.github.io/issues/139)--2025-01-18
 - [Vercel vs Cloudflare Workers](https://github.com/jaaleng/jaaleng.github.io/issues/138)--2025-01-18
 - [开源的APIs项目FreeAPI](https://github.com/jaaleng/jaaleng.github.io/issues/132)--2025-01-15
 - [基于AI的智能书签管理插件](https://github.com/jaaleng/jaaleng.github.io/issues/131)--2025-01-14
-- [一个免费在线文字 Icon 制作工具](https://github.com/jaaleng/jaaleng.github.io/issues/130)--2025-01-14
 <details><summary>显示更多</summary>
 
+- [一个免费在线文字 Icon 制作工具](https://github.com/jaaleng/jaaleng.github.io/issues/130)--2025-01-14
 - [开源代码有更高的标准、更多的测试，这是让代码不过时的绝佳机制](https://github.com/jaaleng/jaaleng.github.io/issues/129)--2025-01-13
 - [Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux](https://github.com/jaaleng/jaaleng.github.io/issues/126)--2025-01-13
 - [DeepSeek官方App上线](https://github.com/jaaleng/jaaleng.github.io/issues/122)--2025-01-13
