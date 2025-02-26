@@ -23,11 +23,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 
 ## 最近更新
+- [US.KG 已恢复运作，请谨慎转移您的重要资产](https://github.com/jaaleng/jaaleng.github.io/issues/175)--2025-02-26
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 - [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
 - [Gmail邮箱将停止使用短信验证码登录](https://github.com/jaaleng/jaaleng.github.io/issues/171)--2025-02-24
-- [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
 ## 2025
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 - [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
@@ -255,13 +255,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 碎碎念
+- [US.KG 已恢复运作，请谨慎转移您的重要资产](https://github.com/jaaleng/jaaleng.github.io/issues/175)--2025-02-26
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 - [AI永远也代替不了人类。](https://github.com/jaaleng/jaaleng.github.io/issues/165)--2025-02-08
 - [哪吒2总票房破55亿!](https://github.com/jaaleng/jaaleng.github.io/issues/162)--2025-02-05
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
-- [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 <details><summary>显示更多</summary>
 
+- [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
 - [《艾尔登法环 暗夜君临》网络测试启动](https://github.com/jaaleng/jaaleng.github.io/issues/119)--2025-01-12
