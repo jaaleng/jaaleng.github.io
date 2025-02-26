@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [OpenAI 宣布免费开放 ChatGPT 高级语音模式](https://github.com/jaaleng/jaaleng.github.io/issues/176)--2025-02-26
 - [US.KG 已恢复运作，请谨慎转移您的重要资产](https://github.com/jaaleng/jaaleng.github.io/issues/175)--2025-02-26
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 - [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
-- [Gmail邮箱将停止使用短信验证码登录](https://github.com/jaaleng/jaaleng.github.io/issues/171)--2025-02-24
 ## 2025
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 - [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
@@ -58,13 +58,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
+- [OpenAI 宣布免费开放 ChatGPT 高级语音模式](https://github.com/jaaleng/jaaleng.github.io/issues/176)--2025-02-26
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
 - [Gmail邮箱将停止使用短信验证码登录](https://github.com/jaaleng/jaaleng.github.io/issues/171)--2025-02-24
 - [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
 - [一款以Telegram作为储存的文件外链系统](https://github.com/jaaleng/jaaleng.github.io/issues/169)--2025-02-23
-- [typecho 博客主题推荐](https://github.com/jaaleng/jaaleng.github.io/issues/168)--2025-02-23
 <details><summary>显示更多</summary>
 
+- [typecho 博客主题推荐](https://github.com/jaaleng/jaaleng.github.io/issues/168)--2025-02-23
 - [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
 - [T-Mobile与Starlink合作推出卫星互联网服务](https://github.com/jaaleng/jaaleng.github.io/issues/166)--2025-02-10
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
