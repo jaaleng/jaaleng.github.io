@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
 - [微信瘦身！原图、视频可清理为普通画质](https://github.com/jaaleng/jaaleng.github.io/issues/184)--2025-03-05
 - [有形成中行星的恒星系统](https://github.com/jaaleng/jaaleng.github.io/issues/181)--2025-03-05
 - [科学家发现人类祖先在 15 万年前生活在非洲雨林的证据](https://github.com/jaaleng/jaaleng.github.io/issues/180)--2025-03-03
-- [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
 ## 2025
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
 - [TG测试版新增购买大会员等功能](https://github.com/jaaleng/jaaleng.github.io/issues/178)--2025-02-28
@@ -65,13 +65,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
+- [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
 - [科学家发现人类祖先在 15 万年前生活在非洲雨林的证据](https://github.com/jaaleng/jaaleng.github.io/issues/180)--2025-03-03
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
 - [Claude 关系负责人 Alex Albert 表明已面向所有用户开放 GitHub 集成 Claude](https://github.com/jaaleng/jaaleng.github.io/issues/177)--2025-02-27
-- [OpenAI 宣布免费开放 ChatGPT 高级语音模式](https://github.com/jaaleng/jaaleng.github.io/issues/176)--2025-02-26
 <details><summary>显示更多</summary>
 
+- [OpenAI 宣布免费开放 ChatGPT 高级语音模式](https://github.com/jaaleng/jaaleng.github.io/issues/176)--2025-02-26
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
 - [Gmail邮箱将停止使用短信验证码登录](https://github.com/jaaleng/jaaleng.github.io/issues/171)--2025-02-24
 - [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
@@ -205,13 +206,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 正文
+- [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
 - [TG测试版新增购买大会员等功能](https://github.com/jaaleng/jaaleng.github.io/issues/178)--2025-02-28
 - [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
-- [IPTV播放器](https://github.com/jaaleng/jaaleng.github.io/issues/139)--2025-01-18
 <details><summary>显示更多</summary>
 
+- [IPTV播放器](https://github.com/jaaleng/jaaleng.github.io/issues/139)--2025-01-18
 - [Vercel vs Cloudflare Workers](https://github.com/jaaleng/jaaleng.github.io/issues/138)--2025-01-18
 - [开源的APIs项目FreeAPI](https://github.com/jaaleng/jaaleng.github.io/issues/132)--2025-01-15
 - [基于AI的智能书签管理插件](https://github.com/jaaleng/jaaleng.github.io/issues/131)--2025-01-14
@@ -299,13 +301,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 生活
+- [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [微信瘦身！原图、视频可清理为普通画质](https://github.com/jaaleng/jaaleng.github.io/issues/184)--2025-03-05
 - [驻站](https://github.com/jaaleng/jaaleng.github.io/issues/142)--2025-01-22
 - [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
-- [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
 <details><summary>显示更多</summary>
 
+- [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
 - [能量电子贺卡](https://github.com/jaaleng/jaaleng.github.io/issues/127)--2025-01-13
 - [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
