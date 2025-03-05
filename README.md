@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [有形成中行星的恒星系统](https://github.com/jaaleng/jaaleng.github.io/issues/181)--2025-03-05
 - [科学家发现人类祖先在 15 万年前生活在非洲雨林的证据](https://github.com/jaaleng/jaaleng.github.io/issues/180)--2025-03-03
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
 - [TG测试版新增购买大会员等功能](https://github.com/jaaleng/jaaleng.github.io/issues/178)--2025-02-28
 - [Claude 关系负责人 Alex Albert 表明已面向所有用户开放 GitHub 集成 Claude](https://github.com/jaaleng/jaaleng.github.io/issues/177)--2025-02-27
-- [OpenAI 宣布免费开放 ChatGPT 高级语音模式](https://github.com/jaaleng/jaaleng.github.io/issues/176)--2025-02-26
 ## 2025
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
 - [TG测试版新增购买大会员等功能](https://github.com/jaaleng/jaaleng.github.io/issues/178)--2025-02-28
@@ -183,13 +183,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 天文
+- [有形成中行星的恒星系统](https://github.com/jaaleng/jaaleng.github.io/issues/181)--2025-03-05
 - [确认一颗位于宜居带上的“超级地球”](https://github.com/jaaleng/jaaleng.github.io/issues/164)--2025-02-06
 - [有大撞击坑的小卫星  ](https://github.com/jaaleng/jaaleng.github.io/issues/121)--2025-01-12
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [钻石尘天眼](https://github.com/jaaleng/jaaleng.github.io/issues/114)--2024-12-25
-- [NGC 300：恒星的聚落  ](https://github.com/jaaleng/jaaleng.github.io/issues/110)--2024-12-03
 <details><summary>显示更多</summary>
 
+- [NGC 300：恒星的聚落  ](https://github.com/jaaleng/jaaleng.github.io/issues/110)--2024-12-03
 - [小小行星的夏夜与冬夜 ](https://github.com/jaaleng/jaaleng.github.io/issues/108)--2024-12-01
 - [仙王座的象鼻星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/107)--2024-11-30
 - [海王星的夜晚  ](https://github.com/jaaleng/jaaleng.github.io/issues/100)--2024-11-10
