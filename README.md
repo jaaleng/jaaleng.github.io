@@ -25,20 +25,19 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
-- [123](https://github.com/jaaleng/jaaleng.github.io/issues/183)--2025-03-05
+- [微信瘦身！原图、视频可清理为普通画质](https://github.com/jaaleng/jaaleng.github.io/issues/184)--2025-03-05
 - [有形成中行星的恒星系统](https://github.com/jaaleng/jaaleng.github.io/issues/181)--2025-03-05
 - [科学家发现人类祖先在 15 万年前生活在非洲雨林的证据](https://github.com/jaaleng/jaaleng.github.io/issues/180)--2025-03-03
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
 - [TG测试版新增购买大会员等功能](https://github.com/jaaleng/jaaleng.github.io/issues/178)--2025-02-28
 ## 2025
-- [123](https://github.com/jaaleng/jaaleng.github.io/issues/183)--2025-03-05
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
 - [TG测试版新增购买大会员等功能](https://github.com/jaaleng/jaaleng.github.io/issues/178)--2025-02-28
 - [Claude 关系负责人 Alex Albert 表明已面向所有用户开放 GitHub 集成 Claude](https://github.com/jaaleng/jaaleng.github.io/issues/177)--2025-02-27
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
+- [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
 <details><summary>显示更多</summary>
 
-- [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
 - [Grok 3 出世后影响最大的是同人文章定制产业](https://github.com/jaaleng/jaaleng.github.io/issues/170)--2025-02-23
 - [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
 </details>
@@ -298,13 +297,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 生活
+- [微信瘦身！原图、视频可清理为普通画质](https://github.com/jaaleng/jaaleng.github.io/issues/184)--2025-03-05
 - [驻站](https://github.com/jaaleng/jaaleng.github.io/issues/142)--2025-01-22
 - [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
 - [ Windows 3.1 时钟](https://github.com/jaaleng/jaaleng.github.io/issues/128)--2025-01-13
-- [能量电子贺卡](https://github.com/jaaleng/jaaleng.github.io/issues/127)--2025-01-13
 <details><summary>显示更多</summary>
 
+- [能量电子贺卡](https://github.com/jaaleng/jaaleng.github.io/issues/127)--2025-01-13
 - [特斯拉发布FSD V13.2：“点对点”自动驾驶无需人工干预](https://github.com/jaaleng/jaaleng.github.io/issues/109)--2024-12-02
 - [全球免费电视频道的M3U直播源](https://github.com/jaaleng/jaaleng.github.io/issues/93)--2024-10-25
 - [国庆节快乐](https://github.com/jaaleng/jaaleng.github.io/issues/79)--2024-10-06
