@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
 - [微信瘦身！原图、视频可清理为普通画质](https://github.com/jaaleng/jaaleng.github.io/issues/184)--2025-03-05
-- [有形成中行星的恒星系统](https://github.com/jaaleng/jaaleng.github.io/issues/181)--2025-03-05
 ## 2025
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
@@ -66,13 +66,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
+- [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
 - [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
 - [科学家发现人类祖先在 15 万年前生活在非洲雨林的证据](https://github.com/jaaleng/jaaleng.github.io/issues/180)--2025-03-03
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
-- [Claude 关系负责人 Alex Albert 表明已面向所有用户开放 GitHub 集成 Claude](https://github.com/jaaleng/jaaleng.github.io/issues/177)--2025-02-27
 <details><summary>显示更多</summary>
 
+- [Claude 关系负责人 Alex Albert 表明已面向所有用户开放 GitHub 集成 Claude](https://github.com/jaaleng/jaaleng.github.io/issues/177)--2025-02-27
 - [OpenAI 宣布免费开放 ChatGPT 高级语音模式](https://github.com/jaaleng/jaaleng.github.io/issues/176)--2025-02-26
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
 - [Gmail邮箱将停止使用短信验证码登录](https://github.com/jaaleng/jaaleng.github.io/issues/171)--2025-02-24
@@ -207,13 +208,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 正文
+- [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
 - [TG测试版新增购买大会员等功能](https://github.com/jaaleng/jaaleng.github.io/issues/178)--2025-02-28
-- [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
 <details><summary>显示更多</summary>
 
+- [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
 - [IPTV播放器](https://github.com/jaaleng/jaaleng.github.io/issues/139)--2025-01-18
 - [Vercel vs Cloudflare Workers](https://github.com/jaaleng/jaaleng.github.io/issues/138)--2025-01-18
