@@ -25,7 +25,7 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
-- [又到了"毛毛虫"的季节](https://github.com/jaaleng/jaaleng.github.io/issues/189)--2025-03-11
+- [又到了 [ 毛毛虫 ] 的季节](https://github.com/jaaleng/jaaleng.github.io/issues/189)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
@@ -305,7 +305,7 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 生活
-- [又到了"毛毛虫"的季节](https://github.com/jaaleng/jaaleng.github.io/issues/189)--2025-03-11
+- [又到了 [ 毛毛虫 ] 的季节](https://github.com/jaaleng/jaaleng.github.io/issues/189)--2025-03-11
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [微信瘦身！原图、视频可清理为普通画质](https://github.com/jaaleng/jaaleng.github.io/issues/184)--2025-03-05
