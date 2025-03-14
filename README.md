@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 - [Bing](https://github.com/jaaleng/jaaleng.github.io/issues/191)--2025-03-13
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [又到了 [ 毛毛虫 ] 的季节](https://github.com/jaaleng/jaaleng.github.io/issues/189)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
-- [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 ## 2025
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
@@ -67,13 +67,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
+- [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
 - [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
-- [科学家发现人类祖先在 15 万年前生活在非洲雨林的证据](https://github.com/jaaleng/jaaleng.github.io/issues/180)--2025-03-03
 <details><summary>显示更多</summary>
 
+- [科学家发现人类祖先在 15 万年前生活在非洲雨林的证据](https://github.com/jaaleng/jaaleng.github.io/issues/180)--2025-03-03
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
 - [Claude 关系负责人 Alex Albert 表明已面向所有用户开放 GitHub 集成 Claude](https://github.com/jaaleng/jaaleng.github.io/issues/177)--2025-02-27
 - [OpenAI 宣布免费开放 ChatGPT 高级语音模式](https://github.com/jaaleng/jaaleng.github.io/issues/176)--2025-02-26
@@ -280,13 +281,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 碎碎念
+- [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 - [Bing](https://github.com/jaaleng/jaaleng.github.io/issues/191)--2025-03-13
 - [US.KG 已恢复运作，请谨慎转移您的重要资产](https://github.com/jaaleng/jaaleng.github.io/issues/175)--2025-02-26
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 - [AI永远也代替不了人类。](https://github.com/jaaleng/jaaleng.github.io/issues/165)--2025-02-08
-- [哪吒2总票房破55亿!](https://github.com/jaaleng/jaaleng.github.io/issues/162)--2025-02-05
 <details><summary>显示更多</summary>
 
+- [哪吒2总票房破55亿!](https://github.com/jaaleng/jaaleng.github.io/issues/162)--2025-02-05
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
