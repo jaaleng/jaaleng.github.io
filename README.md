@@ -25,7 +25,7 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
-- [微信再更](https://github.com/jaaleng/jaaleng.github.io/issues/195)--2025-03-21
+- [一键免费部署您的私人 Gemini 应用](https://github.com/jaaleng/jaaleng.github.io/issues/196)--2025-03-22
 - [春分](https://github.com/jaaleng/jaaleng.github.io/issues/194)--2025-03-20
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 - [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
@@ -67,7 +67,7 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
-- [微信再更](https://github.com/jaaleng/jaaleng.github.io/issues/195)--2025-03-21
+- [一键免费部署您的私人 Gemini 应用](https://github.com/jaaleng/jaaleng.github.io/issues/196)--2025-03-22
 - [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
