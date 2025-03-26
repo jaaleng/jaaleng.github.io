@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
 - [多模态模型如何重塑视觉创作](https://github.com/jaaleng/jaaleng.github.io/issues/197)--2025-03-26
 - [一键免费部署您的私人 Gemini 应用](https://github.com/jaaleng/jaaleng.github.io/issues/196)--2025-03-22
 - [春分](https://github.com/jaaleng/jaaleng.github.io/issues/194)--2025-03-20
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
-- [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 ## 2025
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
@@ -282,13 +282,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 碎碎念
+- [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 - [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 - [Bing](https://github.com/jaaleng/jaaleng.github.io/issues/191)--2025-03-13
 - [US.KG 已恢复运作，请谨慎转移您的重要资产](https://github.com/jaaleng/jaaleng.github.io/issues/175)--2025-02-26
-- [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 <details><summary>显示更多</summary>
 
+- [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 - [AI永远也代替不了人类。](https://github.com/jaaleng/jaaleng.github.io/issues/165)--2025-02-08
 - [哪吒2总票房破55亿!](https://github.com/jaaleng/jaaleng.github.io/issues/162)--2025-02-05
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
@@ -312,13 +313,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 生活
+- [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
 - [春分](https://github.com/jaaleng/jaaleng.github.io/issues/194)--2025-03-20
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 - [又到了 [ 毛毛虫 ] 的季节](https://github.com/jaaleng/jaaleng.github.io/issues/189)--2025-03-11
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
-- [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 <details><summary>显示更多</summary>
 
+- [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [微信瘦身！原图、视频可清理为普通画质](https://github.com/jaaleng/jaaleng.github.io/issues/184)--2025-03-05
 - [驻站](https://github.com/jaaleng/jaaleng.github.io/issues/142)--2025-01-22
 - [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
