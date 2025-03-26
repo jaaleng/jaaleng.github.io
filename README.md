@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [多模态模型如何重塑视觉创作](https://github.com/jaaleng/jaaleng.github.io/issues/197)--2025-03-26
 - [一键免费部署您的私人 Gemini 应用](https://github.com/jaaleng/jaaleng.github.io/issues/196)--2025-03-22
 - [春分](https://github.com/jaaleng/jaaleng.github.io/issues/194)--2025-03-20
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 - [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
-- [Bing](https://github.com/jaaleng/jaaleng.github.io/issues/191)--2025-03-13
 ## 2025
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
@@ -67,13 +67,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
+- [多模态模型如何重塑视觉创作](https://github.com/jaaleng/jaaleng.github.io/issues/197)--2025-03-26
 - [一键免费部署您的私人 Gemini 应用](https://github.com/jaaleng/jaaleng.github.io/issues/196)--2025-03-22
 - [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
-- [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 <details><summary>显示更多</summary>
 
+- [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
 - [科学家发现人类祖先在 15 万年前生活在非洲雨林的证据](https://github.com/jaaleng/jaaleng.github.io/issues/180)--2025-03-03
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
