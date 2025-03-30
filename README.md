@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [关闭手机互联网两周：研究称可逆转大脑年龄十年](https://github.com/jaaleng/jaaleng.github.io/issues/204)--2025-03-30
 - [Hacker News Top Stories](https://github.com/jaaleng/jaaleng.github.io/issues/203)--2025-03-29
 - [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
 - [「与熊论道」字符加密工具将关闭](https://github.com/jaaleng/jaaleng.github.io/issues/201)--2025-03-28
 - [US.KG 域名政策更新](https://github.com/jaaleng/jaaleng.github.io/issues/200)--2025-03-27
-- [天上又掉馅饼了](https://github.com/jaaleng/jaaleng.github.io/issues/199)--2025-03-26
 ## 2025
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
@@ -67,13 +67,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## 一些记录
+- [关闭手机互联网两周：研究称可逆转大脑年龄十年](https://github.com/jaaleng/jaaleng.github.io/issues/204)--2025-03-30
 - [Hacker News Top Stories](https://github.com/jaaleng/jaaleng.github.io/issues/203)--2025-03-29
 - [「与熊论道」字符加密工具将关闭](https://github.com/jaaleng/jaaleng.github.io/issues/201)--2025-03-28
 - [US.KG 域名政策更新](https://github.com/jaaleng/jaaleng.github.io/issues/200)--2025-03-27
 - [多模态模型如何重塑视觉创作](https://github.com/jaaleng/jaaleng.github.io/issues/197)--2025-03-26
-- [一键免费部署您的私人 Gemini 应用](https://github.com/jaaleng/jaaleng.github.io/issues/196)--2025-03-22
 <details><summary>显示更多</summary>
 
+- [一键免费部署您的私人 Gemini 应用](https://github.com/jaaleng/jaaleng.github.io/issues/196)--2025-03-22
 - [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
