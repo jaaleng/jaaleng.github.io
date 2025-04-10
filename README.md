@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [PS4模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/207)--2025-04-10
 - [环球影城正在英国建造一个主题公园](https://github.com/jaaleng/jaaleng.github.io/issues/206)--2025-04-10
 - [快速制作 Apple 发布会风格的 Bento UI 图](https://github.com/jaaleng/jaaleng.github.io/issues/205)--2025-04-02
 - [关闭手机互联网两周：研究称可逆转大脑年龄十年](https://github.com/jaaleng/jaaleng.github.io/issues/204)--2025-03-30
 - [Hacker News Top Stories](https://github.com/jaaleng/jaaleng.github.io/issues/203)--2025-03-29
-- [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
@@ -64,13 +64,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
+- [PS4模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/207)--2025-04-10
 - [环球影城正在英国建造一个主题公园](https://github.com/jaaleng/jaaleng.github.io/issues/206)--2025-04-10
 - [快速制作 Apple 发布会风格的 Bento UI 图](https://github.com/jaaleng/jaaleng.github.io/issues/205)--2025-04-02
 - [关闭手机互联网两周：研究称可逆转大脑年龄十年](https://github.com/jaaleng/jaaleng.github.io/issues/204)--2025-03-30
 - [Hacker News Top Stories](https://github.com/jaaleng/jaaleng.github.io/issues/203)--2025-03-29
-- [「与熊论道」字符加密工具将关闭](https://github.com/jaaleng/jaaleng.github.io/issues/201)--2025-03-28
 <details><summary>显示更多</summary>
 
+- [「与熊论道」字符加密工具将关闭](https://github.com/jaaleng/jaaleng.github.io/issues/201)--2025-03-28
 - [US.KG 域名政策更新](https://github.com/jaaleng/jaaleng.github.io/issues/200)--2025-03-27
 - [多模态模型如何重塑视觉创作](https://github.com/jaaleng/jaaleng.github.io/issues/197)--2025-03-26
 - [一键免费部署您的私人 Gemini 应用](https://github.com/jaaleng/jaaleng.github.io/issues/196)--2025-03-22
