@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [Cloudflare Workers 将于6月支持 Docker 容器](https://github.com/jaaleng/jaaleng.github.io/issues/209)--2025-04-12
 - [Grok AI 现已推出 API 价格表](https://github.com/jaaleng/jaaleng.github.io/issues/208)--2025-04-11
 - [PS4模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/207)--2025-04-10
 - [环球影城正在英国建造一个主题公园](https://github.com/jaaleng/jaaleng.github.io/issues/206)--2025-04-10
 - [快速制作 Apple 发布会风格的 Bento UI 图](https://github.com/jaaleng/jaaleng.github.io/issues/205)--2025-04-02
-- [关闭手机互联网两周：研究称可逆转大脑年龄十年](https://github.com/jaaleng/jaaleng.github.io/issues/204)--2025-03-30
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [文生图推荐网站](https://github.com/jaaleng/jaaleng.github.io/issues/179)--2025-03-02
@@ -215,13 +215,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 </details>
 
+- [Cloudflare Workers 将于6月支持 Docker 容器](https://github.com/jaaleng/jaaleng.github.io/issues/209)--2025-04-12
 - [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
 - [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
-- [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
 <details><summary>显示更多</summary>
 
+- [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
 - [TG测试版新增购买大会员等功能](https://github.com/jaaleng/jaaleng.github.io/issues/178)--2025-02-28
 - [Deepseek恢复API充值](https://github.com/jaaleng/jaaleng.github.io/issues/173)--2025-02-25
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/jaaleng/jaaleng.github.io/issues/172)--2025-02-25
