@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [Github要屏蔽IP?](https://github.com/jaaleng/jaaleng.github.io/issues/212)--2025-04-13
 - [活版印字为设计灵感的静态博客主题](https://github.com/jaaleng/jaaleng.github.io/issues/211)--2025-04-12
 - [Switch 3或采用英特尔18A 技术](https://github.com/jaaleng/jaaleng.github.io/issues/210)--2025-04-12
 - [Cloudflare Workers 将于6月支持 Docker 容器](https://github.com/jaaleng/jaaleng.github.io/issues/209)--2025-04-12
 - [Grok AI 现已推出 API 价格表](https://github.com/jaaleng/jaaleng.github.io/issues/208)--2025-04-11
-- [PS4模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/207)--2025-04-10
 - [活版印字为设计灵感的静态博客主题](https://github.com/jaaleng/jaaleng.github.io/issues/211)--2025-04-12
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
@@ -289,13 +289,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
 </details>
 
+- [Github要屏蔽IP?](https://github.com/jaaleng/jaaleng.github.io/issues/212)--2025-04-13
 - [天上又掉馅饼了](https://github.com/jaaleng/jaaleng.github.io/issues/199)--2025-03-26
 - [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 - [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
-- [Bing](https://github.com/jaaleng/jaaleng.github.io/issues/191)--2025-03-13
 <details><summary>显示更多</summary>
 
+- [Bing](https://github.com/jaaleng/jaaleng.github.io/issues/191)--2025-03-13
 - [US.KG 已恢复运作，请谨慎转移您的重要资产](https://github.com/jaaleng/jaaleng.github.io/issues/175)--2025-02-26
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 - [AI永远也代替不了人类。](https://github.com/jaaleng/jaaleng.github.io/issues/165)--2025-02-08
