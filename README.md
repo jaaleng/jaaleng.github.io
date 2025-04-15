@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [Albert Einstein’s theory of relativity in words of four letters or less](https://github.com/jaaleng/jaaleng.github.io/issues/213)--2025-04-15
 - [Github要屏蔽IP?](https://github.com/jaaleng/jaaleng.github.io/issues/212)--2025-04-13
 - [活版印字为设计灵感的静态博客主题](https://github.com/jaaleng/jaaleng.github.io/issues/211)--2025-04-12
 - [Switch 3或采用英特尔18A 技术](https://github.com/jaaleng/jaaleng.github.io/issues/210)--2025-04-12
 - [Cloudflare Workers 将于6月支持 Docker 容器](https://github.com/jaaleng/jaaleng.github.io/issues/209)--2025-04-12
-- [Grok AI 现已推出 API 价格表](https://github.com/jaaleng/jaaleng.github.io/issues/208)--2025-04-11
 - [活版印字为设计灵感的静态博客主题](https://github.com/jaaleng/jaaleng.github.io/issues/211)--2025-04-12
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
@@ -216,13 +216,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 </details>
 
+- [Albert Einstein’s theory of relativity in words of four letters or less](https://github.com/jaaleng/jaaleng.github.io/issues/213)--2025-04-15
 - [活版印字为设计灵感的静态博客主题](https://github.com/jaaleng/jaaleng.github.io/issues/211)--2025-04-12
 - [Switch 3或采用英特尔18A 技术](https://github.com/jaaleng/jaaleng.github.io/issues/210)--2025-04-12
 - [Cloudflare Workers 将于6月支持 Docker 容器](https://github.com/jaaleng/jaaleng.github.io/issues/209)--2025-04-12
 - [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
-- [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
 <details><summary>显示更多</summary>
 
+- [基于 CF Pages+AI 制作的论坛](https://github.com/jaaleng/jaaleng.github.io/issues/188)--2025-03-08
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
 - [百度文库、网盘接入 DeepSeek](https://github.com/jaaleng/jaaleng.github.io/issues/185)--2025-03-05
