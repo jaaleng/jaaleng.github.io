@@ -25,18 +25,19 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [英特尔推出用于 AI 和工作站的新款 GPU](https://github.com/jaaleng/jaaleng.github.io/issues/221)--2025-05-19
 - [一个免费的软件下载网站](https://github.com/jaaleng/jaaleng.github.io/issues/220)--2025-05-17
 - [第十五届北京国际电影节](https://github.com/jaaleng/jaaleng.github.io/issues/219)--2025-05-10
 - [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
 - [人工智能驱动的实时用户调研工具](https://github.com/jaaleng/jaaleng.github.io/issues/217)--2025-05-04
-- [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
+- [英特尔推出用于 AI 和工作站的新款 GPU](https://github.com/jaaleng/jaaleng.github.io/issues/221)--2025-05-19
 - [一个免费的软件下载网站](https://github.com/jaaleng/jaaleng.github.io/issues/220)--2025-05-17
 - [第十五届北京国际电影节](https://github.com/jaaleng/jaaleng.github.io/issues/219)--2025-05-10
 - [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
 - [人工智能驱动的实时用户调研工具](https://github.com/jaaleng/jaaleng.github.io/issues/217)--2025-05-04
-- [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
 <details><summary>显示更多</summary>
 
+- [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
 - [用于 GitHub Actions 的 SSH](https://github.com/jaaleng/jaaleng.github.io/issues/214)--2025-04-29
 - [活版印字为设计灵感的静态博客主题](https://github.com/jaaleng/jaaleng.github.io/issues/211)--2025-04-12
 - [数学公式→绘画](https://github.com/jaaleng/jaaleng.github.io/issues/190)--2025-03-12
@@ -71,13 +72,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
+- [英特尔推出用于 AI 和工作站的新款 GPU](https://github.com/jaaleng/jaaleng.github.io/issues/221)--2025-05-19
 - [一个免费的软件下载网站](https://github.com/jaaleng/jaaleng.github.io/issues/220)--2025-05-17
 - [第十五届北京国际电影节](https://github.com/jaaleng/jaaleng.github.io/issues/219)--2025-05-10
 - [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
 - [人工智能驱动的实时用户调研工具](https://github.com/jaaleng/jaaleng.github.io/issues/217)--2025-05-04
-- [微软在新账户中默认采用无密码登录](https://github.com/jaaleng/jaaleng.github.io/issues/215)--2025-05-02
 <details><summary>显示更多</summary>
 
+- [微软在新账户中默认采用无密码登录](https://github.com/jaaleng/jaaleng.github.io/issues/215)--2025-05-02
 - [用于 GitHub Actions 的 SSH](https://github.com/jaaleng/jaaleng.github.io/issues/214)--2025-04-29
 - [Grok AI 现已推出 API 价格表](https://github.com/jaaleng/jaaleng.github.io/issues/208)--2025-04-11
 - [PS4模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/207)--2025-04-10
