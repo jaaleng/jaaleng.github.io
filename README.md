@@ -25,18 +25,19 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
 - [六一儿童节快乐！](https://github.com/jaaleng/jaaleng.github.io/issues/223)--2025-06-01
 - [谷歌发布NotebookLM移动应用](https://github.com/jaaleng/jaaleng.github.io/issues/222)--2025-05-20
 - [英特尔推出用于 AI 和工作站的新款 GPU](https://github.com/jaaleng/jaaleng.github.io/issues/221)--2025-05-19
 - [一个免费的软件下载网站](https://github.com/jaaleng/jaaleng.github.io/issues/220)--2025-05-17
-- [第十五届北京国际电影节](https://github.com/jaaleng/jaaleng.github.io/issues/219)--2025-05-10
+- [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
 - [六一儿童节快乐！](https://github.com/jaaleng/jaaleng.github.io/issues/223)--2025-06-01
 - [谷歌发布NotebookLM移动应用](https://github.com/jaaleng/jaaleng.github.io/issues/222)--2025-05-20
 - [英特尔推出用于 AI 和工作站的新款 GPU](https://github.com/jaaleng/jaaleng.github.io/issues/221)--2025-05-19
 - [一个免费的软件下载网站](https://github.com/jaaleng/jaaleng.github.io/issues/220)--2025-05-17
-- [第十五届北京国际电影节](https://github.com/jaaleng/jaaleng.github.io/issues/219)--2025-05-10
 <details><summary>显示更多</summary>
 
+- [第十五届北京国际电影节](https://github.com/jaaleng/jaaleng.github.io/issues/219)--2025-05-10
 - [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
 - [人工智能驱动的实时用户调研工具](https://github.com/jaaleng/jaaleng.github.io/issues/217)--2025-05-04
 - [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
@@ -340,13 +341,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 </details>
 
+- [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
 - [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
 - [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
 - [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
 - [春分](https://github.com/jaaleng/jaaleng.github.io/issues/194)--2025-03-20
-- [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 <details><summary>显示更多</summary>
 
+- [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 - [又到了 [ 毛毛虫 ] 的季节](https://github.com/jaaleng/jaaleng.github.io/issues/189)--2025-03-11
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
 - [HeyGen 一键翻译视频 AI](https://github.com/jaaleng/jaaleng.github.io/issues/186)--2025-03-05
