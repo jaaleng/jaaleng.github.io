@@ -25,18 +25,19 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [GitHub 的CEO表示，随着 AI 的发展，“最聪明”的公司会雇用更多软件工程师](https://github.com/jaaleng/jaaleng.github.io/issues/226)--2025-07-05
 - [三星开始生产2纳米Exynos 2600原型芯片](https://github.com/jaaleng/jaaleng.github.io/issues/225)--2025-06-12
 - [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
 - [六一儿童节快乐！](https://github.com/jaaleng/jaaleng.github.io/issues/223)--2025-06-01
 - [谷歌发布NotebookLM移动应用](https://github.com/jaaleng/jaaleng.github.io/issues/222)--2025-05-20
-- [英特尔推出用于 AI 和工作站的新款 GPU](https://github.com/jaaleng/jaaleng.github.io/issues/221)--2025-05-19
+- [GitHub 的CEO表示，随着 AI 的发展，“最聪明”的公司会雇用更多软件工程师](https://github.com/jaaleng/jaaleng.github.io/issues/226)--2025-07-05
 - [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
 - [六一儿童节快乐！](https://github.com/jaaleng/jaaleng.github.io/issues/223)--2025-06-01
 - [谷歌发布NotebookLM移动应用](https://github.com/jaaleng/jaaleng.github.io/issues/222)--2025-05-20
 - [英特尔推出用于 AI 和工作站的新款 GPU](https://github.com/jaaleng/jaaleng.github.io/issues/221)--2025-05-19
-- [一个免费的软件下载网站](https://github.com/jaaleng/jaaleng.github.io/issues/220)--2025-05-17
 <details><summary>显示更多</summary>
 
+- [一个免费的软件下载网站](https://github.com/jaaleng/jaaleng.github.io/issues/220)--2025-05-17
 - [第十五届北京国际电影节](https://github.com/jaaleng/jaaleng.github.io/issues/219)--2025-05-10
 - [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
 - [人工智能驱动的实时用户调研工具](https://github.com/jaaleng/jaaleng.github.io/issues/217)--2025-05-04
@@ -75,13 +76,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
+- [GitHub 的CEO表示，随着 AI 的发展，“最聪明”的公司会雇用更多软件工程师](https://github.com/jaaleng/jaaleng.github.io/issues/226)--2025-07-05
 - [三星开始生产2纳米Exynos 2600原型芯片](https://github.com/jaaleng/jaaleng.github.io/issues/225)--2025-06-12
 - [谷歌发布NotebookLM移动应用](https://github.com/jaaleng/jaaleng.github.io/issues/222)--2025-05-20
 - [英特尔推出用于 AI 和工作站的新款 GPU](https://github.com/jaaleng/jaaleng.github.io/issues/221)--2025-05-19
 - [一个免费的软件下载网站](https://github.com/jaaleng/jaaleng.github.io/issues/220)--2025-05-17
-- [第十五届北京国际电影节](https://github.com/jaaleng/jaaleng.github.io/issues/219)--2025-05-10
 <details><summary>显示更多</summary>
 
+- [第十五届北京国际电影节](https://github.com/jaaleng/jaaleng.github.io/issues/219)--2025-05-10
 - [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
 - [人工智能驱动的实时用户调研工具](https://github.com/jaaleng/jaaleng.github.io/issues/217)--2025-05-04
 - [微软在新账户中默认采用无密码登录](https://github.com/jaaleng/jaaleng.github.io/issues/215)--2025-05-02
