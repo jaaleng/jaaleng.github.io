@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [索尼起诉腾讯，指控其新游戏抄袭《地平线》系列](https://github.com/jaaleng/jaaleng.github.io/issues/232)--2025-07-31
 - [国际太空站偶遇土星](https://github.com/jaaleng/jaaleng.github.io/issues/231)--2025-07-26
 - [Telegram 加密钱包正式在美国上线](https://github.com/jaaleng/jaaleng.github.io/issues/230)--2025-07-23
 - [极环星系NGC 2685](https://github.com/jaaleng/jaaleng.github.io/issues/229)--2025-07-15
-- [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [Discord 服务器成员上限提升至 250 万人](https://github.com/jaaleng/jaaleng.github.io/issues/227)--2025-07-11
 - [GitHub 的CEO表示，随着 AI 的发展，“最聪明”的公司会雇用更多软件工程师](https://github.com/jaaleng/jaaleng.github.io/issues/226)--2025-07-05
@@ -245,13 +245,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 </details>
 
+- [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [三星开始生产2纳米Exynos 2600原型芯片](https://github.com/jaaleng/jaaleng.github.io/issues/225)--2025-06-12
 - [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
 - [Albert Einstein’s theory of relativity in words of four letters or less](https://github.com/jaaleng/jaaleng.github.io/issues/213)--2025-04-15
-- [活版印字为设计灵感的静态博客主题](https://github.com/jaaleng/jaaleng.github.io/issues/211)--2025-04-12
 <details><summary>显示更多</summary>
 
+- [活版印字为设计灵感的静态博客主题](https://github.com/jaaleng/jaaleng.github.io/issues/211)--2025-04-12
 - [Switch 3或采用英特尔18A 技术](https://github.com/jaaleng/jaaleng.github.io/issues/210)--2025-04-12
 - [Cloudflare Workers 将于6月支持 Docker 容器](https://github.com/jaaleng/jaaleng.github.io/issues/209)--2025-04-12
 - [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
@@ -322,13 +323,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
 </details>
 
+- [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [Github要屏蔽IP?](https://github.com/jaaleng/jaaleng.github.io/issues/212)--2025-04-13
 - [天上又掉馅饼了](https://github.com/jaaleng/jaaleng.github.io/issues/199)--2025-03-26
 - [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
-- [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 <details><summary>显示更多</summary>
 
+- [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 - [Bing](https://github.com/jaaleng/jaaleng.github.io/issues/191)--2025-03-13
 - [US.KG 已恢复运作，请谨慎转移您的重要资产](https://github.com/jaaleng/jaaleng.github.io/issues/175)--2025-02-26
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
@@ -354,13 +356,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 </details>
 
+- [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
 - [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
 - [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
 - [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
-- [春分](https://github.com/jaaleng/jaaleng.github.io/issues/194)--2025-03-20
 <details><summary>显示更多</summary>
 
+- [春分](https://github.com/jaaleng/jaaleng.github.io/issues/194)--2025-03-20
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 - [又到了 [ 毛毛虫 ] 的季节](https://github.com/jaaleng/jaaleng.github.io/issues/189)--2025-03-11
 - [一键将眼前风景转化为诗歌](https://github.com/jaaleng/jaaleng.github.io/issues/187)--2025-03-06
