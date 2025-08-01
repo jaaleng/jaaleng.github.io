@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [XYZ 域名注册局于8月26日涨价至 15 USD](https://github.com/jaaleng/jaaleng.github.io/issues/234)--2025-08-01
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [索尼起诉腾讯，指控其新游戏抄袭《地平线》系列](https://github.com/jaaleng/jaaleng.github.io/issues/232)--2025-07-31
 - [国际太空站偶遇土星](https://github.com/jaaleng/jaaleng.github.io/issues/231)--2025-07-26
 - [Telegram 加密钱包正式在美国上线](https://github.com/jaaleng/jaaleng.github.io/issues/230)--2025-07-23
-- [极环星系NGC 2685](https://github.com/jaaleng/jaaleng.github.io/issues/229)--2025-07-15
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [Discord 服务器成员上限提升至 250 万人](https://github.com/jaaleng/jaaleng.github.io/issues/227)--2025-07-11
 - [GitHub 的CEO表示，随着 AI 的发展，“最聪明”的公司会雇用更多软件工程师](https://github.com/jaaleng/jaaleng.github.io/issues/226)--2025-07-05
@@ -78,13 +78,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
+- [XYZ 域名注册局于8月26日涨价至 15 USD](https://github.com/jaaleng/jaaleng.github.io/issues/234)--2025-08-01
 - [索尼起诉腾讯，指控其新游戏抄袭《地平线》系列](https://github.com/jaaleng/jaaleng.github.io/issues/232)--2025-07-31
 - [Telegram 加密钱包正式在美国上线](https://github.com/jaaleng/jaaleng.github.io/issues/230)--2025-07-23
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [Discord 服务器成员上限提升至 250 万人](https://github.com/jaaleng/jaaleng.github.io/issues/227)--2025-07-11
-- [GitHub 的CEO表示，随着 AI 的发展，“最聪明”的公司会雇用更多软件工程师](https://github.com/jaaleng/jaaleng.github.io/issues/226)--2025-07-05
 <details><summary>显示更多</summary>
 
+- [GitHub 的CEO表示，随着 AI 的发展，“最聪明”的公司会雇用更多软件工程师](https://github.com/jaaleng/jaaleng.github.io/issues/226)--2025-07-05
 - [三星开始生产2纳米Exynos 2600原型芯片](https://github.com/jaaleng/jaaleng.github.io/issues/225)--2025-06-12
 - [谷歌发布NotebookLM移动应用](https://github.com/jaaleng/jaaleng.github.io/issues/222)--2025-05-20
 - [英特尔推出用于 AI 和工作站的新款 GPU](https://github.com/jaaleng/jaaleng.github.io/issues/221)--2025-05-19
