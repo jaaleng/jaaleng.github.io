@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
 - [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 - [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
 - [微软发布50周年纪念版Windows 11 Bloom壁纸](https://github.com/jaaleng/jaaleng.github.io/issues/236)--2025-08-12
 - [沉浸式翻译被爆收集用户双语快照且被搜索引擎收录](https://github.com/jaaleng/jaaleng.github.io/issues/235)--2025-08-09
-- [XYZ 域名注册局于8月26日涨价至 15 USD](https://github.com/jaaleng/jaaleng.github.io/issues/234)--2025-08-01
 - [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [Discord 服务器成员上限提升至 250 万人](https://github.com/jaaleng/jaaleng.github.io/issues/227)--2025-07-11
@@ -79,13 +79,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
+- [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
 - [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 - [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
 - [微软发布50周年纪念版Windows 11 Bloom壁纸](https://github.com/jaaleng/jaaleng.github.io/issues/236)--2025-08-12
 - [沉浸式翻译被爆收集用户双语快照且被搜索引擎收录](https://github.com/jaaleng/jaaleng.github.io/issues/235)--2025-08-09
-- [XYZ 域名注册局于8月26日涨价至 15 USD](https://github.com/jaaleng/jaaleng.github.io/issues/234)--2025-08-01
 <details><summary>显示更多</summary>
 
+- [XYZ 域名注册局于8月26日涨价至 15 USD](https://github.com/jaaleng/jaaleng.github.io/issues/234)--2025-08-01
 - [索尼起诉腾讯，指控其新游戏抄袭《地平线》系列](https://github.com/jaaleng/jaaleng.github.io/issues/232)--2025-07-31
 - [Telegram 加密钱包正式在美国上线](https://github.com/jaaleng/jaaleng.github.io/issues/230)--2025-07-23
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
@@ -251,13 +252,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 </details>
 
+- [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
 - [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [三星开始生产2纳米Exynos 2600原型芯片](https://github.com/jaaleng/jaaleng.github.io/issues/225)--2025-06-12
-- [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
 <details><summary>显示更多</summary>
 
+- [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
 - [Albert Einstein’s theory of relativity in words of four letters or less](https://github.com/jaaleng/jaaleng.github.io/issues/213)--2025-04-15
 - [活版印字为设计灵感的静态博客主题](https://github.com/jaaleng/jaaleng.github.io/issues/211)--2025-04-12
 - [Switch 3或采用英特尔18A 技术](https://github.com/jaaleng/jaaleng.github.io/issues/210)--2025-04-12
