@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [蝴蝶盘的行星形成](https://github.com/jaaleng/jaaleng.github.io/issues/242)--2025-09-09
 - [年轻人用ChatGPT写简历，人力资源用AI阅读简历](https://github.com/jaaleng/jaaleng.github.io/issues/241)--2025-09-09
 - [npm 包 color 遭恶意攻击，数千万下载量包被植入加密货币窃取代码](https://github.com/jaaleng/jaaleng.github.io/issues/240)--2025-09-09
 - [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
 - [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
-- [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
 - [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [Discord 服务器成员上限提升至 250 万人](https://github.com/jaaleng/jaaleng.github.io/issues/227)--2025-07-11
@@ -79,13 +79,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
+- [蝴蝶盘的行星形成](https://github.com/jaaleng/jaaleng.github.io/issues/242)--2025-09-09
 - [npm 包 color 遭恶意攻击，数千万下载量包被植入加密货币窃取代码](https://github.com/jaaleng/jaaleng.github.io/issues/240)--2025-09-09
 - [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
 - [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 - [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
-- [微软发布50周年纪念版Windows 11 Bloom壁纸](https://github.com/jaaleng/jaaleng.github.io/issues/236)--2025-08-12
 <details><summary>显示更多</summary>
 
+- [微软发布50周年纪念版Windows 11 Bloom壁纸](https://github.com/jaaleng/jaaleng.github.io/issues/236)--2025-08-12
 - [沉浸式翻译被爆收集用户双语快照且被搜索引擎收录](https://github.com/jaaleng/jaaleng.github.io/issues/235)--2025-08-09
 - [XYZ 域名注册局于8月26日涨价至 15 USD](https://github.com/jaaleng/jaaleng.github.io/issues/234)--2025-08-01
 - [索尼起诉腾讯，指控其新游戏抄袭《地平线》系列](https://github.com/jaaleng/jaaleng.github.io/issues/232)--2025-07-31
