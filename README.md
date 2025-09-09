@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [基于 AI 的在线人生模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/243)--2025-09-09
 - [蝴蝶盘的行星形成](https://github.com/jaaleng/jaaleng.github.io/issues/242)--2025-09-09
 - [年轻人用ChatGPT写简历，人力资源用AI阅读简历](https://github.com/jaaleng/jaaleng.github.io/issues/241)--2025-09-09
 - [npm 包 color 遭恶意攻击，数千万下载量包被植入加密货币窃取代码](https://github.com/jaaleng/jaaleng.github.io/issues/240)--2025-09-09
 - [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
-- [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 - [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [Discord 服务器成员上限提升至 250 万人](https://github.com/jaaleng/jaaleng.github.io/issues/227)--2025-07-11
@@ -366,13 +366,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 </details>
 
+- [基于 AI 的在线人生模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/243)--2025-09-09
 - [年轻人用ChatGPT写简历，人力资源用AI阅读简历](https://github.com/jaaleng/jaaleng.github.io/issues/241)--2025-09-09
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
 - [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
-- [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
 <details><summary>显示更多</summary>
 
+- [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
 - [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
 - [春分](https://github.com/jaaleng/jaaleng.github.io/issues/194)--2025-03-20
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
