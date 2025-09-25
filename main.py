@@ -22,14 +22,14 @@ FRIENDS_LABELS = ["Friends"]
 ABOUT_LABELS = ["About"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS + ABOUT_LABELS
 
-THINGS_LABELS = ["Things"]
-IGNORE_LABELS = (
-    FRIENDS_LABELS
-    + TOP_ISSUES_LABELS
-    + TODO_ISSUES_LABELS
-    + ABOUT_LABELS
-    + THINGS_LABELS
-)
+FRIENDS_TABLE_HEAD = "| Name | Link | Desc | \n | ---- | ---- | ---- |\n"
+FRIENDS_TABLE_TEMPLATE = "| {name} | {link} | {desc} |\n"
+FRIENDS_INFO_DICT = {
+    "名字": "",
+    "链接": "",
+    "描述": "",
+}
+
 
 
 def get_me(user):
@@ -184,8 +184,8 @@ def add_md_recent(repo, md, me, limit=5):
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
             md.write("## 最近更新\n")
-                for issue in repo.get_issues(sort="created", direction="desc"):
-                    if is_me(issue, me):
+            for issue in repo.get_issues():
+                if is_me(issue, me):
                     add_issue_info(issue, md)
                     count += 1
                     if count >= limit:
