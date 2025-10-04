@@ -25,18 +25,19 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
 - [谷歌宣布安卓开发者认证计划](https://github.com/jaaleng/jaaleng.github.io/issues/244)--2025-09-25
 - [基于 AI 的在线人生模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/243)--2025-09-09
 - [蝴蝶盘的行星形成](https://github.com/jaaleng/jaaleng.github.io/issues/242)--2025-09-09
 - [年轻人用ChatGPT写简历，人力资源用AI阅读简历](https://github.com/jaaleng/jaaleng.github.io/issues/241)--2025-09-09
-- [npm 包 color 遭恶意攻击，数千万下载量包被植入加密货币窃取代码](https://github.com/jaaleng/jaaleng.github.io/issues/240)--2025-09-09
+- [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
 - [谷歌宣布安卓开发者认证计划](https://github.com/jaaleng/jaaleng.github.io/issues/244)--2025-09-25
 - [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [Discord 服务器成员上限提升至 250 万人](https://github.com/jaaleng/jaaleng.github.io/issues/227)--2025-07-11
-- [GitHub 的CEO表示，随着 AI 的发展，“最聪明”的公司会雇用更多软件工程师](https://github.com/jaaleng/jaaleng.github.io/issues/226)--2025-07-05
 <details><summary>显示更多</summary>
 
+- [GitHub 的CEO表示，随着 AI 的发展，“最聪明”的公司会雇用更多软件工程师](https://github.com/jaaleng/jaaleng.github.io/issues/226)--2025-07-05
 - [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
 - [六一儿童节快乐！](https://github.com/jaaleng/jaaleng.github.io/issues/223)--2025-06-01
 - [谷歌发布NotebookLM移动应用](https://github.com/jaaleng/jaaleng.github.io/issues/222)--2025-05-20
@@ -80,13 +81,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
+- [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
 - [谷歌宣布安卓开发者认证计划](https://github.com/jaaleng/jaaleng.github.io/issues/244)--2025-09-25
 - [蝴蝶盘的行星形成](https://github.com/jaaleng/jaaleng.github.io/issues/242)--2025-09-09
 - [npm 包 color 遭恶意攻击，数千万下载量包被植入加密货币窃取代码](https://github.com/jaaleng/jaaleng.github.io/issues/240)--2025-09-09
 - [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
-- [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 <details><summary>显示更多</summary>
 
+- [皮克斯未来电影发行计划：《寻梦环游记 2》《玩具总动员 5》《超人总动员 3》等重磅续作公布](https://github.com/jaaleng/jaaleng.github.io/issues/238)--2025-09-02
 - [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
 - [微软发布50周年纪念版Windows 11 Bloom壁纸](https://github.com/jaaleng/jaaleng.github.io/issues/236)--2025-08-12
 - [沉浸式翻译被爆收集用户双语快照且被搜索引擎收录](https://github.com/jaaleng/jaaleng.github.io/issues/235)--2025-08-09
@@ -335,13 +337,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
 </details>
 
+- [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [Github要屏蔽IP?](https://github.com/jaaleng/jaaleng.github.io/issues/212)--2025-04-13
 - [天上又掉馅饼了](https://github.com/jaaleng/jaaleng.github.io/issues/199)--2025-03-26
 - [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
-- [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 <details><summary>显示更多</summary>
 
+- [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
 - [一件老雨衣](https://github.com/jaaleng/jaaleng.github.io/issues/192)--2025-03-14
 - [Bing](https://github.com/jaaleng/jaaleng.github.io/issues/191)--2025-03-13
 - [US.KG 已恢复运作，请谨慎转移您的重要资产](https://github.com/jaaleng/jaaleng.github.io/issues/175)--2025-02-26
