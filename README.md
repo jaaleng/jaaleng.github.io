@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [彗星莱蒙增亮](https://github.com/jaaleng/jaaleng.github.io/issues/249)--2025-10-04
 - [放置英雄 RPG](https://github.com/jaaleng/jaaleng.github.io/issues/248)--2025-10-04
 - [Epic Games 本周赠送《夜莺传说》](https://github.com/jaaleng/jaaleng.github.io/issues/247)--2025-10-04
 - [涂鸦恶魔：黑暗面](https://github.com/jaaleng/jaaleng.github.io/issues/246)--2025-10-04
 - [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
-- [谷歌宣布安卓开发者认证计划](https://github.com/jaaleng/jaaleng.github.io/issues/244)--2025-09-25
 - [放置英雄 RPG](https://github.com/jaaleng/jaaleng.github.io/issues/248)--2025-10-04
 - [Epic Games 本周赠送《夜莺传说》](https://github.com/jaaleng/jaaleng.github.io/issues/247)--2025-10-04
 - [涂鸦恶魔：黑暗面](https://github.com/jaaleng/jaaleng.github.io/issues/246)--2025-10-04
@@ -241,13 +241,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [巴黎奥运会开幕式，来几个常用m3u直播源](https://github.com/jaaleng/jaaleng.github.io/issues/2)--2024-07-26
 </details>
 
+- [彗星莱蒙增亮](https://github.com/jaaleng/jaaleng.github.io/issues/249)--2025-10-04
 - [国际太空站偶遇土星](https://github.com/jaaleng/jaaleng.github.io/issues/231)--2025-07-26
 - [极环星系NGC 2685](https://github.com/jaaleng/jaaleng.github.io/issues/229)--2025-07-15
 - [有形成中行星的恒星系统](https://github.com/jaaleng/jaaleng.github.io/issues/181)--2025-03-05
 - [确认一颗位于宜居带上的“超级地球”](https://github.com/jaaleng/jaaleng.github.io/issues/164)--2025-02-06
-- [有大撞击坑的小卫星  ](https://github.com/jaaleng/jaaleng.github.io/issues/121)--2025-01-12
 <details><summary>显示更多</summary>
 
+- [有大撞击坑的小卫星  ](https://github.com/jaaleng/jaaleng.github.io/issues/121)--2025-01-12
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [钻石尘天眼](https://github.com/jaaleng/jaaleng.github.io/issues/114)--2024-12-25
 - [NGC 300：恒星的聚落  ](https://github.com/jaaleng/jaaleng.github.io/issues/110)--2024-12-03
