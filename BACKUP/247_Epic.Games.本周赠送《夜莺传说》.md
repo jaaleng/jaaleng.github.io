@@ -5,7 +5,7 @@
 
 🌐Epic Games 本周赠送《夜莺传说》
 
-<!--more-/>
+<!--more-->
 
 ➡️ [领取链接](https://store.epicgames.com/zh-Hant/p/nightingale)
 
