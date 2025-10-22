@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [AtlasOS Windows 魔改版本](https://github.com/jaaleng/jaaleng.github.io/issues/253)--2025-10-22
 - [macOS Tahoe 更新引发 Electron 应用性能问题](https://github.com/jaaleng/jaaleng.github.io/issues/252)--2025-10-17
 - [IC 1396中的不寻常云球](https://github.com/jaaleng/jaaleng.github.io/issues/251)--2025-10-16
 - [今日寒露](https://github.com/jaaleng/jaaleng.github.io/issues/250)--2025-10-08
 - [彗星莱蒙增亮](https://github.com/jaaleng/jaaleng.github.io/issues/249)--2025-10-04
-- [放置英雄 RPG](https://github.com/jaaleng/jaaleng.github.io/issues/248)--2025-10-04
 - [今日寒露](https://github.com/jaaleng/jaaleng.github.io/issues/250)--2025-10-08
 - [放置英雄 RPG](https://github.com/jaaleng/jaaleng.github.io/issues/248)--2025-10-04
 - [Epic Games 本周赠送《夜莺传说》](https://github.com/jaaleng/jaaleng.github.io/issues/247)--2025-10-04
@@ -85,13 +85,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
+- [AtlasOS Windows 魔改版本](https://github.com/jaaleng/jaaleng.github.io/issues/253)--2025-10-22
 - [macOS Tahoe 更新引发 Electron 应用性能问题](https://github.com/jaaleng/jaaleng.github.io/issues/252)--2025-10-17
 - [今日寒露](https://github.com/jaaleng/jaaleng.github.io/issues/250)--2025-10-08
 - [放置英雄 RPG](https://github.com/jaaleng/jaaleng.github.io/issues/248)--2025-10-04
 - [Epic Games 本周赠送《夜莺传说》](https://github.com/jaaleng/jaaleng.github.io/issues/247)--2025-10-04
-- [涂鸦恶魔：黑暗面](https://github.com/jaaleng/jaaleng.github.io/issues/246)--2025-10-04
 <details><summary>显示更多</summary>
 
+- [涂鸦恶魔：黑暗面](https://github.com/jaaleng/jaaleng.github.io/issues/246)--2025-10-04
 - [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
 - [谷歌宣布安卓开发者认证计划](https://github.com/jaaleng/jaaleng.github.io/issues/244)--2025-09-25
 - [蝴蝶盘的行星形成](https://github.com/jaaleng/jaaleng.github.io/issues/242)--2025-09-09
