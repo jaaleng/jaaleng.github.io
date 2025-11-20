@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [Roblox从明年起将要求年龄验证才能聊天](https://github.com/jaaleng/jaaleng.github.io/issues/262)--2025-11-20
 - [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
 - [马斯克计划将 Grokipedia 打造成现代版亚历山大图书馆并送往深空](https://github.com/jaaleng/jaaleng.github.io/issues/259)--2025-11-20
 - [地表最强？Google 正式发布 Gemini 3](https://github.com/jaaleng/jaaleng.github.io/issues/258)--2025-11-20
-- [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 ## 2025
 
 - [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
@@ -94,13 +94,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 一些记录
 
+- [Roblox从明年起将要求年龄验证才能聊天](https://github.com/jaaleng/jaaleng.github.io/issues/262)--2025-11-20
 - [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [地表最强？Google 正式发布 Gemini 3](https://github.com/jaaleng/jaaleng.github.io/issues/258)--2025-11-20
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [索尼对《星鸣特攻复活 Mod 采取版权打击行动](https://github.com/jaaleng/jaaleng.github.io/issues/256)--2025-11-17
-- [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 <details><summary>显示更多</summary>
 
+- [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 - [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
 - [AtlasOS Windows 魔改版本](https://github.com/jaaleng/jaaleng.github.io/issues/253)--2025-10-22
 - [macOS Tahoe 更新引发 Electron 应用性能问题](https://github.com/jaaleng/jaaleng.github.io/issues/252)--2025-10-17
