@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="{{ config.default_language }}">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% set description = page.description | default(value=config.description) %}
+    <meta name="description" content="{{ description }}">
+    <meta name="author" content="{{ config.extra.even_title | default(value=config.title) }}">
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3019832606030521"
+           crossorigin="anonymous"></script>
+    {% block css %}
+        {% set css_path = "css/even.min.css" %}
+        {% set sass = load_data(path=css_path) %}
+        <style>{{ sass | safe }}</style>
+    {% endblock css %}
+
+    {% if config.generate_rss %}
+        <link href="{{ get_url(path=config.feed_filenames[0]) }}" rel="alternate" type="application/rss+xml" title="{{ config.title }}">
+    {% endif %}
+
+    {% include "head.html" %}
+</head>
+<body>
+    <div id="mobile-navbar" class="mobile-navbar">
+        <div class="mobile-header-logo">
+            <a href="{{ config.base_url }}" class="logofont">{{ config.extra.even_title | default(value=config.title) }}</a>
+        </div>
+        <div class="mobile-navbar-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+    <nav id="mobile-menu" class="mobile-menu slideout-menu">
+        {% include "menu.html" %}
+    </nav>
+    <div class="container" id="mobile-panel">
+        <header id="header" class="header">
+            <div class="logo-wrapper">
+                <a href="{{ config.base_url }}" class="logofont">{{ config.extra.even_title | default(value=config.title) }}</a>
+            </div>
+            <nav class="site-navbar">
+                {% include "menu.html" %}
+            </nav>
+        </header>
+
+        <main id="main" class="main">
+            <div class="content-wrapper">
+                <div id="content" class="content">
+                    {% block content %}
+                    {% endblock content %}
+                </div>
+            </div>
+        </main>
+
+        <footer id="footer" class="footer">
+            {% include "footer.html" %}
+        </footer>
+
+        <a id="back-to-top" href="#" class="back-to-top">
+            <i class="iconfont icon-up"></i>
+        </a>
+    </div>
+    
+    {% block js %}
+        {% include "js.html" %}
+    {% endblock js %}
+</body>
+</html>
