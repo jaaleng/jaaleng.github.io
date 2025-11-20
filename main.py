@@ -222,6 +222,45 @@ def add_md_label(repo, md, me):
                 continue
 
             issues = get_issues_from_label(repo, label)
+            # 关键修改：将 issues 列表化并排序，然后检查长度
+            issues = list(sorted(issues, key=lambda x: x.created_at, reverse=True))
+            
+            if len(issues) != 0: # 确保有内容才写标题
+                md.write("## " + label.name + "\n\n") # 写入标题，并添加空行
+            
+            i = 0
+            for issue in issues:
+                if not issue:
+                    continue
+                if is_me(issue, me):
+                    if i == ANCHOR_NUMBER:
+                        md.write("<details><summary>显示更多</summary>\n")
+                        md.write("\n")
+                    add_issue_info(issue, md)
+                    i += 1
+            if i > ANCHOR_NUMBER:
+                md.write("</details>\n")
+                md.write("\n")
+
+    # sort lables by description info if it exists, otherwise sort by name,
+    # for example, we can let the description start with a number (1#Java, 2#Docker, 3#K8s, etc.)
+    labels = sorted(
+        labels,
+        key=lambda x: (
+            x.description is None,
+            x.description == "",
+            x.description,
+            x.name,
+        ),
+    )
+
+    with open(md, "a+", encoding="utf-8") as md:
+        for label in labels:
+            # we don't need add top label again
+            if label.name in IGNORE_LABELS:
+                continue
+
+            issues = get_issues_from_label(repo, label)
             if issues.totalCount:
                 md.write("## " + label.name + "\n")
                 issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
