@@ -25,20 +25,21 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
 - [马斯克计划将 Grokipedia 打造成现代版亚历山大图书馆并送往深空](https://github.com/jaaleng/jaaleng.github.io/issues/259)--2025-11-20
 - [地表最强？Google 正式发布 Gemini 3](https://github.com/jaaleng/jaaleng.github.io/issues/258)--2025-11-20
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [索尼对《星鸣特攻复活 Mod 采取版权打击行动](https://github.com/jaaleng/jaaleng.github.io/issues/256)--2025-11-17
-- [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 ## 2025
 
+- [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
 - [马斯克计划将 Grokipedia 打造成现代版亚历山大图书馆并送往深空](https://github.com/jaaleng/jaaleng.github.io/issues/259)--2025-11-20
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [今日寒露](https://github.com/jaaleng/jaaleng.github.io/issues/250)--2025-10-08
 - [放置英雄 RPG](https://github.com/jaaleng/jaaleng.github.io/issues/248)--2025-10-04
-- [Epic Games 本周赠送《夜莺传说》](https://github.com/jaaleng/jaaleng.github.io/issues/247)--2025-10-04
 <details><summary>显示更多</summary>
 
+- [Epic Games 本周赠送《夜莺传说》](https://github.com/jaaleng/jaaleng.github.io/issues/247)--2025-10-04
 - [涂鸦恶魔：黑暗面](https://github.com/jaaleng/jaaleng.github.io/issues/246)--2025-10-04
 - [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
 - [谷歌宣布安卓开发者认证计划](https://github.com/jaaleng/jaaleng.github.io/issues/244)--2025-09-25
@@ -408,13 +409,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 生活
 
+- [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
 - [基于 AI 的在线人生模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/243)--2025-09-09
 - [年轻人用ChatGPT写简历，人力资源用AI阅读简历](https://github.com/jaaleng/jaaleng.github.io/issues/241)--2025-09-09
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
-- [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
 <details><summary>显示更多</summary>
 
+- [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
 - [记忆重构](https://github.com/jaaleng/jaaleng.github.io/issues/202)--2025-03-29
 - [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
 - [春分](https://github.com/jaaleng/jaaleng.github.io/issues/194)--2025-03-20
