@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
 - [马斯克计划将 Grokipedia 打造成现代版亚历山大图书馆并送往深空](https://github.com/jaaleng/jaaleng.github.io/issues/259)--2025-11-20
 - [地表最强？Google 正式发布 Gemini 3](https://github.com/jaaleng/jaaleng.github.io/issues/258)--2025-11-20
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
-- [索尼对《星鸣特攻复活 Mod 采取版权打击行动](https://github.com/jaaleng/jaaleng.github.io/issues/256)--2025-11-17
 ## 2025
 
 - [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
@@ -94,13 +94,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 一些记录
 
+- [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [地表最强？Google 正式发布 Gemini 3](https://github.com/jaaleng/jaaleng.github.io/issues/258)--2025-11-20
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [索尼对《星鸣特攻复活 Mod 采取版权打击行动](https://github.com/jaaleng/jaaleng.github.io/issues/256)--2025-11-17
 - [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
-- [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
 <details><summary>显示更多</summary>
 
+- [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
 - [AtlasOS Windows 魔改版本](https://github.com/jaaleng/jaaleng.github.io/issues/253)--2025-10-22
 - [macOS Tahoe 更新引发 Electron 应用性能问题](https://github.com/jaaleng/jaaleng.github.io/issues/252)--2025-10-17
 - [今日寒露](https://github.com/jaaleng/jaaleng.github.io/issues/250)--2025-10-08
@@ -287,13 +288,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 正文
 
+- [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 - [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
 - [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
 - [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
-- [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 <details><summary>显示更多</summary>
 
+- [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [三星开始生产2纳米Exynos 2600原型芯片](https://github.com/jaaleng/jaaleng.github.io/issues/225)--2025-06-12
 - [dpdns等免费域名开始注册](https://github.com/jaaleng/jaaleng.github.io/issues/218)--2025-05-06
@@ -386,7 +388,6 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [US.KG 已恢复运作，请谨慎转移您的重要资产](https://github.com/jaaleng/jaaleng.github.io/issues/175)--2025-02-26
 - [圆底的垃圾袋](https://github.com/jaaleng/jaaleng.github.io/issues/174)--2025-02-25
 - [AI永远也代替不了人类。](https://github.com/jaaleng/jaaleng.github.io/issues/165)--2025-02-08
-- [哪吒2总票房破55亿!](https://github.com/jaaleng/jaaleng.github.io/issues/162)--2025-02-05
 - [回忆](https://github.com/jaaleng/jaaleng.github.io/issues/147)--2025-02-02
 - [是，首相  2季全](https://github.com/jaaleng/jaaleng.github.io/issues/137)--2025-01-18
 - [推荐个喜马拉雅有声小说《武夫》](https://github.com/jaaleng/jaaleng.github.io/issues/135)--2025-01-17
@@ -452,13 +453,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 随笔
 
+- [哪吒2总票房破55亿!](https://github.com/jaaleng/jaaleng.github.io/issues/162)--2025-02-05
 - [开源代码有更高的标准、更多的测试，这是让代码不过时的绝佳机制](https://github.com/jaaleng/jaaleng.github.io/issues/129)--2025-01-13
 - [随记](https://github.com/jaaleng/jaaleng.github.io/issues/116)--2025-01-01
 - [不使用炸药](https://github.com/jaaleng/jaaleng.github.io/issues/56)--2024-09-04
 - [生产力是形容机器，不是形容人](https://github.com/jaaleng/jaaleng.github.io/issues/32)--2024-08-12
-- [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 <details><summary>显示更多</summary>
 
+- [楼下的牵牛花](https://github.com/jaaleng/jaaleng.github.io/issues/22)--2024-08-03
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
 </details>
