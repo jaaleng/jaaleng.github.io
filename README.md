@@ -1,544 +1,37 @@
-# -*- coding: utf-8 -*-
-import argparse
-import os
-import re
-
-import markdown
-from feedgen.feed import FeedGenerator
-from github import Github
-from lxml.etree import CDATA
-from marko.ext.gfm import gfm as marko
-
-MD_HEAD = """## [Gitblog](https://yihong0618.github.io/gitblog/)
-My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) using issues and GitHub Actions (随意转载，无需署名)
-[Things I like](https://github.com/yihong0618/gitblog/issues/311)
-![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)
-[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
-"""
-
-BACKUP_DIR = "BACKUP"
-ANCHOR_NUMBER = 5
-TOP_ISSUES_LABELS = ["Top"]
-TODO_ISSUES_LABELS = ["TODO"]
-FRIENDS_LABELS = ["Friends"]
-ABOUT_LABELS = ["About"]
-THINGS_LABELS = ["Things"]
-IGNORE_LABELS = (
-    FRIENDS_LABELS
-    + TOP_ISSUES_LABELS
-    + TODO_ISSUES_LABELS
-    + ABOUT_LABELS
-    + THINGS_LABELS
-)
-
-FRIENDS_TABLE_HEAD = "| Name | Link | Desc | \n | ---- | ---- | ---- |\n"
-FRIENDS_TABLE_TEMPLATE = "| {name} | {link} | {desc} |\n"
-FRIENDS_INFO_DICT = {
-    "名字": "",
-    "链接": "",
-    "描述": "",
-}
-
-
-def get_me(user):
-    return user.get_user().login
-
-
-def is_me(issue, me):
-    return issue.user.login == me
-
-
-def is_hearted_by_me(comment, me):
-    reactions = list(comment.get_reactions())
-    for r in reactions:
-        if r.content == "heart" and r.user.login == me:
-            return True
-    return False
-
-
-def _make_friend_table_string(s):
-    info_dict = FRIENDS_INFO_DICT.copy()
-    try:
-        string_list = s.splitlines()
-        # drop empty line
-        string_list = [l for l in string_list if l and not l.isspace()]
-        for l in string_list:
-            string_info_list = re.split("：", l)
-            if len(string_info_list) < 2:
-                continue
-            info_dict[string_info_list[0]] = string_info_list[1]
-        return FRIENDS_TABLE_TEMPLATE.format(
-            name=info_dict["名字"], link=info_dict["链接"], desc=info_dict["描述"]
-        )
-    except Exception as e:
-        print(str(e))
-        return
-
-
-# help to covert xml vaild string
-def _valid_xml_char_ordinal(c):
-    codepoint = ord(c)
-    # conditions ordered by presumed frequency
-    return (
-        0x20 <= codepoint <= 0xD7FF
-        or codepoint in (0x9, 0xA, 0xD)
-        or 0xE000 <= codepoint <= 0xFFFD
-        or 0x10000 <= codepoint <= 0x10FFFF
-    )
-
-
-def format_time(time):
-    return str(time)[:10]
-
-
-def login(token):
-    return Github(token)
-
-
-def get_repo(user: Github, repo: str):
-    return user.get_repo(repo)
-
-
-def parse_TODO(issue):
-    body = issue.body.splitlines()
-    todo_undone = [l for l in body if l.startswith("- [ ] ")]
-    todo_done = [l for l in body if l.startswith("- [x] ")]
-    # just add info all done
-    if not todo_undone:
-        return f"[{issue.title}]({issue.html_url}) all done", []
-    return (
-        f"[{issue.title}]({issue.html_url})--{len(todo_undone)} jobs to do--{len(todo_done)} jobs done",
-        todo_done + todo_undone,
-    )
-
-
-def get_top_issues(repo):
-    return repo.get_issues(labels=TOP_ISSUES_LABELS)
-
-
-def get_todo_issues(repo):
-    return repo.get_issues(labels=TODO_ISSUES_LABELS)
-
-
-def get_repo_labels(repo):
-    return [l for l in repo.get_labels()]
-
-
-def get_issues_from_label(repo, label):
-    return repo.get_issues(labels=(label,))
-
-
-def add_issue_info(issue, md):
-    time = format_time(issue.created_at)
-    md.write(f"- [{issue.title}]({issue.html_url})--{time}\n")
-
-
-def add_md_todo(repo, md, me):
-    todo_issues = list(get_todo_issues(repo))
-    if not TODO_ISSUES_LABELS or not todo_issues:
-        return
-    with open(md, "a+", encoding="utf-8") as md:
-        md.write("## TODO\n")
-        for issue in todo_issues:
-            if is_me(issue, me):
-                todo_title, todo_list = parse_TODO(issue)
-                md.write("TODO list from " + todo_title + "\n")
-                for t in todo_list:
-                    md.write(t + "\n")
-                # new line
-                md.write("\n")
-
-
-def add_md_top(repo, md, me):
-    top_issues = list(get_top_issues(repo))
-    if not TOP_ISSUES_LABELS or not top_issues:
-        return
-    with open(md, "a+", encoding="utf-8") as md:
-        md.write("## 置顶文章\n")
-        for issue in top_issues:
-            if is_me(issue, me):
-                add_issue_info(issue, md)
-
-
-def add_md_firends(repo, md, me):
-
-    s = FRIENDS_TABLE_HEAD
-    friends_issues = list(repo.get_issues(labels=FRIENDS_LABELS))
-    if not FRIENDS_LABELS or not friends_issues:
-        return
-    friends_issue_number = friends_issues[0].number
-    for issue in friends_issues:
-        for comment in issue.get_comments():
-            if is_hearted_by_me(comment, me):
-                try:
-                    s += _make_friend_table_string(comment.body or "")
-                except Exception as e:
-                    print(str(e))
-                    pass
-    s = markdown.markdown(s, output_format="html", extensions=["extra"])
-    with open(md, "a+", encoding="utf-8") as md:
-        md.write(
-            f"## [友情链接](https://github.com/{str(me)}/gitblog/issues/{friends_issue_number})\n"
-        )
-        md.write("<details><summary>显示</summary>\n")
-        md.write(s)
-        md.write("</details>\n")
-        md.write("\n\n")
-
-
-def add_md_recent(repo, md, me, limit=5):
-    count = 0
-    with open(md, "a+", encoding="utf-8") as md:
-        # one the issue that only one issue and delete (pyGitHub raise an exception)
-        try:
-            md.write("## 最近更新\n")
-            for issue in repo.get_issues(sort="created", direction="desc"):
-                if is_me(issue, me):
-                    add_issue_info(issue, md)
-                    count += 1
-                    if count >= limit:
-                        break
-        except Exception as e:
-            print(str(e))
-
-
-def add_md_header(md, repo_name):
-    with open(md, "w", encoding="utf-8") as md:
-        md.write(MD_HEAD.format(repo_name=repo_name))
-        md.write("\n")
-
-
-def add_md_label(repo, md, me):
-    labels = get_repo_labels(repo)
-
-    # sort lables by description info if it exists, otherwise sort by name,
-    # for example, we can let the description start with a number (1#Java, 2#Docker, 3#K8s, etc.)
-    labels = sorted(
-        labels,
-        key=lambda x: (
-            x.description is None,
-            x.description == "",
-            x.description,
-            x.name,
-        ),
-    )
-
-    with open(md, "a+", encoding="utf-8") as md:
-        for label in labels:
-            # we don't need add top label again
-            if label.name in IGNORE_LABELS:
-                continue
-
-            issues = get_issues_from_label(repo, label)
-            issues = list(sorted(issues, key=lambda x: x.created_at, reverse=True))
-            if len(issues) != 0:
-                md.write("## " + label.name + "\n\n")
-            i = 0
-            for issue in issues:
-                if not issue:
-                    continue
-                if is_mFRIENDS_TABLE_TEMPLATE = "| {name} | {link} | {desc} |\n"
-FRIENDS_INFO_DICT = {
-    "名字": "",
-    "链接": "",
-    "描述": "",
-}
-
-
-def get_me(user):
-    return user.get_user().login
-
-
-def is_me(issue, me):
-    return issue.user.login == me
-
-
-def is_hearted_by_me(comment, me):
-    reactions = list(comment.get_reactions())
-    for r in reactions:
-        if r.content == "heart" and r.user.login == me:
-            return True
-    return False
-
-
-def _make_friend_table_string(s):
-    info_dict = FRIENDS_INFO_DICT.copy()
-    try:
-        string_list = s.splitlines()
-        # drop empty line
-        string_list = [l for l in string_list if l and not l.isspace()]
-        for l in string_list:
-            string_info_list = re.split("：", l)
-            if len(string_info_list) < 2:
-                continue
-            info_dict[string_info_list[0]] = string_info_list[1]
-        return FRIENDS_TABLE_TEMPLATE.format(
-            name=info_dict["名字"], link=info_dict["链接"], desc=info_dict["描述"]
-        )
-    except Exception as e:
-        print(str(e))
-        return
-
-
-# help to covert xml vaild string
-def _valid_xml_char_ordinal(c):
-    codepoint = ord(c)
-    # conditions ordered by presumed frequency
-    return (
-        0x20 <= codepoint <= 0xD7FF
-        or codepoint in (0x9, 0xA, 0xD)
-        or 0xE000 <= codepoint <= 0xFFFD
-        or 0x10000 <= codepoint <= 0x10FFFF
-    )
-
-
-def format_time(time):
-    return str(time)[:10]
-
-
-def login(token):
-    return Github(token)
-
-
-def get_repo(user: Github, repo: str):
-    return user.get_repo(repo)
-
-
-def parse_TODO(issue):
-    body = issue.body.splitlines()
-    todo_undone = [l for l in body if l.startswith("- [ ] ")]
-    todo_done = [l for l in body if l.startswith("- [x] ")]
-    # just add info all done
-    if not todo_undone:
-        return f"[{issue.title}]({issue.html_url}) all done", []
-    return (
-        f"[{issue.title}]({issue.html_url})--{len(todo_undone)} jobs to do--{len(todo_done)} jobs done",
-        todo_done + todo_undone,
-    )
-
-
-def get_top_issues(repo):
-    return repo.get_issues(labels=TOP_ISSUES_LABELS)
-
-
-def get_todo_issues(repo):
-    return repo.get_issues(labels=TODO_ISSUES_LABELS)
-
-
-def get_repo_labels(repo):
-    return [l for l in repo.get_labels()]
-
-
-def get_issues_from_label(repo, label):
-    return repo.get_issues(labels=(label,))
-
-
-def add_issue_info(issue, md):
-    time = format_time(issue.created_at)
-    md.write(f"- [{issue.title}]({issue.html_url})--{time}\n")
-
-
-def add_md_todo(repo, md, me):
-    todo_issues = list(get_todo_issues(repo))
-    if not TODO_ISSUES_LABELS or not todo_issues:
-        return
-    with open(md, "a+", encoding="utf-8") as md:
-        md.write("## TODO\n")
-        for issue in todo_issues:
-            if is_me(issue, me):
-                todo_title, todo_list = parse_TODO(issue)
-                md.write("TODO list from " + todo_title + "\n")
-                for t in todo_list:
-                    md.write(t + "\n")
-                # new line
-                md.write("\n")
-
-
-def add_md_top(repo, md, me):
-    top_issues = list(get_top_issues(repo))
-    if not TOP_ISSUES_LABELS or not top_issues:
-        return
-    with open(md, "a+", encoding="utf-8") as md:
-        md.write("## 置顶文章\n")
-        for issue in top_issues:
-            if is_me(issue, me):
-                add_issue_info(issue, md)
-
-
-def add_md_firends(repo, md, me):
-
-    s = FRIENDS_TABLE_HEAD
-    friends_issues = list(repo.get_issues(labels=FRIENDS_LABELS))
-    if not FRIENDS_LABELS or not friends_issues:
-        return
-    friends_issue_number = friends_issues[0].number
-    for issue in friends_issues:
-        for comment in issue.get_comments():
-            if is_hearted_by_me(comment, me):
-                try:
-                    s += _make_friend_table_string(comment.body or "")
-                except Exception as e:
-                    print(str(e))
-                    pass
-    s = markdown.markdown(s, output_format="html", extensions=["extra"])
-    with open(md, "a+", encoding="utf-8") as md:
-        md.write(
-            f"## [友情链接](https://github.com/{str(me)}/gitblog/issues/{friends_issue_number})\n"
-        )
-        md.write("<details><summary>显示</summary>\n")
-        md.write(s)
-        md.write("</details>\n")
-        md.write("\n\n")
-
-
-def add_md_recent(repo, md, me, limit=5):
-    count = 0
-    with open(md, "a+", encoding="utf-8") as md:
-        # one the issue that only one issue and delete (pyGitHub raise an exception)
-        try:
-            md.write("## 最近更新\n")
-            for issue in repo.get_issues(sort="created", direction="desc"):
-                if is_me(issue, me):
-                    add_issue_info(issue, md)
-                    count += 1
-                    if count >= limit:
-                        break
-        except Exception as e:
-            print(str(e))
-
-
-def add_md_header(md, repo_name):
-    with open(md, "w", encoding="utf-8") as md:
-        md.write(MD_HEAD.format(repo_name=repo_name))
-        md.write("\n")
-
-
-def add_md_label(repo, md, me):
-    labels = get_repo_labels(repo)
-
-    # sort lables by description info if it exists, otherwise sort by name,
-    # for example, we can let the description start with a number (1#Java, 2#Docker, 3#K8s, etc.)
-    labels = sorted(
-        labels,
-        key=lambda x: (
-            x.description is None,
-            x.description == "",
-            x.description,
-            x.name,
-        ),
-    )
-
-    with open(md, "a+", encoding="utf-8") as md:
-        for label in labels:
-            # we don't need add top label again
-            if label.name in IGNORE_LABELS:
-                continue
-
-            issues = get_issues_from_label(repo, label)
-            issues = list(sorted(issues, key=lambda x: x.created_at, reverse=True))
-            if len(issues) != 0:
-                md.write("## " + label.name + "\n\n")
-            i = 0
-            for issue in issues:
-                if not issue:
-                    continue
-                if is_me(issue, me):
-                    if i == ANCHOR_NUMBER:
-                        md.write("<details><summary>显示更多</summary>\n")
-                        md.write("\n")
-                    add_issue_info(issue, md)
-                    i += 1
-            if i > ANCHOR_NUMBER:
-                md.write("</details>\n")
-                md.write("\n")
-
-
-def get_to_generate_issues(repo, dir_name, issue_number=None):
-    md_files = os.listdir(dir_name)
-    generated_issues_numbers = [
-        int(i.split("_")[0]) for i in md_files if i.split("_")[0].isdigit()
-    ]
-    to_generate_issues = [
-        i
-        for i in list(repo.get_issues())
-        if int(i.number) not in generated_issues_numbers
-    ]
-    if issue_number:
-        to_generate_issues.append(repo.get_issue(int(issue_number)))
-    return to_generate_issues
-
-
-def generate_rss_feed(repo, filename, me):
-    generator = FeedGenerator()
-    generator.id(repo.html_url)
-    generator.title(f"RSS feed of {repo.owner.login}'s {repo.name}")
-    generator.author(
-        {"name": os.getenv("GITHUB_NAME"), "email": os.getenv("GITHUB_EMAIL")}
-    )
-    generator.link(href=repo.html_url)
-    generator.link(
-        href=f"https://raw.githubusercontent.com/{repo.full_name}/master/{filename}",
-        rel="self",
-    )
-    for issue in repo.get_issues():
-        if not issue.body or not is_me(issue, me) or issue.pull_request:
-            continue
-        item = generator.add_entry(order="append")
-        item.id(issue.html_url)
-        item.link(href=issue.html_url)
-        item.title(issue.title)
-        item.published(issue.created_at.strftime("%Y-%m-%dT%H:%M:%SZ"))
-        for label in issue.labels:
-            item.category({"term": label.name})
-        body = "".join(c for c in issue.body if _valid_xml_char_ordinal(c))
-        item.content(CDATA(marko.convert(body)), type="html")
-    generator.atom_file(filename)
-
-
-def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
-    user = login(token)
-    me = get_me(user)
-    repo = get_repo(user, repo_name)
-    # add to readme one by one, change order here
-    add_md_header("README.md", repo_name)
-    for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
-        func(repo, "README.md", me)
-
-    generate_rss_feed(repo, "feed.xml", me)
-    to_generate_issues = get_to_generate_issues(repo, dir_name, issue_number)
-
-    # save md files to backup folder
-    for issue in to_generate_issues:
-        save_issue(issue, me, dir_name)
-
-
-def save_issue(issue, me, dir_name=BACKUP_DIR):
-    md_name = os.path.join(
-        dir_name, f"{issue.number}_{issue.title.replace('/', '-').replace(' ', '.')}.md"
-    )
-    with open(md_name, "w") as f:
-        f.write(f"# [{issue.title}]({issue.html_url})\n\n")
-        f.write(issue.body or "")
-        if issue.comments:
-            for c in issue.get_comments():
-                if is_me(c, me):
-                    f.write("\n\n---\n\n")
-                    f.write(c.body or "")
-
-
-if __name__ == "__main__":
-    if not os.path.exists(BACKUP_DIR):
-        os.mkdir(BACKUP_DIR)
-    parser = argparse.ArgumentParser()
-    parser.add_argument("github_token", help="github_token")
-    parser.add_argument("repo_name", help="repo_name")
-    parser.add_argument(
-        "--issue_number", help="issue_number", default=None, required=False
-    )
-    options = parser.parse_args()
-    main(options.github_token, options.repo_name, options.issue_number)
+## [Jaaleng"blog](https://jaaleng.github.io/)
+My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions 
+![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)(随意转载，无需署名)
+
+## [友情链接](https://github.com/jaaleng/gitblog/issues/161)
+<details><summary>显示</summary>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Link</th>
+<th>Desc</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>mymsn</td>
+<td>https://829259.xyz</td>
+<td>做个有意思的人</td>
+</tr>
+</tbody>
+</table></details>
+
+
+## 置顶文章
+- [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
+## 最近更新
+- [地表最强？Google 正式发布 Gemini 3](https://github.com/jaaleng/jaaleng.github.io/issues/258)--2025-11-20
+- [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
+- [索尼对《星鸣特攻复活 Mod 采取版权打击行动](https://github.com/jaaleng/jaaleng.github.io/issues/256)--2025-11-17
+- [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 - [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
-- [AtlasOS Windows 魔改版本](https://github.com/jaaleng/jaaleng.github.io/issues/253)--2025-10-22
+## 2025
+
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [今日寒露](https://github.com/jaaleng/jaaleng.github.io/issues/250)--2025-10-08
 - [放置英雄 RPG](https://github.com/jaaleng/jaaleng.github.io/issues/248)--2025-10-04
@@ -574,6 +67,8 @@ if __name__ == "__main__":
 - [[ DeepSeek 实用集成 ] DeepSeek 官方发布](https://github.com/jaaleng/jaaleng.github.io/issues/167)--2025-02-11
 </details>
 
+## 2024
+
 - [2025年新年快乐.十二月的冬夜](https://github.com/jaaleng/jaaleng.github.io/issues/115)--2024-12-31
 - [NASA 帕克太阳探测器以 380 万英里的距离和太阳擦肩而过](https://github.com/jaaleng/jaaleng.github.io/issues/113)--2024-12-24
 - [GitLab 60天后会将位于 中国, 香港以及澳门 地区的帐号进行自动删号操作](https://github.com/jaaleng/jaaleng.github.io/issues/112)--2024-12-21
@@ -595,13 +90,16 @@ if __name__ == "__main__":
 - [Apple 明确表示 Apple Intelligence 将于 10 月推出](https://github.com/jaaleng/jaaleng.github.io/issues/80)--2024-10-07
 </details>
 
+## 一些记录
+
+- [地表最强？Google 正式发布 Gemini 3](https://github.com/jaaleng/jaaleng.github.io/issues/258)--2025-11-20
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [索尼对《星鸣特攻复活 Mod 采取版权打击行动](https://github.com/jaaleng/jaaleng.github.io/issues/256)--2025-11-17
 - [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 - [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
-- [AtlasOS Windows 魔改版本](https://github.com/jaaleng/jaaleng.github.io/issues/253)--2025-10-22
 <details><summary>显示更多</summary>
 
+- [AtlasOS Windows 魔改版本](https://github.com/jaaleng/jaaleng.github.io/issues/253)--2025-10-22
 - [macOS Tahoe 更新引发 Electron 应用性能问题](https://github.com/jaaleng/jaaleng.github.io/issues/252)--2025-10-17
 - [今日寒露](https://github.com/jaaleng/jaaleng.github.io/issues/250)--2025-10-08
 - [放置英雄 RPG](https://github.com/jaaleng/jaaleng.github.io/issues/248)--2025-10-04
@@ -759,6 +257,8 @@ if __name__ == "__main__":
 - [巴黎奥运会开幕式，来几个常用m3u直播源](https://github.com/jaaleng/jaaleng.github.io/issues/2)--2024-07-26
 </details>
 
+## 天文
+
 - [IC 1396中的不寻常云球](https://github.com/jaaleng/jaaleng.github.io/issues/251)--2025-10-16
 - [彗星莱蒙增亮](https://github.com/jaaleng/jaaleng.github.io/issues/249)--2025-10-04
 - [国际太空站偶遇土星](https://github.com/jaaleng/jaaleng.github.io/issues/231)--2025-07-26
@@ -782,6 +282,8 @@ if __name__ == "__main__":
 - [堰蜓座的暗星云  ](https://github.com/jaaleng/jaaleng.github.io/issues/13)--2024-07-28
 - [月亮临边的土星](https://github.com/jaaleng/jaaleng.github.io/issues/11)--2024-07-27
 </details>
+
+## 正文
 
 - [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 - [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
@@ -865,6 +367,8 @@ if __name__ == "__main__":
 - [一些Emby客户端，Android和iOS](https://github.com/jaaleng/jaaleng.github.io/issues/10)--2024-07-27
 </details>
 
+## 碎碎念
+
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
@@ -899,6 +403,8 @@ if __name__ == "__main__":
 - [莫度他人](https://github.com/jaaleng/jaaleng.github.io/issues/15)--2024-07-28
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/jaaleng/jaaleng.github.io/issues/7)--2024-07-27
 </details>
+
+## 生活
 
 - [基于 AI 的在线人生模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/243)--2025-09-09
 - [年轻人用ChatGPT写简历，人力资源用AI阅读简历](https://github.com/jaaleng/jaaleng.github.io/issues/241)--2025-09-09
@@ -939,6 +445,8 @@ if __name__ == "__main__":
 - [就是这个道理。](https://github.com/jaaleng/jaaleng.github.io/issues/6)--2024-07-27
 - [奥运会圣火在热气球形状的主火炬点燃](https://github.com/jaaleng/jaaleng.github.io/issues/4)--2024-07-27
 </details>
+
+## 随笔
 
 - [开源代码有更高的标准、更多的测试，这是让代码不过时的绝佳机制](https://github.com/jaaleng/jaaleng.github.io/issues/129)--2025-01-13
 - [随记](https://github.com/jaaleng/jaaleng.github.io/issues/116)--2025-01-01
