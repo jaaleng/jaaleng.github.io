@@ -4,7 +4,7 @@ feed_filenames = ["rss.xml"]
 theme = "float"
 taxonomies = [
     {name = "categories", feeds = true},
-    {name = "tags", feed = true},
+    {name = "tags", feeds = true},
 ]
 [extra]
 even_title = "jaaleng's Blog"
