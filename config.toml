@@ -1,8 +1,10 @@
 base_url = "https://jianghaiyina.com/"
-theme = "float"
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+theme = "even"
 taxonomies = [
-    {name = "categories", feeds = true},
-    {name = "tags", feeds = true},
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
 ]
 [extra]
 even_title = "jaaleng's Blog"
