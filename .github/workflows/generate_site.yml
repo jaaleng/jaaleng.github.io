@@ -42,14 +42,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Generate markdown
+      - name: Generate markdown and build Zola site
         run: |
           gh release download $ISITE_VERSION --repo kemingy/isite -p '*Linux_x86_64*' --output isite.tar.gz
           tar zxf isite.tar.gz && mv isite /usr/local/bin
           isite generate --user $USER --repo $REPO
           gh release download $ZOLA_VERSION --repo getzola/zola -p '*linux*' --output zola.tar.gz
           tar zxf zola.tar.gz && mv zola /usr/local/bin
+          
+          # 复制 config.toml 到 Zola 构建目录
           cp config.toml output/config.toml
+          
+          # =======================================================
+          # !!! 新增: 复制 templates 目录到 Zola 构建目录 !!!
+          # 这将确保 Zola 能够找到您自定义的 base.html 和 single.html 模板
+          cp -r templates output/templates
+          # =======================================================
+
           cd output && zola build --base-url $BASE_URL
       - name: Setup Pages
         uses: actions/configure-pages@v4
