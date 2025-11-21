@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [HBO 为《权力的游戏》衍生剧续订了更多季数](https://github.com/jaaleng/jaaleng.github.io/issues/263)--2025-11-21
 - [Roblox从明年起将要求年龄验证才能聊天](https://github.com/jaaleng/jaaleng.github.io/issues/262)--2025-11-20
 - [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
 - [马斯克计划将 Grokipedia 打造成现代版亚历山大图书馆并送往深空](https://github.com/jaaleng/jaaleng.github.io/issues/259)--2025-11-20
-- [地表最强？Google 正式发布 Gemini 3](https://github.com/jaaleng/jaaleng.github.io/issues/258)--2025-11-20
 ## 2025
 
 - [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
@@ -374,13 +374,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 碎碎念
 
+- [HBO 为《权力的游戏》衍生剧续订了更多季数](https://github.com/jaaleng/jaaleng.github.io/issues/263)--2025-11-21
 - [马斯克计划将 Grokipedia 打造成现代版亚历山大图书馆并送往深空](https://github.com/jaaleng/jaaleng.github.io/issues/259)--2025-11-20
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
-- [Github要屏蔽IP?](https://github.com/jaaleng/jaaleng.github.io/issues/212)--2025-04-13
 <details><summary>显示更多</summary>
 
+- [Github要屏蔽IP?](https://github.com/jaaleng/jaaleng.github.io/issues/212)--2025-04-13
 - [天上又掉馅饼了](https://github.com/jaaleng/jaaleng.github.io/issues/199)--2025-03-26
 - [刚看到挺有意思的](https://github.com/jaaleng/jaaleng.github.io/issues/198)--2025-03-26
 - [最近学习了这些](https://github.com/jaaleng/jaaleng.github.io/issues/193)--2025-03-15
