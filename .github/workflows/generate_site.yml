@@ -50,15 +50,13 @@ jobs:
           gh release download $ZOLA_VERSION --repo getzola/zola -p '*linux*' --output zola.tar.gz
           tar zxf zola.tar.gz && mv zola /usr/local/bin
           
-          # 复制 config.toml 到 Zola 构建目录
+          # 1. 复制 config.toml
           cp config.toml output/config.toml
           
-          # =======================================================
-          # !!! 新增: 复制 templates 目录到 Zola 构建目录 !!!
-          # 这将确保 Zola 能够找到您自定义的 base.html 和 single.html 模板
-          cp -r templates output/templates
-          # =======================================================
+          # 2. 核心修复：确保 Zola 找到 templates 目录
+          cp -r templates output/
 
+          # 3. 进入 output 目录并构建网站
           cd output && zola build --base-url $BASE_URL
       - name: Setup Pages
         uses: actions/configure-pages@v4
