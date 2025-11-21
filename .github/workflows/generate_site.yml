@@ -50,24 +50,17 @@ jobs:
           gh release download $ZOLA_VERSION --repo getzola/zola -p '*linux*' --output zola.tar.gz
           tar zxf zola.tar.gz && mv zola /usr/local/bin
           
-          # 新的构建流程：创建干净的 clean_build 目录
-          mkdir clean_build
+          # 1. 复制 config.toml 到 Zola 构建目录
+          cp config.toml output/config.toml
           
-          # 复制必要的配置、模板、静态文件和主题到 clean_build
-          cp config.toml clean_build/
-          cp -r templates clean_build/
-          cp -r static clean_build/
-          cp -r themes clean_build/
+          # 2. 核心修复: 复制 templates 目录 (解决 base.html 继承错误)
+          cp -r templates output/
           
-          # 将 isite 生成的 markdown 内容复制过来 (这是 output 目录唯一需要的内容)
-          cp -r output/* clean_build/
+          # 3. 核心修复: 复制 static 目录 (解决 ads.txt 404 错误)
+          cp -r static output/
 
-          # 进入干净的目录并构建网站
-          cd clean_build && zola build --base-url $BASE_URL
-          
-          # 将最终构建结果 (public) 移回 output 目录供后续 Action 使用
-          mv public ../output
-          
+          # 4. 进入 output 目录并构建网站
+          cd output && zola build --base-url $BASE_URL
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
