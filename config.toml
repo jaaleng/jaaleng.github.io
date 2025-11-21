@@ -3,7 +3,7 @@ generate_feeds = true
 feed_filenames = ["rss.xml"]
 theme = "float"
 taxonomies = [
-    {name = "categories", feed = true},
+    {name = "categories", feeds = true},
     {name = "tags", feed = true},
 ]
 [extra]
