@@ -59,8 +59,8 @@ jobs:
           # 3. 复制 static 目录 (ads.txt 文件)
           cp -r static output/
           
-          # 4. 核心修复: 删除 isite 工具自动克隆的冲突 even 主题文件夹
-          rm -rf output/themes/even
+          # 4. 核心修复: 强力清除 output/themes 目录中的所有冲突主题
+          rm -rf output/themes
           
           # 5. 复制 themes 目录 (加载正确的 float 主题)
           cp -r themes output/
