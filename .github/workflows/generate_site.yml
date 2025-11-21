@@ -59,10 +59,13 @@ jobs:
           # 3. 复制 static 目录 (ads.txt 文件)
           cp -r static output/
           
-          # 4. 核心修复: 复制 themes 目录 (解决 theme.toml 缺失问题)
+          # 4. 核心修复: 删除 isite 工具自动克隆的冲突 even 主题文件夹
+          rm -rf output/themes/even
+          
+          # 5. 复制 themes 目录 (加载正确的 float 主题)
           cp -r themes output/
 
-          # 5. 进入 output 目录并构建网站
+          # 6. 进入 output 目录并构建网站
           cd output && zola build --base-url $BASE_URL
       - name: Setup Pages
         uses: actions/configure-pages@v4
