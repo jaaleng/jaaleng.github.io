@@ -50,16 +50,19 @@ jobs:
           gh release download $ZOLA_VERSION --repo getzola/zola -p '*linux*' --output zola.tar.gz
           tar zxf zola.tar.gz && mv zola /usr/local/bin
           
-          # 1. 复制 config.toml 到 Zola 构建目录
+          # 1. 复制 config.toml
           cp config.toml output/config.toml
           
-          # 2. 核心修复: 复制 templates 目录 (解决 base.html 继承错误)
+          # 2. 复制 templates 目录 (AdSense 覆盖文件)
           cp -r templates output/
-          
-          # 3. 核心修复: 复制 static 目录 (解决 ads.txt 404 错误)
-          cp -r static output/
 
-          # 4. 进入 output 目录并构建网站
+          # 3. 复制 static 目录 (ads.txt 文件)
+          cp -r static output/
+          
+          # 4. 核心修复: 复制 themes 目录 (解决 theme.toml 缺失问题)
+          cp -r themes output/
+
+          # 5. 进入 output 目录并构建网站
           cd output && zola build --base-url $BASE_URL
       - name: Setup Pages
         uses: actions/configure-pages@v4
