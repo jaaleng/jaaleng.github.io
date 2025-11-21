@@ -1,7 +1,7 @@
 base_url = "https://jianghaiyina.com/"
 generate_feeds = true
 feed_filenames = ["rss.xml"]
-theme = "even"
+theme = "float"
 taxonomies = [
     {name = "categories", feed = true},
     {name = "tags", feed = true},
