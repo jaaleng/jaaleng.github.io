@@ -13,5 +13,5 @@ even_menu = [
     {url = "$BASE_URL/tags/top/", name = "Top"},
     {url = "$BASE_URL/tags/", name = "Tags"},
     {url = "$BASE_URL/issue-1/", name = "About"},
-    {url = "$BASE_URL/issue-161/", name = "Friends"},,
+    {url = "$BASE_URL/issue-161/", name = "Friends"},
 ]
