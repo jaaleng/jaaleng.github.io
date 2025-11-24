@@ -41,9 +41,7 @@ jobs:
       ZOLA_VERSION: v0.20.0
       USER: ${{ github.repository_owner }}
       REPO: ${{ github.event.repository.name }}
-      BASE_URL: https://jianghaiyina.com # change to your own domain
-      # Change to below if you are using GitHub Pages
-      # BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+      BASE_URL: https://jianghaiyina.com
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -54,14 +52,20 @@ jobs:
           isite generate --user $USER --repo $REPO
           gh release download $ZOLA_VERSION --repo getzola/zola -p '*x86_64-unknown-linux*' --output zola.tar.gz
           tar zxf zola.tar.gz && mv zola /usr/local/bin
+          
+          # 调试：检查配置文件复制过程
+          echo "=== 复制前的配置文件内容 ==="
+          cat config.toml
           cp config.toml output/config.toml
+          echo "=== 复制后的配置文件内容 ==="
+          cat output/config.toml
+          
           cd output && zola build --base-url $BASE_URL
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload dist repository
           name: pages-artifact
           path: 'output/public'
       - name: Deploy to GitHub Pages
