@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 - [谷歌开发 Android 通用剪贴板功能](https://github.com/jaaleng/jaaleng.github.io/issues/266)--2025-11-24
 - [更新了config.toml文件](https://github.com/jaaleng/jaaleng.github.io/issues/265)--2025-11-23
 - [修复了别人没有的缺陷](https://github.com/jaaleng/jaaleng.github.io/issues/264)--2025-11-21
 - [HBO 为《权力的游戏》衍生剧续订了更多季数](https://github.com/jaaleng/jaaleng.github.io/issues/263)--2025-11-21
-- [Roblox从明年起将要求年龄验证才能聊天](https://github.com/jaaleng/jaaleng.github.io/issues/262)--2025-11-20
 ## 2025
 
 - [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
@@ -94,13 +94,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 一些记录
 
+- [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 - [谷歌开发 Android 通用剪贴板功能](https://github.com/jaaleng/jaaleng.github.io/issues/266)--2025-11-24
 - [更新了config.toml文件](https://github.com/jaaleng/jaaleng.github.io/issues/265)--2025-11-23
 - [修复了别人没有的缺陷](https://github.com/jaaleng/jaaleng.github.io/issues/264)--2025-11-21
 - [Roblox从明年起将要求年龄验证才能聊天](https://github.com/jaaleng/jaaleng.github.io/issues/262)--2025-11-20
-- [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 <details><summary>显示更多</summary>
 
+- [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [地表最强？Google 正式发布 Gemini 3](https://github.com/jaaleng/jaaleng.github.io/issues/258)--2025-11-20
 - [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [索尼对《星鸣特攻复活 Mod 采取版权打击行动](https://github.com/jaaleng/jaaleng.github.io/issues/256)--2025-11-17
@@ -292,13 +293,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 正文
 
+- [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 - [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 - [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
 - [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
-- [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
 <details><summary>显示更多</summary>
 
+- [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
 - [三星开始生产2纳米Exynos 2600原型芯片](https://github.com/jaaleng/jaaleng.github.io/issues/225)--2025-06-12
