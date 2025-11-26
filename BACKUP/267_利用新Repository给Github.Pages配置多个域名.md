@@ -13,8 +13,8 @@
     www.domain1.com
     ```
 2.  前往仓库 Settings -> Pages -> Custom domain，填写 `www.domain1.com` 并保存。
-3. 
-4.  在你的域名注册商（如 GoDaddy, Cloudflare, Namecheap 等）那里，为 `www.domain1.com` 配置 `CNAME` 记录，指向 `<你的github用户名>.github.io`。
+
+3.  在你的域名注册商（如 GoDaddy, Cloudflare, Namecheap 等）那里，为 `www.domain1.com` 配置 `CNAME` 记录，指向 `<你的github用户名>.github.io`。
 现在，`www.domain1.com` 应该可以正常访问你的站点了。
 
 #### 第二步：创建并设置代理仓库
@@ -242,6 +242,8 @@
                         <h1>Connection Error</h1>
                         <p>We couldn't load content from the primary sit```
 
+
+
 ## 使用说明
 
 1. **配置部分**：在代码开头的CONFIG对象中，更新以下值：
@@ -305,13 +307,15 @@
 </body>
 </html>```
 
+
+
+
 ## 简化方案的优点
 
-你现在的方案虽然第一次稍慢，但有以下优势：
-- ✅ 保持URL不变（用户停留在你的自定义域名）
-- ✅ 完整的链接重写功能
-- ✅ 更好的SEO表现（相比简单重定向）
-- ✅ 用户体验更连贯
+现在的方案虽然第一次稍慢，但有以下优势：
+保持URL不变（用户停留在你的自定义域名） 完整的链接重写功能
+ 更好的SEO表现（相比简单重定向）
+ 用户体验更连贯
 
 第一次的加载延迟是正常的，后续访问就会很快了！如果你对当前性能满意，就不需要做任何改动。
 
