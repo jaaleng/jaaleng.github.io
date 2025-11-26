@@ -31,7 +31,7 @@
     在新仓库中，创建一个 `index.html` 文件。这个文件是整个方案的核心。
 
 
-`<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -240,7 +240,7 @@
                     // Show error message
                     document.querySelector('.container').innerHTML = `
                         <h1>Connection Error</h1>
-                        <p>We couldn't load content from the primary sit`
+                        <p>We couldn't load content from the primary sit```
 
 ## 使用说明
 
@@ -264,7 +264,7 @@
 这个页面会无缝地从你的主GitHub Pages站点获取内容，同时保持用户在代理域效果。
 
 这是个简化脚本。
-`<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -303,7 +303,7 @@
         window.location.replace('https://meektion.github.io' + window.location.pathname + window.location.search);
     </script>
 </body>
-</html>`
+</html>```
 
 ## 简化方案的优点
 
@@ -316,4 +316,7 @@
 第一次的加载延迟是正常的，后续访问就会很快了！如果你对当前性能满意，就不需要做任何改动。
 
 其中的网址改成你自己的网站网址。
+
+
+
 
