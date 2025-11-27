@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
 - [旅行者 1 号即将达到距地球一光日的历史性里程碑](https://github.com/jaaleng/jaaleng.github.io/issues/270)--2025-11-27
 - [Claw.Cloud 搭建节点](https://github.com/jaaleng/jaaleng.github.io/issues/269)--2025-11-27
 - [用AI 标注你的时间线](https://github.com/jaaleng/jaaleng.github.io/issues/268)--2025-11-26
-- [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -95,13 +95,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 一些记录
 
+- [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 - [旅行者 1 号即将达到距地球一光日的历史性里程碑](https://github.com/jaaleng/jaaleng.github.io/issues/270)--2025-11-27
 - [Claw.Cloud 搭建节点](https://github.com/jaaleng/jaaleng.github.io/issues/269)--2025-11-27
 - [用AI 标注你的时间线](https://github.com/jaaleng/jaaleng.github.io/issues/268)--2025-11-26
 - [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
-- [谷歌开发 Android 通用剪贴板功能](https://github.com/jaaleng/jaaleng.github.io/issues/266)--2025-11-24
 <details><summary>显示更多</summary>
 
+- [谷歌开发 Android 通用剪贴板功能](https://github.com/jaaleng/jaaleng.github.io/issues/266)--2025-11-24
 - [更新了config.toml文件](https://github.com/jaaleng/jaaleng.github.io/issues/265)--2025-11-23
 - [修复了别人没有的缺陷](https://github.com/jaaleng/jaaleng.github.io/issues/264)--2025-11-21
 - [Roblox从明年起将要求年龄验证才能聊天](https://github.com/jaaleng/jaaleng.github.io/issues/262)--2025-11-20
@@ -297,13 +298,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 正文
 
+- [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 - [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 - [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 - [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
-- [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
 <details><summary>显示更多</summary>
 
+- [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
 - [今日七夕](https://github.com/jaaleng/jaaleng.github.io/issues/237)--2025-08-29
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [凝聚态电池](https://github.com/jaaleng/jaaleng.github.io/issues/228)--2025-07-11
