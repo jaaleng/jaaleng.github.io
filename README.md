@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
 - [书签管理系统](https://github.com/jaaleng/jaaleng.github.io/issues/273)--2025-11-28
 - [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
 - [旅行者 1 号即将达到距地球一光日的历史性里程碑](https://github.com/jaaleng/jaaleng.github.io/issues/270)--2025-11-27
-- [Claw.Cloud 搭建节点](https://github.com/jaaleng/jaaleng.github.io/issues/269)--2025-11-27
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -95,13 +95,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 一些记录
 
+- [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
 - [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 - [旅行者 1 号即将达到距地球一光日的历史性里程碑](https://github.com/jaaleng/jaaleng.github.io/issues/270)--2025-11-27
 - [Claw.Cloud 搭建节点](https://github.com/jaaleng/jaaleng.github.io/issues/269)--2025-11-27
 - [用AI 标注你的时间线](https://github.com/jaaleng/jaaleng.github.io/issues/268)--2025-11-26
-- [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 <details><summary>显示更多</summary>
 
+- [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 - [谷歌开发 Android 通用剪贴板功能](https://github.com/jaaleng/jaaleng.github.io/issues/266)--2025-11-24
 - [更新了config.toml文件](https://github.com/jaaleng/jaaleng.github.io/issues/265)--2025-11-23
 - [修复了别人没有的缺陷](https://github.com/jaaleng/jaaleng.github.io/issues/264)--2025-11-21
@@ -426,13 +427,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 生活
 
+- [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
 - [书签管理系统](https://github.com/jaaleng/jaaleng.github.io/issues/273)--2025-11-28
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
 - [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
 - [基于 AI 的在线人生模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/243)--2025-09-09
-- [年轻人用ChatGPT写简历，人力资源用AI阅读简历](https://github.com/jaaleng/jaaleng.github.io/issues/241)--2025-09-09
 <details><summary>显示更多</summary>
 
+- [年轻人用ChatGPT写简历，人力资源用AI阅读简历](https://github.com/jaaleng/jaaleng.github.io/issues/241)--2025-09-09
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [AI进厨房](https://github.com/jaaleng/jaaleng.github.io/issues/224)--2025-06-05
 - [TimeGrid 时间方格](https://github.com/jaaleng/jaaleng.github.io/issues/216)--2025-05-03
