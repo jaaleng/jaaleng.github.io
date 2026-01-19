@@ -20,7 +20,7 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </tr>
 <tr>
 <td>myogg</td>
-<td>https://134688xyz/</td>
+<td><a href="https://134688xyz/">https://134688.xyz</a></td>
 <td>北方的博客</td>
 </tr>
 </tbody>
