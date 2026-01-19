@@ -25,11 +25,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [传 iPhone 18 Pro 采用屏下 Face ID，灵动岛或移到左上角](https://github.com/jaaleng/jaaleng.github.io/issues/278)--2026-01-19
 - [归鸿](https://github.com/jaaleng/jaaleng.github.io/issues/277)--2026-01-16
 - [请务必试试 HTMX](https://github.com/jaaleng/jaaleng.github.io/issues/276)--2025-12-19
 - [AI听书应用](https://github.com/jaaleng/jaaleng.github.io/issues/275)--2025-12-17
 - [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
-- [书签管理系统](https://github.com/jaaleng/jaaleng.github.io/issues/273)--2025-11-28
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -95,13 +95,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 一些记录
 
+- [传 iPhone 18 Pro 采用屏下 Face ID，灵动岛或移到左上角](https://github.com/jaaleng/jaaleng.github.io/issues/278)--2026-01-19
 - [请务必试试 HTMX](https://github.com/jaaleng/jaaleng.github.io/issues/276)--2025-12-19
 - [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
 - [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 - [旅行者 1 号即将达到距地球一光日的历史性里程碑](https://github.com/jaaleng/jaaleng.github.io/issues/270)--2025-11-27
-- [Claw.Cloud 搭建节点](https://github.com/jaaleng/jaaleng.github.io/issues/269)--2025-11-27
 <details><summary>显示更多</summary>
 
+- [Claw.Cloud 搭建节点](https://github.com/jaaleng/jaaleng.github.io/issues/269)--2025-11-27
 - [用AI 标注你的时间线](https://github.com/jaaleng/jaaleng.github.io/issues/268)--2025-11-26
 - [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 - [谷歌开发 Android 通用剪贴板功能](https://github.com/jaaleng/jaaleng.github.io/issues/266)--2025-11-24
