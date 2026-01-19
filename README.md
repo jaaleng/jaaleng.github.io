@@ -18,6 +18,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 <td>https://829259.xyz</td>
 <td>做个有意思的人</td>
 </tr>
+<tr>
+<td>myogg</td>
+<td>https://134688xyz/</td>
+<td>北方的博客</td>
+</tr>
 </tbody>
 </table></details>
 
