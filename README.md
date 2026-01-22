@@ -30,11 +30,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [苹果商店新春有优惠了](https://github.com/jaaleng/jaaleng.github.io/issues/279)--2026-01-22
 - [传 iPhone 18 Pro 采用屏下 Face ID，灵动岛或移到左上角](https://github.com/jaaleng/jaaleng.github.io/issues/278)--2026-01-19
 - [归鸿](https://github.com/jaaleng/jaaleng.github.io/issues/277)--2026-01-16
 - [请务必试试 HTMX](https://github.com/jaaleng/jaaleng.github.io/issues/276)--2025-12-19
 - [AI听书应用](https://github.com/jaaleng/jaaleng.github.io/issues/275)--2025-12-17
-- [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -434,13 +434,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 生活
 
+- [苹果商店新春有优惠了](https://github.com/jaaleng/jaaleng.github.io/issues/279)--2026-01-22
 - [归鸿](https://github.com/jaaleng/jaaleng.github.io/issues/277)--2026-01-16
 - [AI听书应用](https://github.com/jaaleng/jaaleng.github.io/issues/275)--2025-12-17
 - [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
 - [书签管理系统](https://github.com/jaaleng/jaaleng.github.io/issues/273)--2025-11-28
-- [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
 <details><summary>显示更多</summary>
 
+- [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
 - [Apple预告黑五活动](https://github.com/jaaleng/jaaleng.github.io/issues/260)--2025-11-20
 - [基于 AI 的在线人生模拟器](https://github.com/jaaleng/jaaleng.github.io/issues/243)--2025-09-09
 - [年轻人用ChatGPT写简历，人力资源用AI阅读简历](https://github.com/jaaleng/jaaleng.github.io/issues/241)--2025-09-09
