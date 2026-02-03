@@ -41,7 +41,7 @@ jobs:
       ZOLA_VERSION: v0.20.0
       USER: ${{ github.repository_owner }}
       REPO: ${{ github.event.repository.name }}
-      BASE_URL: https://jianghaiyina.com
+      BASE_URL: https://jaaleng.github.io
     steps:
       - name: Checkout
         uses: actions/checkout@v4
