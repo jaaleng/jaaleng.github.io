@@ -30,11 +30,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [研究发现中药何首乌具有治疗雄激素性脱发的多重潜力](https://github.com/jaaleng/jaaleng.github.io/issues/284)--2026-02-11
 - [今日小年（祭灶节）](https://github.com/jaaleng/jaaleng.github.io/issues/283)--2026-02-10
 - [立春](https://github.com/jaaleng/jaaleng.github.io/issues/282)--2026-02-04
 - [域名到期](https://github.com/jaaleng/jaaleng.github.io/issues/281)--2026-02-03
 - [10 个真正改变工作流的 Claude Skills](https://github.com/jaaleng/jaaleng.github.io/issues/280)--2026-01-22
-- [苹果商店新春有优惠了](https://github.com/jaaleng/jaaleng.github.io/issues/279)--2026-01-22
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -77,6 +77,7 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 2026
 
+- [研究发现中药何首乌具有治疗雄激素性脱发的多重潜力](https://github.com/jaaleng/jaaleng.github.io/issues/284)--2026-02-11
 - [今日小年（祭灶节）](https://github.com/jaaleng/jaaleng.github.io/issues/283)--2026-02-10
 - [立春](https://github.com/jaaleng/jaaleng.github.io/issues/282)--2026-02-04
 - [域名到期](https://github.com/jaaleng/jaaleng.github.io/issues/281)--2026-02-03
@@ -105,13 +106,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 一些记录
 
+- [研究发现中药何首乌具有治疗雄激素性脱发的多重潜力](https://github.com/jaaleng/jaaleng.github.io/issues/284)--2026-02-11
 - [10 个真正改变工作流的 Claude Skills](https://github.com/jaaleng/jaaleng.github.io/issues/280)--2026-01-22
 - [传 iPhone 18 Pro 采用屏下 Face ID，灵动岛或移到左上角](https://github.com/jaaleng/jaaleng.github.io/issues/278)--2026-01-19
 - [请务必试试 HTMX](https://github.com/jaaleng/jaaleng.github.io/issues/276)--2025-12-19
 - [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
-- [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 <details><summary>显示更多</summary>
 
+- [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 - [旅行者 1 号即将达到距地球一光日的历史性里程碑](https://github.com/jaaleng/jaaleng.github.io/issues/270)--2025-11-27
 - [Claw.Cloud 搭建节点](https://github.com/jaaleng/jaaleng.github.io/issues/269)--2025-11-27
 - [用AI 标注你的时间线](https://github.com/jaaleng/jaaleng.github.io/issues/268)--2025-11-26
