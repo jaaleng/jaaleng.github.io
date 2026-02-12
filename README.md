@@ -30,11 +30,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [小米 Xiaomi Tag 追踪器曝光](https://github.com/jaaleng/jaaleng.github.io/issues/285)--2026-02-12
 - [研究发现中药何首乌具有治疗雄激素性脱发的多重潜力](https://github.com/jaaleng/jaaleng.github.io/issues/284)--2026-02-11
 - [今日小年（祭灶节）](https://github.com/jaaleng/jaaleng.github.io/issues/283)--2026-02-10
 - [立春](https://github.com/jaaleng/jaaleng.github.io/issues/282)--2026-02-04
 - [域名到期](https://github.com/jaaleng/jaaleng.github.io/issues/281)--2026-02-03
-- [10 个真正改变工作流的 Claude Skills](https://github.com/jaaleng/jaaleng.github.io/issues/280)--2026-01-22
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -443,13 +443,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 生活
 
+- [小米 Xiaomi Tag 追踪器曝光](https://github.com/jaaleng/jaaleng.github.io/issues/285)--2026-02-12
 - [今日小年（祭灶节）](https://github.com/jaaleng/jaaleng.github.io/issues/283)--2026-02-10
 - [立春](https://github.com/jaaleng/jaaleng.github.io/issues/282)--2026-02-04
 - [苹果商店新春有优惠了](https://github.com/jaaleng/jaaleng.github.io/issues/279)--2026-01-22
 - [归鸿](https://github.com/jaaleng/jaaleng.github.io/issues/277)--2026-01-16
-- [AI听书应用](https://github.com/jaaleng/jaaleng.github.io/issues/275)--2025-12-17
 <details><summary>显示更多</summary>
 
+- [AI听书应用](https://github.com/jaaleng/jaaleng.github.io/issues/275)--2025-12-17
 - [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
 - [书签管理系统](https://github.com/jaaleng/jaaleng.github.io/issues/273)--2025-11-28
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
