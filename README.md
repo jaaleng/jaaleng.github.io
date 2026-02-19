@@ -30,11 +30,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [Gemini 应用集成 Lyria 3 模型，支持 AI 音乐生成功能](https://github.com/jaaleng/jaaleng.github.io/issues/289)--2026-02-19
 - [换一个便宜的域名](https://github.com/jaaleng/jaaleng.github.io/issues/288)--2026-02-17
 - [极客湾曝光手机厂商媒体送测机乱象](https://github.com/jaaleng/jaaleng.github.io/issues/286)--2026-02-17
 - [小米 Xiaomi Tag 追踪器曝光](https://github.com/jaaleng/jaaleng.github.io/issues/285)--2026-02-12
 - [研究发现中药何首乌具有治疗雄激素性脱发的多重潜力](https://github.com/jaaleng/jaaleng.github.io/issues/284)--2026-02-11
-- [今日小年（祭灶节）](https://github.com/jaaleng/jaaleng.github.io/issues/283)--2026-02-10
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -77,13 +77,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 2026
 
+- [Gemini 应用集成 Lyria 3 模型，支持 AI 音乐生成功能](https://github.com/jaaleng/jaaleng.github.io/issues/289)--2026-02-19
 - [换一个便宜的域名](https://github.com/jaaleng/jaaleng.github.io/issues/288)--2026-02-17
 - [极客湾曝光手机厂商媒体送测机乱象](https://github.com/jaaleng/jaaleng.github.io/issues/286)--2026-02-17
 - [研究发现中药何首乌具有治疗雄激素性脱发的多重潜力](https://github.com/jaaleng/jaaleng.github.io/issues/284)--2026-02-11
 - [今日小年（祭灶节）](https://github.com/jaaleng/jaaleng.github.io/issues/283)--2026-02-10
-- [立春](https://github.com/jaaleng/jaaleng.github.io/issues/282)--2026-02-04
 <details><summary>显示更多</summary>
 
+- [立春](https://github.com/jaaleng/jaaleng.github.io/issues/282)--2026-02-04
 - [域名到期](https://github.com/jaaleng/jaaleng.github.io/issues/281)--2026-02-03
 </details>
 
@@ -112,13 +113,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 一些记录
 
+- [Gemini 应用集成 Lyria 3 模型，支持 AI 音乐生成功能](https://github.com/jaaleng/jaaleng.github.io/issues/289)--2026-02-19
 - [极客湾曝光手机厂商媒体送测机乱象](https://github.com/jaaleng/jaaleng.github.io/issues/286)--2026-02-17
 - [研究发现中药何首乌具有治疗雄激素性脱发的多重潜力](https://github.com/jaaleng/jaaleng.github.io/issues/284)--2026-02-11
 - [10 个真正改变工作流的 Claude Skills](https://github.com/jaaleng/jaaleng.github.io/issues/280)--2026-01-22
 - [传 iPhone 18 Pro 采用屏下 Face ID，灵动岛或移到左上角](https://github.com/jaaleng/jaaleng.github.io/issues/278)--2026-01-19
-- [请务必试试 HTMX](https://github.com/jaaleng/jaaleng.github.io/issues/276)--2025-12-19
 <details><summary>显示更多</summary>
 
+- [请务必试试 HTMX](https://github.com/jaaleng/jaaleng.github.io/issues/276)--2025-12-19
 - [人类最糟糕的发明是短视频](https://github.com/jaaleng/jaaleng.github.io/issues/274)--2025-12-11
 - [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 - [旅行者 1 号即将达到距地球一光日的历史性里程碑](https://github.com/jaaleng/jaaleng.github.io/issues/270)--2025-11-27
