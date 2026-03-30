@@ -15,3 +15,6 @@ even_menu = [
     {url = "/issue-1/", name = "About"},
     {url = "/issue-161/", name = "Friends"},
 ]
+[markdown]
+highlight_code = true
+render_emoji = true
