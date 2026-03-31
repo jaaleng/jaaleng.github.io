@@ -30,11 +30,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [axios 维护者账号遭劫持：npm 恶意版本注入远程控制木马](https://github.com/jaaleng/jaaleng.github.io/issues/299)--2026-03-31
 - [今年很忙](https://github.com/jaaleng/jaaleng.github.io/issues/298)--2026-03-30
 - [千问启动 AI 体验活动](https://github.com/jaaleng/jaaleng.github.io/issues/297)--2026-03-30
 - [斯坦福研究：AI聊天机器人爱“捧”用户 正让大家越来越自我](https://github.com/jaaleng/jaaleng.github.io/issues/296)--2026-03-29
 - [Firefox 服务条款披露数据共享细节：浏览记录与唯一标识符或传至谷歌](https://github.com/jaaleng/jaaleng.github.io/issues/295)--2026-03-29
-- [Telegram 投票功能改进和AI文本编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/294)--2026-03-28
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -119,13 +119,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 一些记录
 
+- [axios 维护者账号遭劫持：npm 恶意版本注入远程控制木马](https://github.com/jaaleng/jaaleng.github.io/issues/299)--2026-03-31
 - [今年很忙](https://github.com/jaaleng/jaaleng.github.io/issues/298)--2026-03-30
 - [千问启动 AI 体验活动](https://github.com/jaaleng/jaaleng.github.io/issues/297)--2026-03-30
 - [斯坦福研究：AI聊天机器人爱“捧”用户 正让大家越来越自我](https://github.com/jaaleng/jaaleng.github.io/issues/296)--2026-03-29
 - [Firefox 服务条款披露数据共享细节：浏览记录与唯一标识符或传至谷歌](https://github.com/jaaleng/jaaleng.github.io/issues/295)--2026-03-29
-- [Telegram 投票功能改进和AI文本编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/294)--2026-03-28
 <details><summary>显示更多</summary>
 
+- [Telegram 投票功能改进和AI文本编辑器](https://github.com/jaaleng/jaaleng.github.io/issues/294)--2026-03-28
 - [Yandex 正在分批终止360免费企业邮箱服务](https://github.com/jaaleng/jaaleng.github.io/issues/293)--2026-03-16
 - [微软计划于 2026 年发布模块化、以人工智能为核心的 Windows 12](https://github.com/jaaleng/jaaleng.github.io/issues/292)--2026-03-04
 - [谷歌将于 3 月 9 日停用 Gemini 3 Pro Preview](https://github.com/jaaleng/jaaleng.github.io/issues/291)--2026-02-27
