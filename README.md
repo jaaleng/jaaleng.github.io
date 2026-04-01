@@ -30,11 +30,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [微软更新经典命令提示符，支持渲染内联图形](https://github.com/jaaleng/jaaleng.github.io/issues/300)--2026-04-01
 - [axios 维护者账号遭劫持：npm 恶意版本注入远程控制木马](https://github.com/jaaleng/jaaleng.github.io/issues/299)--2026-03-31
 - [今年很忙](https://github.com/jaaleng/jaaleng.github.io/issues/298)--2026-03-30
 - [千问启动 AI 体验活动](https://github.com/jaaleng/jaaleng.github.io/issues/297)--2026-03-30
 - [斯坦福研究：AI聊天机器人爱“捧”用户 正让大家越来越自我](https://github.com/jaaleng/jaaleng.github.io/issues/296)--2026-03-29
-- [Firefox 服务条款披露数据共享细节：浏览记录与唯一标识符或传至谷歌](https://github.com/jaaleng/jaaleng.github.io/issues/295)--2026-03-29
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -339,13 +339,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 正文
 
+- [微软更新经典命令提示符，支持渲染内联图形](https://github.com/jaaleng/jaaleng.github.io/issues/300)--2026-04-01
 - [域名到期](https://github.com/jaaleng/jaaleng.github.io/issues/281)--2026-02-03
 - [书签管理系统](https://github.com/jaaleng/jaaleng.github.io/issues/273)--2025-11-28
 - [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
 - [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
-- [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 <details><summary>显示更多</summary>
 
+- [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 - [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
 - [Cloudflare 成功抵御创纪录 DDoS 攻击，峰值达 11.5 Tbps](https://github.com/jaaleng/jaaleng.github.io/issues/239)--2025-09-02
