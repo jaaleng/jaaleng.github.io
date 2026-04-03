@@ -30,11 +30,11 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 ## 置顶文章
 - [友情链接](https://github.com/jaaleng/jaaleng.github.io/issues/161)--2025-02-05
 ## 最近更新
+- [Telegram 终于解决了中文搜索的问题](https://github.com/jaaleng/jaaleng.github.io/issues/302)--2026-04-03
+- [Google AI Pro存储空间由2TB增至5TB](https://github.com/jaaleng/jaaleng.github.io/issues/301)--2026-04-02
 - [微软更新经典命令提示符，支持渲染内联图形](https://github.com/jaaleng/jaaleng.github.io/issues/300)--2026-04-01
 - [axios 维护者账号遭劫持：npm 恶意版本注入远程控制木马](https://github.com/jaaleng/jaaleng.github.io/issues/299)--2026-03-31
 - [今年很忙](https://github.com/jaaleng/jaaleng.github.io/issues/298)--2026-03-30
-- [千问启动 AI 体验活动](https://github.com/jaaleng/jaaleng.github.io/issues/297)--2026-03-30
-- [斯坦福研究：AI聊天机器人爱“捧”用户 正让大家越来越自我](https://github.com/jaaleng/jaaleng.github.io/issues/296)--2026-03-29
 ## 2025
 
 - [黑五美国流媒体优惠汇总](https://github.com/jaaleng/jaaleng.github.io/issues/271)--2025-11-27
@@ -339,13 +339,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 正文
 
+- [Telegram 终于解决了中文搜索的问题](https://github.com/jaaleng/jaaleng.github.io/issues/302)--2026-04-03
 - [微软更新经典命令提示符，支持渲染内联图形](https://github.com/jaaleng/jaaleng.github.io/issues/300)--2026-04-01
 - [域名到期](https://github.com/jaaleng/jaaleng.github.io/issues/281)--2026-02-03
 - [书签管理系统](https://github.com/jaaleng/jaaleng.github.io/issues/273)--2025-11-28
 - [OpenAI 报告第三方数据泄漏事件](https://github.com/jaaleng/jaaleng.github.io/issues/272)--2025-11-27
-- [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 <details><summary>显示更多</summary>
 
+- [利用新Repository给Github Pages配置多个域名](https://github.com/jaaleng/jaaleng.github.io/issues/267)--2025-11-26
 - [2FA - 两步验证软件](https://github.com/jaaleng/jaaleng.github.io/issues/261)--2025-11-20
 - [Google 量子计算机实现重大技术突破](https://github.com/jaaleng/jaaleng.github.io/issues/255)--2025-10-23
 - [一次AWS DNS故障如何级联瘫痪半个互联网](https://github.com/jaaleng/jaaleng.github.io/issues/254)--2025-10-22
@@ -429,13 +430,14 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 
 ## 碎碎念
 
+- [Google AI Pro存储空间由2TB增至5TB](https://github.com/jaaleng/jaaleng.github.io/issues/301)--2026-04-02
 - [更新了config.toml文件](https://github.com/jaaleng/jaaleng.github.io/issues/265)--2025-11-23
 - [修复了别人没有的缺陷](https://github.com/jaaleng/jaaleng.github.io/issues/264)--2025-11-21
 - [HBO 为《权力的游戏》衍生剧续订了更多季数](https://github.com/jaaleng/jaaleng.github.io/issues/263)--2025-11-21
 - [马斯克计划将 Grokipedia 打造成现代版亚历山大图书馆并送往深空](https://github.com/jaaleng/jaaleng.github.io/issues/259)--2025-11-20
-- [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 <details><summary>显示更多</summary>
 
+- [哈哈，Cloudflare 又坏了](https://github.com/jaaleng/jaaleng.github.io/issues/257)--2025-11-18
 - [古道尔](https://github.com/jaaleng/jaaleng.github.io/issues/245)--2025-10-04
 - [Steam 开启竞速游戏节促销活动](https://github.com/jaaleng/jaaleng.github.io/issues/233)--2025-07-31
 - [Github要屏蔽IP?](https://github.com/jaaleng/jaaleng.github.io/issues/212)--2025-04-13
